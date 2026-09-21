@@ -2,6 +2,8 @@
 
 **Pokémon Rejuvenation in italiano. Una cartella da copiare, una voce da selezionare, e la storia si legge.**
 
+### 🌐 [giosci1994.github.io/rejuvenation-ita-patch](https://giosci1994.github.io/rejuvenation-ita-patch/)
+
 **🇮🇹 Italiano** · [🇬🇧 English](#english)
 
 Traduzione amatoriale completa di *Pokémon Rejuvenation*: dialoghi, interfaccia, oggetti, mosse, abilità, missioni e Pokédex. Funziona su Windows, Linux, macOS, Android e iOS, perché non tocca il gioco: si appoggia al sistema di traduzione che Rejuvenation ha già dentro.
@@ -152,6 +154,8 @@ Traduzione italiana a cura di [@giosci1994](https://github.com/giosci1994).
 # 🇮🇹 Rejuvenation ITA Patch
 
 **Pokémon Rejuvenation in Italian. Copy one folder, pick one menu entry, and the story reads.**
+
+### 🌐 [giosci1994.github.io/rejuvenation-ita-patch](https://giosci1994.github.io/rejuvenation-ita-patch/)
 
 [🇮🇹 Italiano](#-rejuvenation-ita-patch) · **🇬🇧 English**
 
