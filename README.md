@@ -40,12 +40,14 @@ Ti serve una copia di Pokémon Rejuvenation già installata. Non la trovi qui: s
 
 L'installer cerca il gioco da solo. Se non lo trova te lo chiede, e puoi trascinarci dentro la cartella.
 
-### Qualsiasi sistema, a mano
+### 📱 Android · 🍏 iOS · 🐧 Linux · 🍎 macOS
 
-Estrai lo zip e copia la cartella `patch` dentro la cartella del gioco, quella che contiene `Data` e `Graphics`. Devi ritrovarti con questi tre file:
+Si copia a mano, ed è la stessa identica procedura su tutti e quattro. Estrai lo zip e metti la cartella `patch` dentro la cartella del gioco, quella che contiene `Data` e `Graphics`:
 
 ```
 Rejuvenation/
+├── Data/
+├── Graphics/
 └── patch/
     ├── italiano.dat
     ├── Init/intl.rb
@@ -54,11 +56,15 @@ Rejuvenation/
 
 Se hai già una cartella `patch` con altre mod, uniscila: non serve cancellare nulla.
 
-### Poi, in entrambi i casi
+**Su Android e iOS funziona così anche se sembra strano**, perché il gioco legge i propri file dalla cartella in cui si trova, su telefono come su computer: niente percorsi speciali, niente permessi di root.
+
+L'unica vera difficoltà è capire *dove* sia quella cartella sul telefono. C'è un modo infallibile per riconoscerla: se hai già giocato almeno una volta, **è l'unica che contiene `Data`, `Graphics` e `Save Data` insieme**.
+
+> 📖 Come trovarla con **JoiPlay, Kirin, Empo o RPG Player**, e cosa fare se Android non ti lascia scrivere nella cartella: **[docs/INSTALLAZIONE.md](docs/INSTALLAZIONE.md)**.
+
+### Poi, in tutti i casi
 
 Avvia il gioco e dal menu principale scegli **Language → Italiano**. La voce è in fondo, sotto *Controls*.
-
-> 📱 **Su Android e iOS** la procedura è la stessa: il gioco legge i file dalla propria cartella su telefono come su computer, quindi `patch` va accanto a `Data` e `Graphics`. Come trovare quella cartella con JoiPlay, Kirin, Empo o RPG Player, e cosa fare se Android non ti lascia scrivere, è spiegato in **[docs/INSTALLAZIONE.md](docs/INSTALLAZIONE.md)**.
 
 ---
 
@@ -139,10 +145,12 @@ A complete fan translation of *Pokémon Rejuvenation* into Italian — dialogue,
 You need your own copy of Pokémon Rejuvenation, which is not distributed here.
 
 1. Download `rejuvenation-ita-patch.zip` from the [latest release](https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest)
-2. Extract it, then right-click `installa.ps1` → **Run with PowerShell** (Windows), or copy the `patch` folder into the game folder by hand (any platform)
+2. **On Windows**, extract it and right-click `installa.ps1` → *Run with PowerShell*. **On Android, iOS, Linux and macOS**, extract it and copy the `patch` folder into the game folder — the one holding `Data` and `Graphics`
 3. Launch the game, then **Language → Italiano** in the main menu
 
-Android and iOS work exactly the same way — see **[docs/INSTALLAZIONE.md](docs/INSTALLAZIONE.md)**.
+**Android and iOS need no special path and no root**: the game reads its files from its own folder on phones exactly as it does on desktop. The only tricky part is locating that folder, and there is a foolproof way — once you have played at least once, it is the only one holding `Data`, `Graphics` and `Save Data` together.
+
+Step-by-step instructions for **JoiPlay, Kirin, Empo and RPG Player**, plus what to do when Android refuses to let you write into the folder, are in **[docs/INSTALLAZIONE.md](docs/INSTALLAZIONE.md)** (written in Italian).
 
 To uninstall, pick **English** again, or run `.\installa.ps1 -Rimuovi`. No original game file is ever modified.
 
