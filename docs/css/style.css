@@ -1,0 +1,184 @@
+/* Rejuvenation ITA Patch — palette allineata agli altri progetti */
+
+:root {
+  --bg: #070b0a;
+  --bg-soft: #0b1110;
+  --panel: rgba(255, 255, 255, 0.03);
+  --panel-hover: rgba(255, 255, 255, 0.055);
+  --border: rgba(255, 255, 255, 0.09);
+  --border-hover: rgba(95, 179, 166, 0.35);
+
+  --text: #eef4f2;
+  --muted: #9db3ad;
+  --dim: #64756f;
+
+  --brand: #00b585;
+  --brand-soft: #34d399;
+  --teal: #5fb3a6;
+
+  --gradient: linear-gradient(120deg, var(--brand-soft), var(--teal));
+
+  --radius: 18px;
+  --radius-lg: 24px;
+
+  --font-display: 'Space Grotesk', 'Inter', sans-serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--brand-soft); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container { max-width: 1060px; margin: 0 auto; padding: 0 24px; }
+
+/* --- barra di navigazione ------------------------------------------------ */
+.nav {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(7, 11, 10, 0.82);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--border);
+}
+.nav-inner {
+  max-width: 1060px; margin: 0 auto; padding: 14px 24px;
+  display: flex; align-items: center; justify-content: space-between; gap: 18px;
+}
+.brand {
+  font-family: var(--font-display); font-weight: 700; font-size: 1.02rem;
+  color: var(--text); display: flex; align-items: center; gap: 9px;
+}
+.brand span { color: var(--brand); }
+.nav-links { display: flex; gap: 22px; align-items: center; }
+.nav-links a { color: var(--muted); font-size: .92rem; }
+.nav-links a:hover { color: var(--text); text-decoration: none; }
+
+/* --- pulsanti ------------------------------------------------------------ */
+.btn {
+  display: inline-flex; align-items: center; gap: 9px;
+  padding: 13px 24px; border-radius: 999px;
+  font-weight: 600; font-size: .96rem; font-family: var(--font-sans);
+  border: 1px solid transparent; cursor: pointer; transition: .18s ease;
+}
+.btn:hover { text-decoration: none; transform: translateY(-1px); }
+.btn-primary { background: var(--brand); color: #04120d; }
+.btn-primary:hover { background: var(--brand-soft); }
+.btn-ghost { background: var(--panel); color: var(--text); border-color: var(--border); }
+.btn-ghost:hover { background: var(--panel-hover); border-color: var(--border-hover); }
+
+/* --- sezione di apertura ------------------------------------------------- */
+.hero { padding: 84px 0 56px; text-align: center; position: relative; overflow: hidden; }
+.hero::before {
+  content: ''; position: absolute; inset: -40% 20% auto 20%; height: 520px;
+  background: radial-gradient(closest-side, rgba(0, 181, 133, .16), transparent 70%);
+  pointer-events: none;
+}
+.hero > * { position: relative; }
+.eyebrow {
+  font-family: var(--font-mono); font-size: .76rem; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--brand-soft); margin-bottom: 18px;
+}
+.hero h1 {
+  font-family: var(--font-display); font-weight: 700;
+  font-size: clamp(2.4rem, 6vw, 4rem); line-height: 1.08; margin: 0 0 18px;
+}
+.hero h1 em {
+  font-style: normal;
+  background: var(--gradient); -webkit-background-clip: text;
+  background-clip: text; color: transparent;
+}
+.lead { font-size: clamp(1.02rem, 2vw, 1.18rem); color: var(--muted); max-width: 640px; margin: 0 auto 30px; }
+.actions { display: flex; gap: 13px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px; }
+.hero-shot {
+  width: 100%; max-width: 860px; margin: 0 auto; display: block;
+  border-radius: var(--radius-lg); border: 1px solid var(--border);
+  box-shadow: 0 30px 70px rgba(0, 0, 0, .55);
+}
+
+/* --- numeri in evidenza -------------------------------------------------- */
+.stats {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 14px; margin: 54px 0 12px;
+}
+.stat {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 22px 20px; text-align: center;
+}
+.stat b {
+  display: block; font-family: var(--font-display); font-size: 1.85rem;
+  color: var(--brand-soft); line-height: 1.2;
+}
+.stat span { color: var(--dim); font-size: .87rem; }
+
+/* --- sezioni ------------------------------------------------------------- */
+.section { padding: 62px 0; border-top: 1px solid var(--border); }
+.section h2 {
+  font-family: var(--font-display); font-size: clamp(1.6rem, 3.4vw, 2.1rem);
+  margin: 0 0 12px;
+}
+.section > .container > p.sub { color: var(--muted); margin: 0 0 34px; max-width: 680px; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+.card {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 24px; transition: .18s ease;
+}
+.card:hover { background: var(--panel-hover); border-color: var(--border-hover); }
+.card h3 { font-family: var(--font-display); font-size: 1.05rem; margin: 0 0 8px; }
+.card p { color: var(--muted); margin: 0; font-size: .94rem; }
+.card .ico { font-size: 1.5rem; display: block; margin-bottom: 12px; }
+
+/* --- schermate ----------------------------------------------------------- */
+.shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+.shot { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
+.shot img { width: 100%; display: block; border-radius: 10px; image-rendering: pixelated; }
+.shot figcaption { color: var(--dim); font-size: .85rem; padding: 11px 4px 3px; text-align: center; }
+
+/* --- installazione ------------------------------------------------------- */
+.steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 16px; }
+.step {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 24px;
+}
+.step h3 { font-family: var(--font-display); font-size: 1.02rem; margin: 0 0 14px; }
+.step ol { margin: 0; padding-left: 20px; color: var(--muted); font-size: .93rem; }
+.step ol li { margin-bottom: 9px; }
+.step ol li:last-child { margin-bottom: 0; }
+
+code {
+  font-family: var(--font-mono); font-size: .86em;
+  background: rgba(0, 181, 133, .1); color: var(--brand-soft);
+  padding: 2px 7px; border-radius: 6px;
+}
+pre {
+  background: var(--bg-soft); border: 1px solid var(--border);
+  border-radius: 12px; padding: 16px 18px; overflow-x: auto; margin: 16px 0 0;
+}
+pre code { background: none; color: var(--text); padding: 0; font-size: .85rem; }
+
+.nota {
+  margin-top: 26px; padding: 18px 22px;
+  border-left: 3px solid var(--brand); border-radius: 0 12px 12px 0;
+  background: var(--panel); color: var(--muted); font-size: .93rem;
+}
+.nota strong { color: var(--text); }
+
+/* --- piede --------------------------------------------------------------- */
+.footer { border-top: 1px solid var(--border); padding: 46px 0 60px; color: var(--dim); font-size: .88rem; }
+.footer p { margin: 0 0 12px; max-width: 760px; }
+.footer a { color: var(--muted); }
+
+@media (max-width: 720px) {
+  .nav-links a:not(.btn) { display: none; }
+  .hero { padding: 54px 0 40px; }
+}
