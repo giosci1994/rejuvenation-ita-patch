@@ -14,6 +14,10 @@ Traduzione amatoriale completa di *Pokémon Rejuvenation*: dialoghi, interfaccia
   <a href="LICENSE"><img src="https://img.shields.io/badge/strumenti-GPL--3.0-blue" alt="Licenza" /></a>
 </p>
 
+<p align="center">
+  <img src="docs/social-preview.png" width="800" alt="Rejuvenation ITA Patch — il gioco tradotto in italiano" />
+</p>
+
 ---
 
 ## ✨ Cosa trovi tradotto
@@ -25,6 +29,22 @@ Traduzione amatoriale completa di *Pokémon Rejuvenation*: dialoghi, interfaccia
 - 🧩 **135.033 stringhe su 135.033**, il 99,9% del testo del gioco
 
 I nomi dei Pokémon e i nomi propri di persone e luoghi restano invariati, come nelle edizioni italiane ufficiali.
+
+---
+
+## 📸 Schermate
+
+<p align="center">
+  <img src="docs/screenshots/scena_ita.png" width="400" alt="Dialogo di gioco tradotto in italiano" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/menu_iniziale.png" width="400" alt="Menu principale in italiano" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/impostazioni.png" width="400" alt="Schermata delle opzioni tradotta" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/selettore_lingua.png" width="150" alt="Selettore della lingua: English o Italiano" />
+</p>
 
 ---
 
