@@ -1,0 +1,32 @@
+name: Verifica
+
+# La patch NON si puo' compilare qui: costruisci.py legge Data/messages.dat
+# dalla copia del gioco, che non sta nel repository e non deve starci. Quello
+# che si puo' controllare, e che per un repository pubblico conta di piu', e'
+# che non ci finisca dentro materiale del gioco e che la traduzione sia integra.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verifica:
+    name: Contenuto e formato
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Nessun materiale del gioco, traduzione integra
+        run: python strumenti/verifica_repo.py
+
+      - name: Formato Marshal e protezione dei codici
+        run: python strumenti/test_formato.py

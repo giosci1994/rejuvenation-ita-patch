@@ -7,6 +7,7 @@
 Traduzione amatoriale completa di *Pokémon Rejuvenation*: dialoghi, interfaccia, oggetti, mosse, abilità, missioni e Pokédex. Funziona su Windows, Linux, macOS, Android e iOS, perché non tocca il gioco: si appoggia al sistema di traduzione che Rejuvenation ha già dentro.
 
 <p align="center">
+  <a href="https://github.com/giosci1994/rejuvenation-ita-patch/actions/workflows/verifica.yml"><img src="https://github.com/giosci1994/rejuvenation-ita-patch/actions/workflows/verifica.yml/badge.svg" alt="Verifica" /></a>
   <a href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest"><img src="https://img.shields.io/github/v/release/giosci1994/rejuvenation-ita-patch?color=00b585" alt="Release" /></a>
   <img src="https://img.shields.io/github/downloads/giosci1994/rejuvenation-ita-patch/total?color=34d399" alt="Download" />
   <img src="https://img.shields.io/badge/traduzione-99.9%25-00b585" alt="Copertura" />
