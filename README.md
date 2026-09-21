@@ -58,7 +58,7 @@ Se hai già una cartella `patch` con altre mod, uniscila: non serve cancellare n
 
 Avvia il gioco e dal menu principale scegli **Language → Italiano**. La voce è in fondo, sotto *Controls*.
 
-> 📱 **Su Android e iOS** la procedura è identica: stessi tre file, stessi percorsi. La guida dettagliata con le schermate è in **[docs/INSTALLAZIONE.md](docs/INSTALLAZIONE.md)**.
+> 📱 **Su Android e iOS** la procedura è la stessa: il gioco legge i file dalla propria cartella su telefono come su computer, quindi `patch` va accanto a `Data` e `Graphics`. Come trovare quella cartella con JoiPlay, Kirin, Empo o RPG Player, e cosa fare se Android non ti lascia scrivere, è spiegato in **[docs/INSTALLAZIONE.md](docs/INSTALLAZIONE.md)**.
 
 ---
 

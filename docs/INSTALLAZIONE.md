@@ -82,44 +82,88 @@ contiene `Data` e `Graphics`: la raggiungi con **Mostra contenuto pacchetto**.
 
 ---
 
-## 📱 Android
+## 📱 Android e 🍏 iOS
 
-I port Android di Rejuvenation girano su mkxp-z o JoiPlay, cioè lo stesso motore
-della versione PC: **la traduzione funziona esattamente allo stesso modo**.
+### La regola, identica su ogni dispositivo
 
-1. Scarica lo zip sul telefono, o passalo via cavo
-2. Estrailo con un gestore file che sappia farlo (Files di Google, Solid
-   Explorer, ZArchiver: uno vale l'altro)
-3. Trova la cartella del gioco — è **quella che contiene `Data` e `Graphics`**
+Rejuvenation legge i propri file **relativamente alla cartella in cui si trova**,
+su telefono esattamente come su computer. Non esiste quindi un percorso speciale
+per il mobile: la cartella `patch` va messa **accanto a `Data` e `Graphics`**, e
+basta.
 
-   Il percorso cambia da port a port. Guarda in:
-   - `Android/data/<nome del pacchetto>/files/`
-   - `Documents/`, `Download/` o una cartella col nome del gioco nella memoria interna
-   - la cartella che ti ha indicato chi ha pubblicato il port
+Tutta la difficoltà sta nel trovare quella cartella sul telefono, perché dipende
+dal programma con cui fai girare il gioco.
 
-4. Copiaci dentro la cartella `patch`, unendola a quella esistente se c'è
+### Come essere certo di aver trovato la cartella giusta
 
-Il risultato deve essere `.../Data`, `.../Graphics` e `.../patch/italiano.dat`
-allo stesso livello.
+Deve contenere `Data` e `Graphics`. Ma c'è un modo per non sbagliare:
 
-> Se il gestore file non ti fa scrivere in `Android/data`, usa il gestore file di
-> sistema del telefono oppure collega il telefono al computer via USB: le
-> restrizioni di Android alle app di terze parti non valgono per l'uno né per l'altro.
+> 💡 Su telefono Rejuvenation 14.0 gira sempre in **modalità portable**, cioè
+> scrive i salvataggi dentro la propria cartella invece che nel sistema.
+> **Se hai già giocato almeno una volta, nella cartella giusta trovi anche
+> `Save Data`.**
 
----
+Se vedi `Data`, `Graphics` e `Save Data` uno accanto all'altro, sei nel posto
+giusto senza alcun dubbio. È il controllo più affidabile che esista, perché non
+dipende dall'app che usi.
 
-## 🍏 iOS
+### Dove cercarla
 
-Stessa logica. I port iOS distribuiscono i dati del gioco in una cartella
-accessibile dall'app **File**.
+Rejuvenation riconosce quattro modi di girare su mobile: **JoiPlay**, **Kirin**,
+**Empo** e **RPG Player**. In tutti e quattro la cartella del gioco è una normale
+cartella nella memoria del dispositivo, non nascosta dentro l'app.
 
-1. Scarica lo zip e toccalo nell'app File per estrarlo
-2. Apri **Sul mio iPhone** → la cartella dell'app del gioco
-3. Trova la cartella che contiene `Data` e `Graphics`
-4. Copiaci dentro `patch`
+**Con JoiPlay (Android)** — è la cartella che hai scelto tu quando hai estratto il
+gioco e l'hai aggiunto a JoiPlay. Se non ricordi dove sia, il percorso è indicato
+nelle impostazioni di quel gioco dentro JoiPlay. Le posizioni più comuni sono
+`Download/`, `Documents/` o una cartella col nome del gioco nella memoria interna.
 
-Se l'app non compare in **Sul mio iPhone**, il port non espone i suoi file e
-l'installazione va fatta col metodo indicato da chi lo ha pubblicato.
+**Con Kirin, Empo o RPG Player** — questi lettori tengono i giochi in una propria
+cartella, raggiungibile dall'app **File** su iOS e dal gestore file sulla memoria
+interna su Android. Cerca la cartella col nome del gioco e verifica che dentro ci
+siano `Data` e `Graphics`.
+
+### La procedura
+
+1. **Porta lo zip sul dispositivo** — scaricandolo direttamente, via cavo, o con
+   un servizio cloud
+2. **Estrailo.** Su Android va bene qualunque gestore file che sappia farlo
+   (Files di Google, ZArchiver, Solid Explorer); su iOS basta toccare lo zip
+   nell'app **File**
+3. **Copia la cartella `patch`** dentro la cartella del gioco, accanto a `Data`
+
+Se esiste già una cartella `patch` con altre mod, **uniscila** invece di
+sostituirla: non c'è motivo di cancellare nulla.
+
+Il risultato deve essere:
+
+```
+<cartella del gioco>/
+├── Data/
+├── Graphics/
+├── Save Data/          (se hai gia' giocato)
+└── patch/
+    ├── italiano.dat
+    ├── Init/intl.rb
+    └── Mods/intl.rb
+```
+
+### Se Android non ti fa scrivere nella cartella
+
+Da Android 11 in poi il sistema impedisce ai gestori file di terze parti di
+scrivere dentro `Android/data`. Se il gioco sta lì, hai tre strade, in ordine di
+comodità:
+
+1. **Il gestore file di sistema** del telefono (quello preinstallato): le
+   restrizioni non valgono per lui
+2. **Il collegamento USB a un computer**: da PC vedi e scrivi tutto senza limiti
+3. **La funzione di importazione del lettore**, se il programma che usi ne ha una
+
+### Una nota sui salvataggi
+
+Installare o togliere la traduzione **non tocca i salvataggi**: stanno in
+`Save Data`, che questa patch non sfiora nemmeno. Puoi passare da italiano a
+inglese e viceversa a partita in corso, senza perdere nulla.
 
 ---
 
