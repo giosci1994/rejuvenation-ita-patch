@@ -46,6 +46,18 @@ Esempio: "Sei pronto?" diventa "Sei pront\\gg[o|a]?"
 Esempio: "Ti sei alzato tardi." diventa "Ti sei alzat\\gg[o|a] tardi."
 Esempio: "Non sei arrivato primo." diventa "Non sei arrivat\\gg[o|a] prim\\gg[o|a]."
 
+ATTENZIONE, L'ERRORE PIU' FREQUENTE
+In una stessa frase le parole da accordare possono essere PIU' DI UNA, anche \
+lontane dal verbo. Devi marcarle TUTTE, non solo la prima.
+  "sei stato piu' problematico di quanto pensassi"
+  diventa
+  "sei stat\\gg[o|a] piu' problematic\\gg[o|a] di quanto pensassi"
+Si accordano i participi (stato, arrivato, venuto, rimasto) ma anche gli \
+aggettivi riferiti a te (pronto, libero, sicuro, stanco, problematico, solo, \
+bravo, fortunato), ovunque si trovino nella frase.
+Se la frase contiene gia' qualche \\gg[..|..] da una revisione precedente, \
+lasciali dove sono e aggiungi quelli mancanti.
+
 REGOLE ASSOLUTE
 1. Non cambiare NIENT'ALTRO. Nemmeno una virgola, un accento o uno spazio. \
 L'unica modifica ammessa e' inserire \\gg[..|..] al posto della desinenza.
@@ -61,12 +73,18 @@ non si accordano mai. Non toccarli.
 stesso ordine, senza commenti."""
 
 
-def candidate(testo):
-    return bool(CANDIDATE.search(testo)) and "\\gg[" not in testo
-
-
 def al_maschile(testo):
     return GG.sub(lambda m: m.group(1), testo)
+
+
+def candidate(testo):
+    """
+    Il controllo si fa sulla forma al maschile, non sul testo grezzo: cosi' una
+    frase gia' marcata resta candidata e puo' essere completata. Serve perche'
+    il modello, quando in una frase ci sono due parole da accordare, a volte ne
+    prende solo una.
+    """
+    return bool(CANDIDATE.search(al_maschile(testo)))
 
 
 def carica():
@@ -106,11 +124,14 @@ def analizza(testo, meta):
         if resa is None:
             scartate += 1
             continue
-        if "\\gg[" not in resa:
+        if resa == originale or "\\gg[" not in resa:
             invariate += 1
             continue
-        # il controllo che conta: al maschile deve tornare l'originale
-        if al_maschile(resa) != originale:
+        # Il controllo che conta: espandendo al maschile si deve riottenere la
+        # frase di partenza, anch'essa espansa. Il confronto si fa fra le due
+        # forme maschili perche' la frase in ingresso puo' gia' contenere
+        # accordi messi in una passata precedente.
+        if al_maschile(resa) != al_maschile(originale):
             scartate += 1
             continue
         buone.append({"id": ident, "it": resa})
