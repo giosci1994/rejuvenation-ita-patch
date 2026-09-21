@@ -134841,3 +134841,2424 @@
 {"id": "6d9d2de836faf8bd", "it": "E naturalmente, io sarei qui a proteggerti."}
 {"id": "4d4f5bf719739e0c", "it": "REN: Ryland, deve esserci un modo migliore--"}
 {"id": "ebeac91b5dbafb89", "it": "KAREN: Non importa quando, no?"}
+{"id": "e75188713de6e4e4", "it": "Rocciarapida", "sez": "Moves"}
+{"id": "34a75c94cd62a4c5", "it": "Scudo Acido", "sez": "Moves"}
+{"id": "e412049e272a7610", "it": "Acidiluvio Corrosivo", "sez": "Moves"}
+{"id": "53f72cb09c8e4a49", "it": "Acidobomba", "sez": "Moves"}
+{"id": "90927cf89c88afbe", "it": "Acupressione", "sez": "Moves"}
+{"id": "84c4ab61e43037b0", "it": "Aeroassalto", "sez": "Moves"}
+{"id": "9a880d3989b18f69", "it": "Aerocolpo", "sez": "Moves"}
+{"id": "6bb14f8053f94219", "it": "Cortesia", "sez": "Moves"}
+{"id": "6e9857fb4864c530", "it": "Aerasoio", "sez": "Moves"}
+{"id": "bffd69f6b3dee0a2", "it": "Eterelama", "sez": "Moves"}
+{"id": "337700903f4f725b", "it": "Ammaliavoce", "sez": "Moves"}
+{"id": "5d5e1a368dcbc734", "it": "Cambiaposto", "sez": "Moves"}
+{"id": "b2c9d21ae4c43b18", "it": "Colpo d’Ancora", "sez": "Moves"}
+{"id": "ce1bffdf8600c421", "it": "Forzantica", "sez": "Moves"}
+{"id": "c859a4621af319ea", "it": "Acido Malico", "sez": "Moves"}
+{"id": "9d3ef86a5ba95439", "it": "Idrotaglio", "sez": "Moves"}
+{"id": "aba1c87b299825a4", "it": "Acquanello", "sez": "Moves"}
+{"id": "110c20fe56c28ac8", "it": "Idroballetto", "sez": "Moves"}
+{"id": "a5aa0c4c45610f35", "it": "Idrondata", "sez": "Moves"}
+{"id": "2ce632d7184a84ad", "it": "Sberletese", "sez": "Moves"}
+{"id": "594ea6a956729747", "it": "Corazza Cannone", "sez": "Moves"}
+{"id": "279caf7b5becd0d0", "it": "Nebularoma", "sez": "Moves"}
+{"id": "0db809cc66f5a841", "it": "Garanzia", "sez": "Moves"}
+{"id": "ecab813b06ef3879", "it": "Sgomento", "sez": "Moves"}
+{"id": "251ab6219226f1f6", "it": "Schegge Astrali", "sez": "Moves"}
+{"id": "1789c200623551ce", "it": "Comandourto", "sez": "Moves"}
+{"id": "3ed31f9c81693349", "it": "Forzasfera", "sez": "Moves"}
+{"id": "d27dd036a1822af3", "it": "Ruota d’Aura", "sez": "Moves"}
+{"id": "e1eb5a987c058d26", "it": "Raggiaurora", "sez": "Moves"}
+{"id": "1d96b19073bcbab9", "it": "Velaurora", "sez": "Moves"}
+{"id": "01e3382c52513351", "it": "Sganciapesi", "sez": "Moves"}
+{"id": "99647b20fff6a1ed", "it": "Occhioni Teneri", "sez": "Moves"}
+{"id": "29c3bb21fbbaf739", "it": "Fortino", "sez": "Moves"}
+{"id": "baac1915a58d7828", "it": "Mille Fielespine", "sez": "Moves"}
+{"id": "f87b295ec97c8b02", "it": "Attacco Pioggia", "sez": "Moves"}
+{"id": "592d9d7ef932ddb3", "it": "Staffetta", "sez": "Moves"}
+{"id": "ad411494010e9edb", "it": "Cannonbecco", "sez": "Moves"}
+{"id": "1d2e6504cbbbb3ad", "it": "Picchiaduro", "sez": "Moves"}
+{"id": "ebad58be2bfdb137", "it": "Colpo Maestoso", "sez": "Moves"}
+{"id": "19d127e4033bec3c", "it": "Taglio Maestoso", "sez": "Moves"}
+{"id": "37f5442a5f939c0d", "it": "Panciamburo", "sez": "Moves"}
+{"id": "e65ac17c12938b26", "it": "Cediregalo", "sez": "Moves"}
+{"id": "e8c491a237222731", "it": "Lama del Rimorso", "sez": "Moves"}
+{"id": "388f8734e20f5fb3", "it": "Livore", "sez": "Moves"}
+{"id": "effaa11097f4343f", "it": "Incendio", "sez": "Moves"}
+{"id": "6c0c8754e621f194", "it": "Calciardente", "sez": "Moves"}
+{"id": "48c042d6e9f541d9", "it": "Tempesta Boreale", "sez": "Moves"}
+{"id": "f6221a09c1a34f55", "it": "Bora", "sez": "Moves"}
+{"id": "82dd2cdf36f9436d", "it": "Blocco", "sez": "Moves"}
+{"id": "a5c48a631fa6ac8b", "it": "Luna Rossa", "sez": "Moves"}
+{"id": "68de07a0b51b26b9", "it": "Floriscoppio Sfolgorante", "sez": "Moves"}
+{"id": "82d3657a1ce037ac", "it": "Fuocoblu", "sez": "Moves"}
+{"id": "f2934e64a4f01e55", "it": "Schiacciacorpo", "sez": "Moves"}
+{"id": "722a9ead45599736", "it": "Beccoshock", "sez": "Moves"}
+{"id": "7e88611c89f7e271", "it": "Lucesiluro", "sez": "Moves"}
+{"id": "eb6aa33b547f2cb2", "it": "Ossoclava", "sez": "Moves"}
+{"id": "543c28ce6e271d5f", "it": "Ossomerang", "sez": "Moves"}
+{"id": "daa1c354a082ec14", "it": "Ondaboato", "sez": "Moves"}
+{"id": "4dea06b731d23b73", "it": "Ramostoccata", "sez": "Moves"}
+{"id": "41fab891d4033049", "it": "Baldeali", "sez": "Moves"}
+{"id": "60996498901ee7c4", "it": "Vastoimpatto", "sez": "Moves"}
+{"id": "280d3599fbe1222a", "it": "Carica Travolgente", "sez": "Moves"}
+{"id": "1e10605aa9016292", "it": "Breccia", "sez": "Moves"}
+{"id": "9b3ef91ce886c1c1", "it": "Acquadisale", "sez": "Moves"}
+{"id": "9b4611f9ec74bca5", "it": "Vorticolpo", "sez": "Moves"}
+{"id": "2aed3f0214a3faf4", "it": "Coleomorso", "sez": "Moves"}
+{"id": "73ba6692e9d56864", "it": "Granfisico", "sez": "Moves"}
+{"id": "5cb820f38e8ab63d", "it": "Battiterra", "sez": "Moves"}
+{"id": "26f3b0facdf5b37d", "it": "Pugnoscarica", "sez": "Moves"}
+{"id": "ec9823cb2b8fcea0", "it": "Ultima Fiamma", "sez": "Moves"}
+{"id": "2cbb5ea65134ec91", "it": "Egida Ignea", "sez": "Moves"}
+{"id": "ecc4d51e63c30d04", "it": "Fiamminvidia", "sez": "Moves"}
+{"id": "1ad2a4f189b0b87c", "it": "Calmamente", "sez": "Moves"}
+{"id": "09560551d856c2c3", "it": "Camuffamento", "sez": "Moves"}
+{"id": "2cb2d43c3d64ec26", "it": "Incanto", "sez": "Moves"}
+{"id": "2518cbb256e54081", "it": "Super Pikaboom", "sez": "Moves"}
+{"id": "c661ab5be8537cf6", "it": "Lama Milleflutti", "sez": "Moves"}
+{"id": "9bd81a6635306563", "it": "Auguri", "sez": "Moves"}
+{"id": "d4e1aee46cda64f0", "it": "Sottocarica", "sez": "Moves"}
+{"id": "2972f5383e2a05c3", "it": "Raggioscossa", "sez": "Moves"}
+{"id": "ff11f0da0a4cd245", "it": "Schiamazzo", "sez": "Moves"}
+{"id": "5456babf3cd257bf", "it": "Doccia Fredda", "sez": "Moves"}
+{"id": "32f5e40da139ad2f", "it": "Freddura", "sez": "Moves"}
+{"id": "fc20797ae2728ec6", "it": "Insidia", "sez": "Moves"}
+{"id": "3e42cca469397e62", "it": "Clorofillaser", "sez": "Moves"}
+{"id": "f99f61ac38fe10b1", "it": "Ribaltiro", "sez": "Moves"}
+{"id": "d624a3f0eff1ce10", "it": "Tenaglia", "sez": "Moves"}
+{"id": "72596cae8a6ec4d0", "it": "Clamorsquame", "sez": "Moves"}
+{"id": "c4dc65be7be87588", "it": "Dracofonia", "sez": "Moves"}
+{"id": "fa8f360b0eb35e40", "it": "Pulifumo", "sez": "Moves"}
+{"id": "fd8b79fa0c372bab", "it": "Coaching", "sez": "Moves"}
+{"id": "741d840f1fa72199", "it": "Arrotola", "sez": "Moves"}
+{"id": "5f958e636a3ed0ad", "it": "Turboschianto", "sez": "Moves"}
+{"id": "1bafdca62e1023e5", "it": "Cometapugno", "sez": "Moves"}
+{"id": "db2b7b71ccbfb323", "it": "Ritorsione", "sez": "Moves"}
+{"id": "dce2078e2606201b", "it": "Stordiraggio", "sez": "Moves"}
+{"id": "dc288ac13a552783", "it": "Limitazione", "sez": "Moves"}
+{"id": "98ccf9697c815336", "it": "Conversione2", "sez": "Moves"}
+{"id": "34d129e770beae59", "it": "Nucleocastigo", "sez": "Moves"}
+{"id": "bfe11948e94b7dbb", "it": "Spirale Perforante", "sez": "Moves"}
+{"id": "e1835fb7b718757e", "it": "Cosmoforza", "sez": "Moves"}
+{"id": "191f0d086ee3fa8c", "it": "Cotonscudo", "sez": "Moves"}
+{"id": "59d63ef97a012ef0", "it": "Cottonspora", "sez": "Moves"}
+{"id": "35fd03c98201778b", "it": "Cambiocampo", "sez": "Moves"}
+{"id": "38a9befac586ac1e", "it": "Supplica", "sez": "Moves"}
+{"id": "a9eb84b0007e61a4", "it": "Martellata", "sez": "Moves"}
+{"id": "c725a909f165e281", "it": "Truccodifesa", "sez": "Moves"}
+{"id": "f71136c52f97d72c", "it": "Incrocolpo", "sez": "Moves"}
+{"id": "3965dd234dd18bc9", "it": "Velenocroce", "sez": "Moves"}
+{"id": "814d375feb224ded", "it": "Sgranocchio", "sez": "Moves"}
+{"id": "70b82d69b6ca5806", "it": "Tritartigli", "sez": "Moves"}
+{"id": "1183e827f4d6b29a", "it": "Sbriciolmano", "sez": "Moves"}
+{"id": "48bdd0f2729f28e3", "it": "Neropulsar", "sez": "Moves"}
+{"id": "0bc738693074074a", "it": "Vuototetro", "sez": "Moves"}
+{"id": "36104d82cc2e947e", "it": "Braccioteso", "sez": "Moves"}
+{"id": "531a235f2d9e16f3", "it": "Magibrillio", "sez": "Moves"}
+{"id": "e66a90eb6bf37006", "it": "Comandoscudo", "sez": "Moves"}
+{"id": "5e3900b2861aa346", "it": "Ricciolscudo", "sez": "Moves"}
+{"id": "aeade71bf663ef0c", "it": "Scacciabruma", "sez": "Moves"}
+{"id": "b6baeca821e49166", "it": "Destinobbligato", "sez": "Moves"}
+{"id": "b4eebcd1f2135113", "it": "Diamantempesta", "sez": "Moves"}
+{"id": "294caf41828d47b9", "it": "Fossa", "sez": "Moves"}
+{"id": "c71d2020ba15c023", "it": "Artigli Fatali", "sez": "Moves"}
+{"id": "9a7d4e0687b14e2b", "it": "Inibitore", "sez": "Moves"}
+{"id": "c41252cc65172aaf", "it": "Incantavoce", "sez": "Moves"}
+{"id": "559d8e1dda32dde7", "it": "Sub", "sez": "Moves"}
+{"id": "de964752d360b059", "it": "Stordipugno", "sez": "Moves"}
+{"id": "cea7c9a73ee7e2e9", "it": "Ricalco", "sez": "Moves"}
+{"id": "d4a2b678111c40a0", "it": "Obbliderio", "sez": "Moves"}
+{"id": "f7c99a16eedf10b7", "it": "Doppiosmash", "sez": "Moves"}
+{"id": "42b6b228d491904c", "it": "Pugni Corazzati", "sez": "Moves"}
+{"id": "0fa6b9afaa415137", "it": "Doppiocalcio", "sez": "Moves"}
+{"id": "2648d8560b58d908", "it": "Doppiolampo", "sez": "Moves"}
+{"id": "0f69fc1388f76beb", "it": "Doppiasberla", "sez": "Moves"}
+{"id": "6828c464d1f9fa1b", "it": "Doppioteam", "sez": "Moves"}
+{"id": "ed2c337397ea359c", "it": "Sdoppiatore", "sez": "Moves"}
+{"id": "cb248b28fce0991b", "it": "Dragobolide", "sez": "Moves"}
+{"id": "b35fda982d8f978f", "it": "Ascesa del Drago", "sez": "Moves"}
+{"id": "023d8030b6e617c6", "it": "Dragospiro", "sez": "Moves"}
+{"id": "490c8959c9078380", "it": "Grido del Drago", "sez": "Moves"}
+{"id": "9b6680cac3f6c442", "it": "Dragartigli", "sez": "Moves"}
+{"id": "f544197902e510f7", "it": "Dragodanza", "sez": "Moves"}
+{"id": "9078e89a7ed8ef40", "it": "Dragofrecce", "sez": "Moves"}
+{"id": "6c221f53e34423f9", "it": "Dragoenergia", "sez": "Moves"}
+{"id": "0fe637b830191664", "it": "Marteldrago", "sez": "Moves"}
+{"id": "7b426ec0ff44b446", "it": "Dragopulsar", "sez": "Moves"}
+{"id": "10674633fd7eaaea", "it": "Ira di Drago", "sez": "Moves"}
+{"id": "da34b41b2530eec0", "it": "Dragofuria", "sez": "Moves"}
+{"id": "b415acfcd5670a93", "it": "Assorbipugno", "sez": "Moves"}
+{"id": "80f2533138205dcb", "it": "Assorbibacio", "sez": "Moves"}
+{"id": "6fca328e77dbf605", "it": "Mangiasogni", "sez": "Moves"}
+{"id": "b4e442973142aa9a", "it": "Perforbecco", "sez": "Moves"}
+{"id": "96bc133e7dae7fbf", "it": "Giravvita", "sez": "Moves"}
+{"id": "3ac893608b787811", "it": "Tamburattacco", "sez": "Moves"}
+{"id": "e5b82bb32833e593", "it": "Doppiocolpo", "sez": "Moves"}
+{"id": "463f30493b55d4e7", "it": "Doppia Ala", "sez": "Moves"}
+{"id": "9bdf2775528791e5", "it": "Dinamipugno", "sez": "Moves"}
+{"id": "4fe8b7d92a0bb2c0", "it": "Geoforza", "sez": "Moves"}
+{"id": "af6b155f4a00bbef", "it": "Echeggiavoce", "sez": "Moves"}
+{"id": "26e9a4ec5811fa23", "it": "Elettromistero", "sez": "Moves"}
+{"id": "ffe744a050b873ae", "it": "Inquietantesimo", "sez": "Moves"}
+{"id": "e5a6c15746d66173", "it": "Uovobomba", "sez": "Moves"}
+{"id": "826de4c574646dbb", "it": "Campo Elettrico", "sez": "Moves"}
+{"id": "322aac23f46f5275", "it": "Elettrocontagio", "sez": "Moves"}
+{"id": "c663c69b248307c8", "it": "Energisfera", "sez": "Moves"}
+{"id": "136455df2f3c84d6", "it": "Fulmiscatto", "sez": "Moves"}
+{"id": "d461c93cb177b122", "it": "Elettroraggio", "sez": "Moves"}
+{"id": "46014ea585530d0b", "it": "Elettrotela", "sez": "Moves"}
+{"id": "44c1214a05bc5ddf", "it": "Divieto", "sez": "Moves"}
+{"id": "b3b59019355bc304", "it": "Ripeti", "sez": "Moves"}
+{"id": "f4b0ab2a3db078d9", "it": "Rimonta", "sez": "Moves"}
+{"id": "89acd839e38c02d9", "it": "Energipalla", "sez": "Moves"}
+{"id": "b096aedb6b3fd9f7", "it": "Saltamicizia", "sez": "Moves"}
+{"id": "904de5693ec5c169", "it": "Ali d’Aura", "sez": "Moves"}
+{"id": "8f399a4e71f861d1", "it": "Raggio Infinito", "sez": "Moves"}
+{"id": "d39c4d6920597670", "it": "Vastenergia", "sez": "Moves"}
+{"id": "942ffb2fbb13ba5b", "it": "Extrarapido", "sez": "Moves"}
+{"id": "a2b8a0781604bb32", "it": "Facciata", "sez": "Moves"}
+{"id": "2b85f723610d8949", "it": "Vento di Fata", "sez": "Moves"}
+{"id": "40746fc5930f367b", "it": "Bruciapelo", "sez": "Moves"}
+{"id": "dd52096d19637c30", "it": "Falselacrime", "sez": "Moves"}
+{"id": "4a23b944de233046", "it": "Supplicolpo", "sez": "Moves"}
+{"id": "8413cb73b7b93601", "it": "Danzadipiume", "sez": "Moves"}
+{"id": "179f1ea38238ddb7", "it": "Fintoattacco", "sez": "Moves"}
+{"id": "eb9e24b118a74902", "it": "Pungiglione", "sez": "Moves"}
+{"id": "d4b0763f2c1f5397", "it": "Irregolaser", "sez": "Moves"}
+{"id": "bcff8c1055a2961a", "it": "Voldifuoco", "sez": "Moves"}
+{"id": "51841f952c7c14e3", "it": "Furia Ardente", "sez": "Moves"}
+{"id": "0dbe845880d5f6ea", "it": "Alleggerimento", "sez": "Moves"}
+{"id": "fa62750b65a5a5cc", "it": "Azzardo", "sez": "Moves"}
+{"id": "fae94135ae976489", "it": "Rogodenti", "sez": "Moves"}
+{"id": "a93ea742233ad62a", "it": "Frusta di Fuoco", "sez": "Moves"}
+{"id": "beb648c57eb96939", "it": "Fiammapatto", "sez": "Moves"}
+{"id": "669c61b2f0f5bf58", "it": "Fuocopugno", "sez": "Moves"}
+{"id": "6b4a92e284e615e2", "it": "Turbofuoco", "sez": "Moves"}
+{"id": "6dd4ca8764c145a0", "it": "Schermaglia", "sez": "Moves"}
+{"id": "7773358bb69ae860", "it": "Branchiomorso", "sez": "Moves"}
+{"id": "6349bea908fda27e", "it": "Abisso", "sez": "Moves"}
+{"id": "f9b62e12f9a3e55b", "it": "Pirolancio", "sez": "Moves"}
+{"id": "15f01902a057ba88", "it": "Nitrocarica", "sez": "Moves"}
+{"id": "e1a433ba2ba3849e", "it": "Ruotafuoco", "sez": "Moves"}
+{"id": "addd66cf983b9b16", "it": "Fuococarica", "sez": "Moves"}
+{"id": "45c7983b84a66c88", "it": "Cannonflash", "sez": "Moves"}
+{"id": "1e807432703cb573", "it": "Cannonfiore", "sez": "Moves"}
+{"id": "2aeaf0e4b429d97c", "it": "Virata", "sez": "Moves"}
+{"id": "5a00942d5d9bd65d", "it": "Fiordifesa", "sez": "Moves"}
+{"id": "71e7e8e476707322", "it": "Prestigiafiore", "sez": "Moves"}
+{"id": "c03408dde910e389", "it": "Schiacciatuffo", "sez": "Moves"}
+{"id": "797764300b5fdc25", "it": "Focalcolpo", "sez": "Moves"}
+{"id": "d0bcfd1c13d816e9", "it": "Focalenergia", "sez": "Moves"}
+{"id": "7ab4a793c02c6981", "it": "Centripugno", "sez": "Moves"}
+{"id": "468d566ab6bc62f7", "it": "Sonoqui", "sez": "Moves"}
+{"id": "0748c55d4c780e23", "it": "Palmoforza", "sez": "Moves"}
+{"id": "b307e9b31c771fc7", "it": "Preveggenza", "sez": "Moves"}
+{"id": "3b9bde080a55db9c", "it": "Ripicca", "sez": "Moves"}
+{"id": "cc1e0db5295d4cc3", "it": "Elettrogelo", "sez": "Moves"}
+{"id": "382c92c114ed0729", "it": "Liofilizzazione", "sez": "Moves"}
+{"id": "17b1fc234e9b3aa9", "it": "Radicalbero", "sez": "Moves"}
+{"id": "274475fb19f8b69f", "it": "Alitogelido", "sez": "Moves"}
+{"id": "b3b442ae4e2b09d6", "it": "Furia", "sez": "Moves"}
+{"id": "488b26221b322001", "it": "Tagliofuria", "sez": "Moves"}
+{"id": "9014aaf7e18b112c", "it": "Sfuriate", "sez": "Moves"}
+{"id": "9bef822b69da2393", "it": "Incrotuono", "sez": "Moves"}
+{"id": "8d6cbfadcb7b38bc", "it": "Incrofiamma", "sez": "Moves"}
+{"id": "ab37f29d14d14fcb", "it": "Gastroacido", "sez": "Moves"}
+{"id": "347704998c32a77f", "it": "Ingracolpo", "sez": "Moves"}
+{"id": "2379db86dadd5fc6", "it": "Marciainpiù", "sez": "Moves"}
+{"id": "54f3e0c3f7c0a955", "it": "Gigassorbimento", "sez": "Moves"}
+{"id": "200f96374007281b", "it": "Gigaimpatto", "sez": "Moves"}
+{"id": "f550e155bc63c026", "it": "Granmartello", "sez": "Moves"}
+{"id": "58733e388f87a120", "it": "Gigascarica Folgorante", "sez": "Moves"}
+{"id": "2d7e145e3657848b", "it": "Gelamondo", "sez": "Moves"}
+{"id": "cb8d4820389d8381", "it": "Spadoncarica", "sez": "Moves"}
+{"id": "608ca64f7408e921", "it": "Sguardo Feroce", "sez": "Moves"}
+{"id": "bdf07055b85f5950", "it": "Laccioerboso", "sez": "Moves"}
+{"id": "1040b198d4366a2e", "it": "Erbapatto", "sez": "Moves"}
+{"id": "169598b24c4fdc16", "it": "Meloderba", "sez": "Moves"}
+{"id": "874bfce903d33b13", "it": "Erboscivolata", "sez": "Moves"}
+{"id": "811ce4914db86ba0", "it": "Campo Erboso", "sez": "Moves"}
+{"id": "5e394f8c48aeff24", "it": "Forza G", "sez": "Moves"}
+{"id": "03032b10666394ba", "it": "Ruggito", "sez": "Moves"}
+{"id": "79720fd8911d2dff", "it": "Paridifesa", "sez": "Moves"}
+{"id": "1722f526f572abf9", "it": "Barattoscudo", "sez": "Moves"}
+{"id": "a6b03b99971183cc", "it": "Collera del Guardiano", "sez": "Moves"}
+{"id": "1842ef09c4188859", "it": "Sporcolancio", "sez": "Moves"}
+{"id": "c69523bfb2bb7567", "it": "Vortexpalla", "sez": "Moves"}
+{"id": "13d1323ff5788f4c", "it": "Grandine", "sez": "Moves"}
+{"id": "590837bd63465c53", "it": "Martelpugno", "sez": "Moves"}
+{"id": "03805687659a1d27", "it": "Cuccagna", "sez": "Moves"}
+{"id": "f3724f98240e9478", "it": "Pressa d’Acciaio", "sez": "Moves"}
+{"id": "5ea17acb7251e234", "it": "Rafforzatore", "sez": "Moves"}
+{"id": "a51bf593de27dd6e", "it": "Nube", "sez": "Moves"}
+{"id": "c40d6b89014cd11c", "it": "Ricciolata", "sez": "Moves"}
+{"id": "5b084e9502568341", "it": "Zuccata", "sez": "Moves"}
+{"id": "90bb4ebcaa6c04c0", "it": "Bottintesta", "sez": "Moves"}
+{"id": "2565bb1da8a44ea8", "it": "Scontro Frontale", "sez": "Moves"}
+{"id": "e2ff7f75b14183f3", "it": "Rintoccasana", "sez": "Moves"}
+{"id": "93ee5f71e9b74413", "it": "Comandocura", "sez": "Moves"}
+{"id": "a2d7a192d1bf89ab", "it": "Ondasana", "sez": "Moves"}
+{"id": "3c6ca13eb620038d", "it": "Curardore", "sez": "Moves"}
+{"id": "1d164bebc228bc5e", "it": "Cuorestampo", "sez": "Moves"}
+{"id": "80c61a3cd4c8fcca", "it": "Cuorbaratto", "sez": "Moves"}
+{"id": "a3a5962124110d78", "it": "Marchiafuoco", "sez": "Moves"}
+{"id": "acd7ffdb296cd6b8", "it": "Ondacalda", "sez": "Moves"}
+{"id": "24561f7c4f22df24", "it": "Pesobomba", "sez": "Moves"}
+{"id": "1ed81eede438d184", "it": "Altruismo", "sez": "Moves"}
+{"id": "2eb18b6c522d039c", "it": "Sciagura", "sez": "Moves"}
+{"id": "8f25d4b39271dfa0", "it": "Introforza", "sez": "Moves"}
+{"id": "86775b25c0734135", "it": "Forza Equina", "sez": "Moves"}
+{"id": "2ce15e144acdb750", "it": "Calcinvolo", "sez": "Moves"}
+{"id": "b241644f39d911b0", "it": "Unghiaguzze", "sez": "Moves"}
+{"id": "b1eb6fd44fc02755", "it": "Incornata", "sez": "Moves"}
+{"id": "6e14bc6b14750e60", "it": "Perforcorno", "sez": "Moves"}
+{"id": "30ceb7da64b0cba6", "it": "Legnicorno", "sez": "Moves"}
+{"id": "9b979b0f3f65bf04", "it": "Gridodilotta", "sez": "Moves"}
+{"id": "08a7c28a28b9a4ba", "it": "Tifone", "sez": "Moves"}
+{"id": "964472ae62c9960e", "it": "Idrovapore", "sez": "Moves"}
+{"id": "0dfdc82b5b38f49a", "it": "Idrovortice Abissale", "sez": "Moves"}
+{"id": "247f08a4bb2a45f3", "it": "Iper Raggio", "sez": "Moves"}
+{"id": "426aea99a1db1a74", "it": "Ipertrapano", "sez": "Moves"}
+{"id": "34e568eb71a918b7", "it": "Iperzanna", "sez": "Moves"}
+{"id": "fa32923b668d2ec3", "it": "Granvoce", "sez": "Moves"}
+{"id": "9e1be1d438efcde0", "it": "Urtodimensionale", "sez": "Moves"}
+{"id": "83178c4577f7ca30", "it": "Forodimensionale", "sez": "Moves"}
+{"id": "208a6d7afffd5e9d", "it": "Palla Gelo", "sez": "Moves"}
+{"id": "22dab8cf47672226", "it": "Geloraggio", "sez": "Moves"}
+{"id": "9559764fa16f0e46", "it": "Vampagelida", "sez": "Moves"}
+{"id": "7645680ad488d86b", "it": "Gelodenti", "sez": "Moves"}
+{"id": "ea9ea3aec37efedc", "it": "Martelgelo", "sez": "Moves"}
+{"id": "c3085c48a3d120ca", "it": "Gelopugno", "sez": "Moves"}
+{"id": "eeba0b5307ca282d", "it": "Geloscheggia", "sez": "Moves"}
+{"id": "cb07929fcf7b7255", "it": "Vortighiaccio", "sez": "Moves"}
+{"id": "d6a17fa07fff6539", "it": "Scagliagelo", "sez": "Moves"}
+{"id": "3bab8bf0b982db36", "it": "Gelolancia", "sez": "Moves"}
+{"id": "3a55373476526bef", "it": "Ventogelato", "sez": "Moves"}
+{"id": "91ae1f7a7f0ebcc7", "it": "Esclusiva", "sez": "Moves"}
+{"id": "4c721b017e627281", "it": "Bruciatutto", "sez": "Moves"}
+{"id": "e068725cc46043ed", "it": "Corteo Spettrale", "sez": "Moves"}
+{"id": "6a69f7a5a045afa0", "it": "Marchiatura", "sez": "Moves"}
+{"id": "4c2baf5fd37248eb", "it": "Assillo", "sez": "Moves"}
+{"id": "652511a3de956791", "it": "Imposizione", "sez": "Moves"}
+{"id": "88efe56884171ceb", "it": "Pioggiaplasma", "sez": "Moves"}
+{"id": "c947ab9a227c2f90", "it": "Ferroscudo", "sez": "Moves"}
+{"id": "f056c7bbed805fcd", "it": "Metaltestata", "sez": "Moves"}
+{"id": "fb67fc858439845d", "it": "Codacciaio", "sez": "Moves"}
+{"id": "b14a03a503677f80", "it": "Clava di Liane", "sez": "Moves"}
+{"id": "25a2ea03e96815fc", "it": "Morsostretto", "sez": "Moves"}
+{"id": "78dbe25126e09c41", "it": "Pugnojet", "sez": "Moves"}
+{"id": "467c7de61fd927c4", "it": "Calciosalto", "sez": "Moves"}
+{"id": "18432388be048ab2", "it": "Giunglacura", "sez": "Moves"}
+{"id": "dce0121a91472069", "it": "Colpokarate", "sez": "Moves"}
+{"id": "5b4730d490bc4b3c", "it": "Cinèsi", "sez": "Moves"}
+{"id": "6ef1e9b3cf70bf4a", "it": "Privazione", "sez": "Moves"}
+{"id": "d5b019888853e645", "it": "Genufendente", "sez": "Moves"}
+{"id": "569ec2173648cf4e", "it": "Concentrazione", "sez": "Moves"}
+{"id": "61b9819a5d5ed68b", "it": "Sfogarabbia", "sez": "Moves"}
+{"id": "0ebb89199f922204", "it": "Ultimascelta", "sez": "Moves"}
+{"id": "6cb845642a727561", "it": "Omaggio ai KO", "sez": "Moves"}
+{"id": "abe9a85fd983a38b", "it": "Lavasbuffo", "sez": "Moves"}
+{"id": "b1fea1d262365613", "it": "Fendifoglia", "sez": "Moves"}
+{"id": "392f4c18e66e8990", "it": "Verdebufera", "sez": "Moves"}
+{"id": "e8fcc96d24d8429b", "it": "Vorticerba", "sez": "Moves"}
+{"id": "b2756b838e7d9740", "it": "Fogliame", "sez": "Moves"}
+{"id": "63da0041080cc3e3", "it": "Sanguisuga", "sez": "Moves"}
+{"id": "eaf7d94356e7fd39", "it": "Fulmisguardo", "sez": "Moves"}
+{"id": "6b9f49baf4171246", "it": "Goccia Vitale", "sez": "Moves"}
+{"id": "db77ad4604d590f5", "it": "Luce Nefasta", "sez": "Moves"}
+{"id": "0014ab3d1503b2cb", "it": "Idrobreccia", "sez": "Moves"}
+{"id": "9514f4fbe2c1e323", "it": "Localizza", "sez": "Moves"}
+{"id": "b649de01f5be85de", "it": "Demonbacio", "sez": "Moves"}
+{"id": "aaa5e64964b3c9bb", "it": "Calciobasso", "sez": "Moves"}
+{"id": "80fa3d59bd781347", "it": "Fortuncanto", "sez": "Moves"}
+{"id": "0464d5f2e6e62f27", "it": "Fotocollisione", "sez": "Moves"}
+{"id": "10368153be83c475", "it": "Invocaluna", "sez": "Moves"}
+{"id": "81fb06c295e7186d", "it": "Lunardanza", "sez": "Moves"}
+{"id": "4bb65a98e22d3755", "it": "Assalto", "sez": "Moves"}
+{"id": "70f3b11dd21c0a35", "it": "Abbagliante", "sez": "Moves"}
+{"id": "378f5fadde342ea2", "it": "Pugnorapido", "sez": "Moves"}
+{"id": "ffee474689cd6d3f", "it": "Magivelo", "sez": "Moves"}
+{"id": "436eafa52d213aad", "it": "Magipolvere", "sez": "Moves"}
+{"id": "c4a3f7a869a7030b", "it": "Magicozona", "sez": "Moves"}
+{"id": "81724e95d991218a", "it": "Fogliamagica", "sez": "Moves"}
+{"id": "aff4c498dffc434f", "it": "Magmaclisma", "sez": "Moves"}
+{"id": "9c1bde4fbb5e4413", "it": "Bombagnete", "sez": "Moves"}
+{"id": "95da23587290e04d", "it": "Magnetascesa", "sez": "Moves"}
+{"id": "e3dc5b3db8ce25fe", "it": "Controllo Polare", "sez": "Moves"}
+{"id": "53fd0595aa979f81", "it": "Corsa all’Oro", "sez": "Moves"}
+{"id": "3f7203a9eba4f502", "it": "Intossicatena", "sez": "Moves"}
+{"id": "61a278cfd65b4243", "it": "Ribaltappeto", "sez": "Moves"}
+{"id": "7853a5a7c90eff9c", "it": "Spruzzatè", "sez": "Moves"}
+{"id": "f095a4cf6dfda69b", "it": "Precedenza", "sez": "Moves"}
+{"id": "197ced3dcae9dd55", "it": "Malosguardo", "sez": "Moves"}
+{"id": "476d1d8dc9df38e4", "it": "Metalscoppio", "sez": "Moves"}
+{"id": "5b619f003499cea8", "it": "Ferrartigli", "sez": "Moves"}
+{"id": "b8f03bb80f335206", "it": "Ferrostrido", "sez": "Moves"}
+{"id": "3700fe1171b625a4", "it": "Sfolgorassalto", "sez": "Moves"}
+{"id": "d6290d2fbad5862f", "it": "Raggiometeora", "sez": "Moves"}
+{"id": "a34bc3821274f807", "it": "Meteorpugno", "sez": "Moves"}
+{"id": "e6b3ab2c2c6ed038", "it": "Taglio Poderoso", "sez": "Moves"}
+{"id": "a2b2fc80bf4ae10c", "it": "Buonlatte", "sez": "Moves"}
+{"id": "704197b31a175be3", "it": "Sbalorditesta", "sez": "Moves"}
+{"id": "c20f04cd763dfd64", "it": "Leggimente", "sez": "Moves"}
+{"id": "1c5b768c8e72a0a8", "it": "Minimizzato", "sez": "Moves"}
+{"id": "54eacd9b349024e9", "it": "Miracolvista", "sez": "Moves"}
+{"id": "088500bd18b43afd", "it": "Specchiovelo", "sez": "Moves"}
+{"id": "97cd706bb461f52a", "it": "Speculmossa", "sez": "Moves"}
+{"id": "30cb5f0bd6243eb4", "it": "Cristalcolpo", "sez": "Moves"}
+{"id": "661f1a3b3d01dd88", "it": "Foschisfera", "sez": "Moves"}
+{"id": "0316675b2a2c3bf9", "it": "Nebbioscoppio", "sez": "Moves"}
+{"id": "3d8d1643c3138610", "it": "Campo Nebbioso", "sez": "Moves"}
+{"id": "c89a179a097f0bba", "it": "Raggio d’Ombra", "sez": "Moves"}
+{"id": "f61a85a3123ec35d", "it": "Lucelunare", "sez": "Moves"}
+{"id": "80dc2589bed36331", "it": "Mattindoro", "sez": "Moves"}
+{"id": "f053ad18a9a06186", "it": "Glitturbine", "sez": "Moves"}
+{"id": "824ddb0c1bfa69a0", "it": "Soffio d’Iceberg", "sez": "Moves"}
+{"id": "1281a33bceab4cd0", "it": "Pantanobomba", "sez": "Moves"}
+{"id": "087896060fac7e81", "it": "Colpodifango", "sez": "Moves"}
+{"id": "b503009b63005f26", "it": "Fangata", "sez": "Moves"}
+{"id": "e592e97553802968", "it": "Fangosberla", "sez": "Moves"}
+{"id": "dad7549865518f7f", "it": "Fanghiglia", "sez": "Moves"}
+{"id": "89ff4a8f8b7b8b9b", "it": "Multiattacco", "sez": "Moves"}
+{"id": "12116ae63b0a3b1a", "it": "Magifiamma", "sez": "Moves"}
+{"id": "c0033790dffb977b", "it": "Forza Mistica", "sez": "Moves"}
+{"id": "b0c6b5fafaa55e03", "it": "Congiura", "sez": "Moves"}
+{"id": "64bf6e0436be2b3c", "it": "Dononaturale", "sez": "Moves"}
+{"id": "7493c5201df3afdb", "it": "Naturforza", "sez": "Moves"}
+{"id": "d377e42b3706389f", "it": "Pugnospine", "sez": "Moves"}
+{"id": "5930b1e31fe53925", "it": "Urtoscuro", "sez": "Moves"}
+{"id": "595395f9d0ae8288", "it": "Ombra Notturna", "sez": "Moves"}
+{"id": "f29913796de604f6", "it": "Nottesferza", "sez": "Moves"}
+{"id": "c26bfd58900dca70", "it": "Spalle al Muro", "sez": "Moves"}
+{"id": "93a4eb4793b30585", "it": "Urlo", "sez": "Moves"}
+{"id": "a05621177b1e4cd8", "it": "Elettrococcola", "sez": "Moves"}
+{"id": "a93fd06112d0273c", "it": "Ali del Fato", "sez": "Moves"}
+{"id": "8d4fc9a44c23be86", "it": "Sbarramento", "sez": "Moves"}
+{"id": "2f51699e47f825b8", "it": "Octazooka", "sez": "Moves"}
+{"id": "fdebad76d8eb9eaf", "it": "Tentacolock", "sez": "Moves"}
+{"id": "79aecb84322b9e4f", "it": "Segugio", "sez": "Moves"}
+{"id": "0dc028631a924517", "it": "Funestovento", "sez": "Moves"}
+{"id": "c38b81a87a365842", "it": "Alta Cucina", "sez": "Moves"}
+{"id": "fa24871a3a62a32c", "it": "Primopulsar", "sez": "Moves"}
+{"id": "18e54af6e016af36", "it": "Oltraggio", "sez": "Moves"}
+{"id": "19c6f5c0fe2dc72a", "it": "Overdrive", "sez": "Moves"}
+{"id": "01bd06bc69864222", "it": "Malcomune", "sez": "Moves"}
+{"id": "9c7b8211f92e7601", "it": "Caricaparabola", "sez": "Moves"}
+{"id": "35490156615bdc3b", "it": "Monito", "sez": "Moves"}
+{"id": "25cdefe2ac44b4ab", "it": "Giornopaga", "sez": "Moves"}
+{"id": "c186f1cac86d38f7", "it": "Ultimocanto", "sez": "Moves"}
+{"id": "16364b42cd10cb12", "it": "Fiortempesta", "sez": "Moves"}
+{"id": "f6045317215f13e0", "it": "Petalodanza", "sez": "Moves"}
+{"id": "307afffc8616a71d", "it": "Spettrotuffo", "sez": "Moves"}
+{"id": "fd03062965baa073", "it": "Pugni Plasma", "sez": "Moves"}
+{"id": "74d803929e021dab", "it": "Simpatia", "sez": "Moves"}
+{"id": "f671d35dca338805", "it": "Carineria", "sez": "Moves"}
+{"id": "b087befca760e457", "it": "Spennata", "sez": "Moves"}
+{"id": "bf8e2652fc181ffe", "it": "Velenodenti", "sez": "Moves"}
+{"id": "896ea1f3ff034be2", "it": "Velenogas", "sez": "Moves"}
+{"id": "7efc9cf618e66c3c", "it": "Velenpuntura", "sez": "Moves"}
+{"id": "92edf9172926f1c8", "it": "Velenpolvere", "sez": "Moves"}
+{"id": "b44f445909918f93", "it": "Velenospina", "sez": "Moves"}
+{"id": "25b456f8cdcfe464", "it": "Velenocoda", "sez": "Moves"}
+{"id": "1ebeb5c0ca1ebe9f", "it": "Sferapolline", "sez": "Moves"}
+{"id": "26089013d6c3a5c9", "it": "Infestazione", "sez": "Moves"}
+{"id": "0241a607d6feadee", "it": "Balzo", "sez": "Moves"}
+{"id": "0a262d0037a2f65d", "it": "Pulviscoppio", "sez": "Moves"}
+{"id": "0ea35372102739cc", "it": "Polneve", "sez": "Moves"}
+{"id": "9d2c5f71d7a7ce47", "it": "Gemmoforza", "sez": "Moves"}
+{"id": "a92ed89b5f6154b6", "it": "Scambioforza", "sez": "Moves"}
+{"id": "814212cd743d07e3", "it": "Pariattacco", "sez": "Moves"}
+{"id": "042378c7c2965a65", "it": "Barattoforza", "sez": "Moves"}
+{"id": "d41045b41946adb4", "it": "Ingannoforza", "sez": "Moves"}
+{"id": "960d33c72ac288cd", "it": "Tracotanza", "sez": "Moves"}
+{"id": "06a409a28183c8e3", "it": "Vigorcolpo", "sez": "Moves"}
+{"id": "b8d487f29cf67b56", "it": "Crescipugno", "sez": "Moves"}
+{"id": "0c075ed2c70258bf", "it": "Spade Telluriche", "sez": "Moves"}
+{"id": "815ad257a9776000", "it": "Prismalaser", "sez": "Moves"}
+{"id": "3539756e1ebb7664", "it": "Psicamisù", "sez": "Moves"}
+{"id": "0d32f6d2953d4137", "it": "Psichico", "sez": "Moves"}
+{"id": "60e49794452fff05", "it": "Psicozanna", "sez": "Moves"}
+{"id": "4a787bf2fd836547", "it": "Psicorumore", "sez": "Moves"}
+{"id": "8baf092afee3ddbe", "it": "Campo Psichico", "sez": "Moves"}
+{"id": "da9001688e1c3183", "it": "Psicoslancio", "sez": "Moves"}
+{"id": "da9276300cafe90f", "it": "Psicotransfer", "sez": "Moves"}
+{"id": "678966e2f540eb85", "it": "Barrierassalto", "sez": "Moves"}
+{"id": "985c2a908035406e", "it": "Psicobotta", "sez": "Moves"}
+{"id": "81309939a498fa27", "it": "Inseguimento", "sez": "Moves"}
+{"id": "6ad21abc6f2f3022", "it": "Palla Infuocata", "sez": "Moves"}
+{"id": "71e778513fe7ccf5", "it": "Spintone", "sez": "Moves"}
+{"id": "9f5531690661fcd3", "it": "Anticipo", "sez": "Moves"}
+{"id": "c4f3fdf52a2e5b21", "it": "Eledanza", "sez": "Moves"}
+{"id": "cf98038a459840d1", "it": "Pugno Furibondo", "sez": "Moves"}
+{"id": "c1af147da93a01a7", "it": "Polverabbia", "sez": "Moves"}
+{"id": "c70fab5d165d8e43", "it": "Scatenatoro", "sez": "Moves"}
+{"id": "3074d304fb18b620", "it": "Ira Furente", "sez": "Moves"}
+{"id": "3af27e54217e3094", "it": "Pioggiadanza", "sez": "Moves"}
+{"id": "b6c6afc535828d30", "it": "Rapigiro", "sez": "Moves"}
+{"id": "5efb6e16c9e6fbaa", "it": "Conchilama", "sez": "Moves"}
+{"id": "119fcf4b53ff8388", "it": "Ventagliente", "sez": "Moves"}
+{"id": "4addbf16731014ac", "it": "Ripresa", "sez": "Moves"}
+{"id": "192f3563077c1474", "it": "Riflettipo", "sez": "Moves"}
+{"id": "56e3badc4e6c5cc9", "it": "Rinfrescata", "sez": "Moves"}
+{"id": "e14dd6f06edbbd1c", "it": "Cantoantico", "sez": "Moves"}
+{"id": "2a3f9544a2611e13", "it": "Nemesi", "sez": "Moves"}
+{"id": "24f096b221f9534b", "it": "Ritorno", "sez": "Moves"}
+{"id": "f3820fe455b58a23", "it": "Mutadanza", "sez": "Moves"}
+{"id": "9bcbe9f08ece2736", "it": "Contropiede", "sez": "Moves"}
+{"id": "569924967ad76613", "it": "Preghiera Vitale", "sez": "Moves"}
+{"id": "6be951f52114ada9", "it": "Elettroimpennata", "sez": "Moves"}
+{"id": "893f80e0a5d4da70", "it": "Boato", "sez": "Moves"}
+{"id": "41a4e38a59db7f2b", "it": "Fragortempo", "sez": "Moves"}
+{"id": "0b14072214f63b82", "it": "Cadutamassi", "sez": "Moves"}
+{"id": "9e5c72f351ce9613", "it": "Lucidatura", "sez": "Moves"}
+{"id": "96d39df0a1f410ad", "it": "Spaccaroccia", "sez": "Moves"}
+{"id": "32281f30979e6a2c", "it": "Sassata", "sez": "Moves"}
+{"id": "a18ad0d3e2f72826", "it": "Rocciotomba", "sez": "Moves"}
+{"id": "3e6d8d86bd07d181", "it": "Devastomasso", "sez": "Moves"}
+{"id": "8f767ebaa325cb1c", "it": "Giocodiruolo", "sez": "Moves"}
+{"id": "67ca8d897038c940", "it": "Calciorullo", "sez": "Moves"}
+{"id": "ebaaf0ba344b596e", "it": "Trespolo", "sez": "Moves"}
+{"id": "1ca57a2a8b76fba3", "it": "Aracampo", "sez": "Moves"}
+{"id": "ec7b59833520bb2b", "it": "Coro", "sez": "Moves"}
+{"id": "a089052737464643", "it": "Catastrofe", "sez": "Moves"}
+{"id": "401ffbb7dbc39c83", "it": "Magifuoco", "sez": "Moves"}
+{"id": "6ac072a9d6edbd21", "it": "Spadasolenne", "sez": "Moves"}
+{"id": "6f228a6e3f9313df", "it": "Sotto Sale", "sez": "Moves"}
+{"id": "21f4973e286ea853", "it": "Turbosabbia", "sez": "Moves"}
+{"id": "3ca03a1c1ddc6c22", "it": "Sabbiotomba", "sez": "Moves"}
+{"id": "593b70c92689a7da", "it": "Tempesta Ardente", "sez": "Moves"}
+{"id": "d8bacad21e7cfb92", "it": "Terrempesta", "sez": "Moves"}
+{"id": "7b706c3479a030bf", "it": "Bozzolo Fatale", "sez": "Moves"}
+{"id": "8e15f25bb255f785", "it": "Idrovampata", "sez": "Moves"}
+{"id": "5494d48f4f00158a", "it": "Squamacolpo", "sez": "Moves"}
+{"id": "f459f2a2f9a46634", "it": "Visotruce", "sez": "Moves"}
+{"id": "c7065c2bb9cdf9fb", "it": "Sabbiardente", "sez": "Moves"}
+{"id": "765ef9861bec45c8", "it": "Sparafuoco", "sez": "Moves"}
+{"id": "d92321bae693b37b", "it": "Forzasegreta", "sez": "Moves"}
+{"id": "5d543e46c4679b06", "it": "Spadamistica", "sez": "Moves"}
+{"id": "a7019f638f19f902", "it": "Infuriaseme", "sez": "Moves"}
+{"id": "db402e2d84b44bef", "it": "Movim. Sismico", "sez": "Moves"}
+{"id": "d751d817e848de50", "it": "Ombrolame", "sez": "Moves"}
+{"id": "d1144fb266bae0ae", "it": "Ombrattacco", "sez": "Moves"}
+{"id": "a320e7ded5ac9ea0", "it": "Fulminombra", "sez": "Moves"}
+{"id": "4c0eb058f5dce8ef", "it": "Ossotetro", "sez": "Moves"}
+{"id": "290f5e0c5b26af06", "it": "Ombrospinta", "sez": "Moves"}
+{"id": "3594b405040c274b", "it": "Gelodombra", "sez": "Moves"}
+{"id": "1ad6b697a2050545", "it": "Ombrartigli", "sez": "Moves"}
+{"id": "99fd45c2aa3801d6", "it": "Declinoscuro", "sez": "Moves"}
+{"id": "2088fca03ac2bc23", "it": "Fineoscuro", "sez": "Moves"}
+{"id": "68640164c247c510", "it": "Fuocoscuro", "sez": "Moves"}
+{"id": "b3d2cf37f53940e6", "it": "Oscurotuffo", "sez": "Moves"}
+{"id": "89d8099105dc87e4", "it": "Iraoscura", "sez": "Moves"}
+{"id": "4bd954403bd4ee3f", "it": "Retedombra", "sez": "Moves"}
+{"id": "7aaf9f23af61102c", "it": "Nebbiascura", "sez": "Moves"}
+{"id": "af4ceb5867ac58ad", "it": "Ombrapanico", "sez": "Moves"}
+{"id": "3ef11e997d032d3e", "it": "Pugnodombra", "sez": "Moves"}
+{"id": "ebb075694d8acb3c", "it": "Ombrolancia", "sez": "Moves"}
+{"id": "e6396617dbdb09b7", "it": "Ombroraffica", "sez": "Moves"}
+{"id": "9ad93551a10fc473", "it": "Ombrannulla", "sez": "Moves"}
+{"id": "a9370983db707abb", "it": "Cieloscuro", "sez": "Moves"}
+{"id": "081d7b7b52617c6f", "it": "Furtivombra", "sez": "Moves"}
+{"id": "ef322fb2b38ac5de", "it": "Turbinombra", "sez": "Moves"}
+{"id": "e5978c6a57e99b81", "it": "Ondascura", "sez": "Moves"}
+{"id": "f4777faeaa3a3d10", "it": "Affilatore", "sez": "Moves"}
+{"id": "7a55b1242e6cd1d4", "it": "Tagliacoda", "sez": "Moves"}
+{"id": "078248082c210696", "it": "Purogelo", "sez": "Moves"}
+{"id": "80a9abf5d3e7bcfe", "it": "Armaguscio", "sez": "Moves"}
+{"id": "626498b98f1d694a", "it": "Gettaguscio", "sez": "Moves"}
+{"id": "83026caa6b7aa117", "it": "Gusciotrappola", "sez": "Moves"}
+{"id": "a8fbb45be7f6b986", "it": "Barricata", "sez": "Moves"}
+{"id": "2ecce91f4ac947b3", "it": "Cambiomarcia", "sez": "Moves"}
+{"id": "9abb4749af2809bb", "it": "Sabbiaccumulo", "sez": "Moves"}
+{"id": "32968cb1a6e98612", "it": "Segnoraggio", "sez": "Moves"}
+{"id": "60f8aad628c0804f", "it": "Telatrappola", "sez": "Moves"}
+{"id": "035806f4475d07b1", "it": "Ventargenteo", "sez": "Moves"}
+{"id": "d8413b743d210f3d", "it": "Ondisinvolta", "sez": "Moves"}
+{"id": "32fd056d3d4b1c9b", "it": "Schizzo", "sez": "Moves"}
+{"id": "365fb02fb93abcb1", "it": "Baratto", "sez": "Moves"}
+{"id": "0fb9968b1a5045ac", "it": "Strisciacolpo", "sez": "Moves"}
+{"id": "f0dad5075a1bcb31", "it": "Capocciata", "sez": "Moves"}
+{"id": "0c522ab407d26cc1", "it": "Aeroattacco", "sez": "Moves"}
+{"id": "b7ba9e99d122bf36", "it": "Cadutalibera", "sez": "Moves"}
+{"id": "b70c3bde9b256b73", "it": "Stramontante", "sez": "Moves"}
+{"id": "3daf856cb9b2ef2c", "it": "Pigro", "sez": "Moves"}
+{"id": "1edb76c02117c9dd", "it": "Schianto", "sez": "Moves"}
+{"id": "3173b14b00675fd5", "it": "Sonnifero", "sez": "Moves"}
+{"id": "ac8b14d69acd29b9", "it": "Sonnolalia", "sez": "Moves"}
+{"id": "95737dff04cbb4d9", "it": "Fangobomba", "sez": "Moves"}
+{"id": "01722376b2cbdba8", "it": "Fangonda", "sez": "Moves"}
+{"id": "8fc94e11c2c8ab64", "it": "Abbattimento", "sez": "Moves"}
+{"id": "9737be8a204f0a85", "it": "Sottilcorno", "sez": "Moves"}
+{"id": "a555b451f39eea56", "it": "Maniereforti", "sez": "Moves"}
+{"id": "0d4bc4fdeeb6e1f7", "it": "Smog", "sez": "Moves"}
+{"id": "1f22f6a7917bfadc", "it": "Muro di Fumo", "sez": "Moves"}
+{"id": "b6d563399d8ee9bd", "it": "Tagliola", "sez": "Moves"}
+{"id": "3e54b5724319adc0", "it": "Urlorabbia", "sez": "Moves"}
+{"id": "03210d7937c2d852", "it": "Scippo", "sez": "Moves"}
+{"id": "dbd360605452c48a", "it": "Tiromirato", "sez": "Moves"}
+{"id": "7d08772e0d5a5e00", "it": "Vista Innevata", "sez": "Moves"}
+{"id": "97452b917bfd87a3", "it": "Inondazione", "sez": "Moves"}
+{"id": "b4736733fb57ace2", "it": "Covauova", "sez": "Moves"}
+{"id": "0c024ef02dd0f9a6", "it": "Sonicboom", "sez": "Moves"}
+{"id": "b78e7b6e718f648a", "it": "Fendispazio", "sez": "Moves"}
+{"id": "bc5865c805cc83be", "it": "Canto Effimero", "sez": "Moves"}
+{"id": "242c26b164af5b13", "it": "Ombrafurto", "sez": "Moves"}
+{"id": "2e0f1102e0f5e8b5", "it": "Velociscambio", "sez": "Moves"}
+{"id": "ef84d8d6d223cb2d", "it": "Essenza Piccante", "sez": "Moves"}
+{"id": "c3bbefcb1bef1c9a", "it": "Sparalance", "sez": "Moves"}
+{"id": "a40ce09834cbb1f5", "it": "Agodifesa", "sez": "Moves"}
+{"id": "c7db42998ecba182", "it": "Slittaruote", "sez": "Moves"}
+{"id": "57ca0aba46d01719", "it": "Frantumanima", "sez": "Moves"}
+{"id": "07e42e50d7585035", "it": "Cucitura d’Ombra", "sez": "Moves"}
+{"id": "e4067601c2a23ea8", "it": "Sfoghenergia", "sez": "Moves"}
+{"id": "997befeb4020f156", "it": "Dispetto", "sez": "Moves"}
+{"id": "67b782e4b8253cc9", "it": "Spora", "sez": "Moves"}
+{"id": "8e593fd5c76e9208", "it": "Tempesta Zefirea", "sez": "Moves"}
+{"id": "2d8276fcac751585", "it": "Vaporscoppio", "sez": "Moves"}
+{"id": "21c4f9a3e88c3817", "it": "Rulloduro", "sez": "Moves"}
+{"id": "62d8dca6b456fe53", "it": "Raggio d’Acciaio", "sez": "Moves"}
+{"id": "ef5838174a733041", "it": "Ferrorullo", "sez": "Moves"}
+{"id": "49ffc4f3918d1944", "it": "Alacciaio", "sez": "Moves"}
+{"id": "4b068d05dbd57ce4", "it": "Rocciascure", "sez": "Moves"}
+{"id": "ea929ef2e494fc1b", "it": "Pietrataglio", "sez": "Moves"}
+{"id": "27c8a2c627ad32fc", "it": "Veicolaforza", "sez": "Moves"}
+{"id": "2476537ea851fa93", "it": "Tempestretta", "sez": "Moves"}
+{"id": "3e286c3cd0851fdb", "it": "Vapore Incantato", "sez": "Moves"}
+{"id": "306bd9401856883f", "it": "Assorbiforza", "sez": "Moves"}
+{"id": "8be952e61bff7eb3", "it": "Millebave", "sez": "Moves"}
+{"id": "992b414893a159da", "it": "Scontro", "sez": "Moves"}
+{"id": "65258487abe80d14", "it": "Entomoblocco", "sez": "Moves"}
+{"id": "08b72639dcdb6ce6", "it": "Riempiguance", "sez": "Moves"}
+{"id": "434fd46bc2e609d9", "it": "Paralizzante", "sez": "Moves"}
+{"id": "bc0f641d25f7bd1f", "it": "Criodistruzione Polare", "sez": "Moves"}
+{"id": "301400cbac8a5522", "it": "Sbigoattacco", "sez": "Moves"}
+{"id": "c2d44ac9c8b7b0f2", "it": "Giornodisole", "sez": "Moves"}
+{"id": "ce09a2ab6084f169", "it": "Astrocarica", "sez": "Moves"}
+{"id": "df43c821331413bc", "it": "Superzanna", "sez": "Moves"}
+{"id": "fb318e41783677e2", "it": "Elettrotuffo", "sez": "Moves"}
+{"id": "6a76dfb8b24ef5a0", "it": "Troppoforte", "sez": "Moves"}
+{"id": "e19b530437798fc6", "it": "Supersuono", "sez": "Moves"}
+{"id": "e0c3b08706aba2e5", "it": "Idroraffica", "sez": "Moves"}
+{"id": "8665a69471e465a3", "it": "Bullo", "sez": "Moves"}
+{"id": "50909d466b17c1fd", "it": "Introenergia", "sez": "Moves"}
+{"id": "b94f96d36a16c3aa", "it": "Dolcebacio", "sez": "Moves"}
+{"id": "8e2580d059e77ca2", "it": "Profumino", "sez": "Moves"}
+{"id": "112ab020698e5fc0", "it": "Comete", "sez": "Moves"}
+{"id": "26cf01df46a2c796", "it": "Rapidscambio", "sez": "Moves"}
+{"id": "2e9f1fff5c97b81d", "it": "Danzaspada", "sez": "Moves"}
+{"id": "809b2be09aebe1c1", "it": "Sincrumore", "sez": "Moves"}
+{"id": "628a08b0b29e7d3b", "it": "Bomba Sciroppata", "sez": "Moves"}
+{"id": "565280f087412464", "it": "Tachiontaglio", "sez": "Moves"}
+{"id": "b62f5b86f1526719", "it": "Codadiluce", "sez": "Moves"}
+{"id": "ca84696084fee876", "it": "Spazzasberla", "sez": "Moves"}
+{"id": "156cbf6442d8afe3", "it": "Colpocoda", "sez": "Moves"}
+{"id": "d9d7e3d085268c88", "it": "Ventoincoda", "sez": "Moves"}
+{"id": "aab881264c068e0f", "it": "Riduttore", "sez": "Moves"}
+{"id": "a7c64c7f7be927b6", "it": "Baldimpulso", "sez": "Moves"}
+{"id": "3ffa36a9e864a492", "it": "Colpocatrame", "sez": "Moves"}
+{"id": "2320195136c8960c", "it": "Provocazione", "sez": "Moves"}
+{"id": "e084bed9cdf4b305", "it": "Occhionilucidi", "sez": "Moves"}
+{"id": "32f5c5cc6be39276", "it": "Furore della Terra", "sez": "Moves"}
+{"id": "127a62f8793dcb9d", "it": "Strampadanza", "sez": "Moves"}
+{"id": "2835f4a21b11369e", "it": "Rabbia Bruciante", "sez": "Moves"}
+{"id": "6d69f03c03d9dff5", "it": "Terascoppio", "sez": "Moves"}
+{"id": "a1c11bf8b4654975", "it": "Teracluster", "sez": "Moves"}
+{"id": "e0f161eb188fca59", "it": "Campopulsar", "sez": "Moves"}
+{"id": "639f95ea416e74ee", "it": "Mille Frecce", "sez": "Moves"}
+{"id": "ce8a3f5109d337e7", "it": "Colpo", "sez": "Moves"}
+{"id": "c1b5d366d2b41c1f", "it": "Colpo Infernale", "sez": "Moves"}
+{"id": "134e9305305a1e7c", "it": "Tuono", "sez": "Moves"}
+{"id": "582be5de8452f921", "it": "Elettrogabbia", "sez": "Moves"}
+{"id": "93ebae7605a07559", "it": "Fulmindenti", "sez": "Moves"}
+{"id": "439f6cac558ff87d", "it": "Tuononda", "sez": "Moves"}
+{"id": "adddee8d342e63a6", "it": "Fulmine", "sez": "Moves"}
+{"id": "9ab63902c0ec7a78", "it": "Saetta", "sez": "Moves"}
+{"id": "9055ccbc37f73fbf", "it": "Pulizie", "sez": "Moves"}
+{"id": "731b63aea54f5b0f", "it": "Sottosopra", "sez": "Moves"}
+{"id": "943a709d1bc3d241", "it": "Canzone Ardente", "sez": "Moves"}
+{"id": "aceca89245e168b1", "it": "Attaccalite", "sez": "Moves"}
+{"id": "9b923b11d352941a", "it": "Fielepunte", "sez": "Moves"}
+{"id": "1b9593004646aa7a", "it": "Velenotela", "sez": "Moves"}
+{"id": "b1240c3e0dcaee8f", "it": "Apripista", "sez": "Moves"}
+{"id": "ffb97c1df9625470", "it": "Tripletta", "sez": "Moves"}
+{"id": "1ff2d42e37ac8c27", "it": "Raggiro", "sez": "Moves"}
+{"id": "a22068ec2722377c", "it": "Distortozona", "sez": "Moves"}
+{"id": "526fe0ce80615a62", "it": "Halloween", "sez": "Moves"}
+{"id": "2a2b943c8e15f75e", "it": "Triplodardo", "sez": "Moves"}
+{"id": "be7a8086d708d6cd", "it": "Triplo Tuffo", "sez": "Moves"}
+{"id": "89743d67500f9503", "it": "Triplocalcio", "sez": "Moves"}
+{"id": "5da05561b4f6c806", "it": "Tropicalcio", "sez": "Moves"}
+{"id": "3fe9d2b9d578ad92", "it": "Asso", "sez": "Moves"}
+{"id": "fd8bc7a34d856641", "it": "Doppioraggio", "sez": "Moves"}
+{"id": "a5891c0c9e3700ed", "it": "Doppio Ago", "sez": "Moves"}
+{"id": "8eac3667ac59e8c0", "it": "Astroimpatto Fatato", "sez": "Moves"}
+{"id": "868bbfb04f81699a", "it": "Tornado", "sez": "Moves"}
+{"id": "ec661d9838d1cbf4", "it": "Retromarcia", "sez": "Moves"}
+{"id": "7a7cd081b66ea88b", "it": "Colpo di Mano", "sez": "Moves"}
+{"id": "85d314ff2b08a6f9", "it": "Baraonda", "sez": "Moves"}
+{"id": "6a17985eeca57697", "it": "Generatore V", "sez": "Moves"}
+{"id": "7c8a472e68c282bd", "it": "Vuotonda", "sez": "Moves"}
+{"id": "871f4852e4b994a3", "it": "Velenotrappola", "sez": "Moves"}
+{"id": "61e923d6576b2357", "it": "Danzavittoria", "sez": "Moves"}
+{"id": "0e1275fa54cb69e4", "it": "Frustata", "sez": "Moves"}
+{"id": "2d7aa4e503a9f044", "it": "Presa", "sez": "Moves"}
+{"id": "058743c0509c8314", "it": "Vitaltiro", "sez": "Moves"}
+{"id": "c5c0235a372833bb", "it": "Invertivolt", "sez": "Moves"}
+{"id": "15ef1f2c57780e41", "it": "Locomovolt", "sez": "Moves"}
+{"id": "49dc2cdf0f8eb695", "it": "Svegliopacca", "sez": "Moves"}
+{"id": "1fbaa895c851bf91", "it": "Pistolacqua", "sez": "Moves"}
+{"id": "b499ad861612154c", "it": "Acquapatto", "sez": "Moves"}
+{"id": "91edfe057ed48337", "it": "Idropulsar", "sez": "Moves"}
+{"id": "84c67033e6916288", "it": "Acqualame", "sez": "Moves"}
+{"id": "4af0cf8d8ec9cb26", "it": "Docciascudo", "sez": "Moves"}
+{"id": "444f1603cc1423aa", "it": "Zampillo", "sez": "Moves"}
+{"id": "70db3272859e5b2f", "it": "Ondaschianto", "sez": "Moves"}
+{"id": "e43a27eea719608e", "it": "Palla Clima", "sez": "Moves"}
+{"id": "c04c4523c602f525", "it": "Mulinello", "sez": "Moves"}
+{"id": "facacf93c52a6aaf", "it": "Pugnotenebra", "sez": "Moves"}
+{"id": "4c7b47abe18c19a4", "it": "Bodyguard", "sez": "Moves"}
+{"id": "796938612b47a370", "it": "Sprizzalampo", "sez": "Moves"}
+{"id": "c287811cf4acd72e", "it": "Tempesta Tonante", "sez": "Moves"}
+{"id": "432551b8cbdb536b", "it": "Fuocofatuo", "sez": "Moves"}
+{"id": "59e03521136fe304", "it": "Attacco d’Ala", "sez": "Moves"}
+{"id": "fb5371fab9341491", "it": "Mirabilzona", "sez": "Moves"}
+{"id": "f00e04e95339f8d4", "it": "Mazzuolegno", "sez": "Moves"}
+{"id": "a042d64ef48dc860", "it": "Cuordileone", "sez": "Moves"}
+{"id": "263452a64a76e50b", "it": "Affannoseme", "sez": "Moves"}
+{"id": "c3447e7954fa5698", "it": "Avvolgibotta", "sez": "Moves"}
+{"id": "97bcb9f4eb515b28", "it": "Forbice X", "sez": "Moves"}
+{"id": "8862bef75f019222", "it": "Falcecannone", "sez": "Moves"}
+{"id": "a4d478c9a76d2b4a", "it": "Cozzata Zen", "sez": "Moves"}
+{"id": "cfda7835fe4bd939", "it": "Elettropizzico", "sez": "Moves"}
+{"id": "e75188713de6e4e4", "it": "Rocciarapida", "sez": "MovesLong"}
+{"id": "34a75c94cd62a4c5", "it": "Scudo Acido", "sez": "MovesLong"}
+{"id": "e412049e272a7610", "it": "Acidiluvio Corrosivo", "sez": "MovesLong"}
+{"id": "53f72cb09c8e4a49", "it": "Acidobomba", "sez": "MovesLong"}
+{"id": "90927cf89c88afbe", "it": "Acupressione", "sez": "MovesLong"}
+{"id": "84c4ab61e43037b0", "it": "Aeroassalto", "sez": "MovesLong"}
+{"id": "9a880d3989b18f69", "it": "Aerocolpo", "sez": "MovesLong"}
+{"id": "6bb14f8053f94219", "it": "Cortesia", "sez": "MovesLong"}
+{"id": "6e9857fb4864c530", "it": "Aerasoio", "sez": "MovesLong"}
+{"id": "bffd69f6b3dee0a2", "it": "Eterelama", "sez": "MovesLong"}
+{"id": "b103b8408bf1ab5b", "it": "Iperscarica Furiosa", "sez": "MovesLong"}
+{"id": "337700903f4f725b", "it": "Ammaliavoce", "sez": "MovesLong"}
+{"id": "5d5e1a368dcbc734", "it": "Cambiaposto", "sez": "MovesLong"}
+{"id": "b2c9d21ae4c43b18", "it": "Colpo d’Ancora", "sez": "MovesLong"}
+{"id": "ce1bffdf8600c421", "it": "Forzantica", "sez": "MovesLong"}
+{"id": "c859a4621af319ea", "it": "Acido Malico", "sez": "MovesLong"}
+{"id": "9d3ef86a5ba95439", "it": "Idrotaglio", "sez": "MovesLong"}
+{"id": "aba1c87b299825a4", "it": "Acquanello", "sez": "MovesLong"}
+{"id": "110c20fe56c28ac8", "it": "Idroballetto", "sez": "MovesLong"}
+{"id": "a5aa0c4c45610f35", "it": "Idrondata", "sez": "MovesLong"}
+{"id": "2ce632d7184a84ad", "it": "Sberletese", "sez": "MovesLong"}
+{"id": "594ea6a956729747", "it": "Corazza Cannone", "sez": "MovesLong"}
+{"id": "279caf7b5becd0d0", "it": "Nebularoma", "sez": "MovesLong"}
+{"id": "0db809cc66f5a841", "it": "Garanzia", "sez": "MovesLong"}
+{"id": "ecab813b06ef3879", "it": "Sgomento", "sez": "MovesLong"}
+{"id": "251ab6219226f1f6", "it": "Schegge Astrali", "sez": "MovesLong"}
+{"id": "1789c200623551ce", "it": "Comandourto", "sez": "MovesLong"}
+{"id": "3ed31f9c81693349", "it": "Forzasfera", "sez": "MovesLong"}
+{"id": "d27dd036a1822af3", "it": "Ruota d’Aura", "sez": "MovesLong"}
+{"id": "e1eb5a987c058d26", "it": "Raggiaurora", "sez": "MovesLong"}
+{"id": "1d96b19073bcbab9", "it": "Velaurora", "sez": "MovesLong"}
+{"id": "01e3382c52513351", "it": "Sganciapesi", "sez": "MovesLong"}
+{"id": "99647b20fff6a1ed", "it": "Occhioni Teneri", "sez": "MovesLong"}
+{"id": "29c3bb21fbbaf739", "it": "Fortino", "sez": "MovesLong"}
+{"id": "baac1915a58d7828", "it": "Mille Fielespine", "sez": "MovesLong"}
+{"id": "f87b295ec97c8b02", "it": "Attacco Pioggia", "sez": "MovesLong"}
+{"id": "592d9d7ef932ddb3", "it": "Staffetta", "sez": "MovesLong"}
+{"id": "ad411494010e9edb", "it": "Cannonbecco", "sez": "MovesLong"}
+{"id": "1d2e6504cbbbb3ad", "it": "Picchiaduro", "sez": "MovesLong"}
+{"id": "ebad58be2bfdb137", "it": "Colpo Maestoso", "sez": "MovesLong"}
+{"id": "19d127e4033bec3c", "it": "Taglio Maestoso", "sez": "MovesLong"}
+{"id": "37f5442a5f939c0d", "it": "Panciamburo", "sez": "MovesLong"}
+{"id": "e65ac17c12938b26", "it": "Cediregalo", "sez": "MovesLong"}
+{"id": "e8c491a237222731", "it": "Lama del Rimorso", "sez": "MovesLong"}
+{"id": "388f8734e20f5fb3", "it": "Livore", "sez": "MovesLong"}
+{"id": "6f524d693c942e58", "it": "Buco Nero del Non Ritorno", "sez": "MovesLong"}
+{"id": "effaa11097f4343f", "it": "Incendio", "sez": "MovesLong"}
+{"id": "6c0c8754e621f194", "it": "Calciardente", "sez": "MovesLong"}
+{"id": "48c042d6e9f541d9", "it": "Tempesta Boreale", "sez": "MovesLong"}
+{"id": "f6221a09c1a34f55", "it": "Bora", "sez": "MovesLong"}
+{"id": "82dd2cdf36f9436d", "it": "Blocco", "sez": "MovesLong"}
+{"id": "a5c48a631fa6ac8b", "it": "Luna Rossa", "sez": "MovesLong"}
+{"id": "68de07a0b51b26b9", "it": "Floriscoppio Sfolgorante", "sez": "MovesLong"}
+{"id": "82d3657a1ce037ac", "it": "Fuocoblu", "sez": "MovesLong"}
+{"id": "f2934e64a4f01e55", "it": "Schiacciacorpo", "sez": "MovesLong"}
+{"id": "722a9ead45599736", "it": "Beccoshock", "sez": "MovesLong"}
+{"id": "7e88611c89f7e271", "it": "Lucesiluro", "sez": "MovesLong"}
+{"id": "eb6aa33b547f2cb2", "it": "Ossoclava", "sez": "MovesLong"}
+{"id": "543c28ce6e271d5f", "it": "Ossomerang", "sez": "MovesLong"}
+{"id": "daa1c354a082ec14", "it": "Ondaboato", "sez": "MovesLong"}
+{"id": "4dea06b731d23b73", "it": "Ramostoccata", "sez": "MovesLong"}
+{"id": "41fab891d4033049", "it": "Baldeali", "sez": "MovesLong"}
+{"id": "60996498901ee7c4", "it": "Vastoimpatto", "sez": "MovesLong"}
+{"id": "280d3599fbe1222a", "it": "Carica Travolgente", "sez": "MovesLong"}
+{"id": "1e10605aa9016292", "it": "Breccia", "sez": "MovesLong"}
+{"id": "9b3ef91ce886c1c1", "it": "Acquadisale", "sez": "MovesLong"}
+{"id": "9b4611f9ec74bca5", "it": "Vorticolpo", "sez": "MovesLong"}
+{"id": "2aed3f0214a3faf4", "it": "Coleomorso", "sez": "MovesLong"}
+{"id": "73ba6692e9d56864", "it": "Granfisico", "sez": "MovesLong"}
+{"id": "5cb820f38e8ab63d", "it": "Battiterra", "sez": "MovesLong"}
+{"id": "26f3b0facdf5b37d", "it": "Pugnoscarica", "sez": "MovesLong"}
+{"id": "ec9823cb2b8fcea0", "it": "Ultima Fiamma", "sez": "MovesLong"}
+{"id": "2cbb5ea65134ec91", "it": "Egida Ignea", "sez": "MovesLong"}
+{"id": "ecc4d51e63c30d04", "it": "Fiamminvidia", "sez": "MovesLong"}
+{"id": "1ad2a4f189b0b87c", "it": "Calmamente", "sez": "MovesLong"}
+{"id": "09560551d856c2c3", "it": "Camuffamento", "sez": "MovesLong"}
+{"id": "2cb2d43c3d64ec26", "it": "Incanto", "sez": "MovesLong"}
+{"id": "2518cbb256e54081", "it": "Super Pikaboom", "sez": "MovesLong"}
+{"id": "c661ab5be8537cf6", "it": "Lama Milleflutti", "sez": "MovesLong"}
+{"id": "9bd81a6635306563", "it": "Auguri", "sez": "MovesLong"}
+{"id": "d4e1aee46cda64f0", "it": "Sottocarica", "sez": "MovesLong"}
+{"id": "2972f5383e2a05c3", "it": "Raggioscossa", "sez": "MovesLong"}
+{"id": "ff11f0da0a4cd245", "it": "Schiamazzo", "sez": "MovesLong"}
+{"id": "5456babf3cd257bf", "it": "Doccia Fredda", "sez": "MovesLong"}
+{"id": "32f5e40da139ad2f", "it": "Freddura", "sez": "MovesLong"}
+{"id": "fc20797ae2728ec6", "it": "Insidia", "sez": "MovesLong"}
+{"id": "3e42cca469397e62", "it": "Clorofillaser", "sez": "MovesLong"}
+{"id": "f99f61ac38fe10b1", "it": "Ribaltiro", "sez": "MovesLong"}
+{"id": "d624a3f0eff1ce10", "it": "Tenaglia", "sez": "MovesLong"}
+{"id": "72596cae8a6ec4d0", "it": "Clamorsquame", "sez": "MovesLong"}
+{"id": "c4dc65be7be87588", "it": "Dracofonia", "sez": "MovesLong"}
+{"id": "5e5d98d91cb4f3bd", "it": "Dracofonia Divampante", "sez": "MovesLong"}
+{"id": "fa8f360b0eb35e40", "it": "Pulifumo", "sez": "MovesLong"}
+{"id": "fd8b79fa0c372bab", "it": "Coaching", "sez": "MovesLong"}
+{"id": "741d840f1fa72199", "it": "Arrotola", "sez": "MovesLong"}
+{"id": "5f958e636a3ed0ad", "it": "Turboschianto", "sez": "MovesLong"}
+{"id": "1bafdca62e1023e5", "it": "Cometapugno", "sez": "MovesLong"}
+{"id": "db2b7b71ccbfb323", "it": "Ritorsione", "sez": "MovesLong"}
+{"id": "dce2078e2606201b", "it": "Stordiraggio", "sez": "MovesLong"}
+{"id": "dc288ac13a552783", "it": "Limitazione", "sez": "MovesLong"}
+{"id": "baaced1f2a7d05fa", "it": "Gigamacigno Polverizzante", "sez": "MovesLong"}
+{"id": "98ccf9697c815336", "it": "Conversione2", "sez": "MovesLong"}
+{"id": "34d129e770beae59", "it": "Nucleocastigo", "sez": "MovesLong"}
+{"id": "bfe11948e94b7dbb", "it": "Spirale Perforante", "sez": "MovesLong"}
+{"id": "e1835fb7b718757e", "it": "Cosmoforza", "sez": "MovesLong"}
+{"id": "191f0d086ee3fa8c", "it": "Cotonscudo", "sez": "MovesLong"}
+{"id": "59d63ef97a012ef0", "it": "Cottonspora", "sez": "MovesLong"}
+{"id": "35fd03c98201778b", "it": "Cambiocampo", "sez": "MovesLong"}
+{"id": "38a9befac586ac1e", "it": "Supplica", "sez": "MovesLong"}
+{"id": "a9eb84b0007e61a4", "it": "Martellata", "sez": "MovesLong"}
+{"id": "c725a909f165e281", "it": "Truccodifesa", "sez": "MovesLong"}
+{"id": "f71136c52f97d72c", "it": "Incrocolpo", "sez": "MovesLong"}
+{"id": "3965dd234dd18bc9", "it": "Velenocroce", "sez": "MovesLong"}
+{"id": "814d375feb224ded", "it": "Sgranocchio", "sez": "MovesLong"}
+{"id": "70b82d69b6ca5806", "it": "Tritartigli", "sez": "MovesLong"}
+{"id": "1183e827f4d6b29a", "it": "Sbriciolmano", "sez": "MovesLong"}
+{"id": "48bdd0f2729f28e3", "it": "Neropulsar", "sez": "MovesLong"}
+{"id": "0bc738693074074a", "it": "Vuototetro", "sez": "MovesLong"}
+{"id": "36104d82cc2e947e", "it": "Braccioteso", "sez": "MovesLong"}
+{"id": "531a235f2d9e16f3", "it": "Magibrillio", "sez": "MovesLong"}
+{"id": "e66a90eb6bf37006", "it": "Comandoscudo", "sez": "MovesLong"}
+{"id": "5e3900b2861aa346", "it": "Ricciolscudo", "sez": "MovesLong"}
+{"id": "aeade71bf663ef0c", "it": "Scacciabruma", "sez": "MovesLong"}
+{"id": "b6baeca821e49166", "it": "Destinobbligato", "sez": "MovesLong"}
+{"id": "3ba4d7c23f1db221", "it": "Dragoschianto Finale", "sez": "MovesLong"}
+{"id": "b4eebcd1f2135113", "it": "Diamantempesta", "sez": "MovesLong"}
+{"id": "294caf41828d47b9", "it": "Fossa", "sez": "MovesLong"}
+{"id": "c71d2020ba15c023", "it": "Artigli Fatali", "sez": "MovesLong"}
+{"id": "9a7d4e0687b14e2b", "it": "Inibitore", "sez": "MovesLong"}
+{"id": "c41252cc65172aaf", "it": "Incantavoce", "sez": "MovesLong"}
+{"id": "559d8e1dda32dde7", "it": "Sub", "sez": "MovesLong"}
+{"id": "de964752d360b059", "it": "Stordipugno", "sez": "MovesLong"}
+{"id": "cea7c9a73ee7e2e9", "it": "Ricalco", "sez": "MovesLong"}
+{"id": "d4a2b678111c40a0", "it": "Obbliderio", "sez": "MovesLong"}
+{"id": "f7c99a16eedf10b7", "it": "Doppiosmash", "sez": "MovesLong"}
+{"id": "42b6b228d491904c", "it": "Pugni Corazzati", "sez": "MovesLong"}
+{"id": "0fa6b9afaa415137", "it": "Doppiocalcio", "sez": "MovesLong"}
+{"id": "2648d8560b58d908", "it": "Doppiolampo", "sez": "MovesLong"}
+{"id": "0f69fc1388f76beb", "it": "Doppiasberla", "sez": "MovesLong"}
+{"id": "6828c464d1f9fa1b", "it": "Doppioteam", "sez": "MovesLong"}
+{"id": "ed2c337397ea359c", "it": "Sdoppiatore", "sez": "MovesLong"}
+{"id": "cb248b28fce0991b", "it": "Dragobolide", "sez": "MovesLong"}
+{"id": "b35fda982d8f978f", "it": "Ascesa del Drago", "sez": "MovesLong"}
+{"id": "023d8030b6e617c6", "it": "Dragospiro", "sez": "MovesLong"}
+{"id": "490c8959c9078380", "it": "Grido del Drago", "sez": "MovesLong"}
+{"id": "9b6680cac3f6c442", "it": "Dragartigli", "sez": "MovesLong"}
+{"id": "f544197902e510f7", "it": "Dragodanza", "sez": "MovesLong"}
+{"id": "9078e89a7ed8ef40", "it": "Dragofrecce", "sez": "MovesLong"}
+{"id": "6c221f53e34423f9", "it": "Dragoenergia", "sez": "MovesLong"}
+{"id": "0fe637b830191664", "it": "Marteldrago", "sez": "MovesLong"}
+{"id": "7b426ec0ff44b446", "it": "Dragopulsar", "sez": "MovesLong"}
+{"id": "10674633fd7eaaea", "it": "Ira di Drago", "sez": "MovesLong"}
+{"id": "da34b41b2530eec0", "it": "Dragofuria", "sez": "MovesLong"}
+{"id": "b415acfcd5670a93", "it": "Assorbipugno", "sez": "MovesLong"}
+{"id": "80f2533138205dcb", "it": "Assorbibacio", "sez": "MovesLong"}
+{"id": "6fca328e77dbf605", "it": "Mangiasogni", "sez": "MovesLong"}
+{"id": "b4e442973142aa9a", "it": "Perforbecco", "sez": "MovesLong"}
+{"id": "96bc133e7dae7fbf", "it": "Giravvita", "sez": "MovesLong"}
+{"id": "3ac893608b787811", "it": "Tamburattacco", "sez": "MovesLong"}
+{"id": "e5b82bb32833e593", "it": "Doppiocolpo", "sez": "MovesLong"}
+{"id": "463f30493b55d4e7", "it": "Doppia Ala", "sez": "MovesLong"}
+{"id": "9bdf2775528791e5", "it": "Dinamipugno", "sez": "MovesLong"}
+{"id": "4fe8b7d92a0bb2c0", "it": "Geoforza", "sez": "MovesLong"}
+{"id": "af6b155f4a00bbef", "it": "Echeggiavoce", "sez": "MovesLong"}
+{"id": "26e9a4ec5811fa23", "it": "Elettromistero", "sez": "MovesLong"}
+{"id": "ffe744a050b873ae", "it": "Inquietantesimo", "sez": "MovesLong"}
+{"id": "e5a6c15746d66173", "it": "Uovobomba", "sez": "MovesLong"}
+{"id": "826de4c574646dbb", "it": "Campo Elettrico", "sez": "MovesLong"}
+{"id": "322aac23f46f5275", "it": "Elettrocontagio", "sez": "MovesLong"}
+{"id": "c663c69b248307c8", "it": "Energisfera", "sez": "MovesLong"}
+{"id": "136455df2f3c84d6", "it": "Fulmiscatto", "sez": "MovesLong"}
+{"id": "d461c93cb177b122", "it": "Elettroraggio", "sez": "MovesLong"}
+{"id": "46014ea585530d0b", "it": "Elettrotela", "sez": "MovesLong"}
+{"id": "44c1214a05bc5ddf", "it": "Divieto", "sez": "MovesLong"}
+{"id": "b3b59019355bc304", "it": "Ripeti", "sez": "MovesLong"}
+{"id": "f4b0ab2a3db078d9", "it": "Rimonta", "sez": "MovesLong"}
+{"id": "89acd839e38c02d9", "it": "Energipalla", "sez": "MovesLong"}
+{"id": "b096aedb6b3fd9f7", "it": "Saltamicizia", "sez": "MovesLong"}
+{"id": "904de5693ec5c169", "it": "Ali d’Aura", "sez": "MovesLong"}
+{"id": "8f399a4e71f861d1", "it": "Raggio Infinito", "sez": "MovesLong"}
+{"id": "d39c4d6920597670", "it": "Vastenergia", "sez": "MovesLong"}
+{"id": "3f816592f939d88e", "it": "Potenziamento Eevolutivo", "sez": "MovesLong"}
+{"id": "942ffb2fbb13ba5b", "it": "Extrarapido", "sez": "MovesLong"}
+{"id": "a2b8a0781604bb32", "it": "Facciata", "sez": "MovesLong"}
+{"id": "2b85f723610d8949", "it": "Vento di Fata", "sez": "MovesLong"}
+{"id": "40746fc5930f367b", "it": "Bruciapelo", "sez": "MovesLong"}
+{"id": "dd52096d19637c30", "it": "Falselacrime", "sez": "MovesLong"}
+{"id": "4a23b944de233046", "it": "Supplicolpo", "sez": "MovesLong"}
+{"id": "8413cb73b7b93601", "it": "Danzadipiume", "sez": "MovesLong"}
+{"id": "179f1ea38238ddb7", "it": "Fintoattacco", "sez": "MovesLong"}
+{"id": "eb9e24b118a74902", "it": "Pungiglione", "sez": "MovesLong"}
+{"id": "d4b0763f2c1f5397", "it": "Irregolaser", "sez": "MovesLong"}
+{"id": "bcff8c1055a2961a", "it": "Voldifuoco", "sez": "MovesLong"}
+{"id": "51841f952c7c14e3", "it": "Furia Ardente", "sez": "MovesLong"}
+{"id": "0dbe845880d5f6ea", "it": "Alleggerimento", "sez": "MovesLong"}
+{"id": "fa62750b65a5a5cc", "it": "Azzardo", "sez": "MovesLong"}
+{"id": "fae94135ae976489", "it": "Rogodenti", "sez": "MovesLong"}
+{"id": "a93ea742233ad62a", "it": "Frusta di Fuoco", "sez": "MovesLong"}
+{"id": "beb648c57eb96939", "it": "Fiammapatto", "sez": "MovesLong"}
+{"id": "669c61b2f0f5bf58", "it": "Fuocopugno", "sez": "MovesLong"}
+{"id": "6b4a92e284e615e2", "it": "Turbofuoco", "sez": "MovesLong"}
+{"id": "6dd4ca8764c145a0", "it": "Schermaglia", "sez": "MovesLong"}
+{"id": "7773358bb69ae860", "it": "Branchiomorso", "sez": "MovesLong"}
+{"id": "6349bea908fda27e", "it": "Abisso", "sez": "MovesLong"}
+{"id": "f9b62e12f9a3e55b", "it": "Pirolancio", "sez": "MovesLong"}
+{"id": "15f01902a057ba88", "it": "Nitrocarica", "sez": "MovesLong"}
+{"id": "e1a433ba2ba3849e", "it": "Ruotafuoco", "sez": "MovesLong"}
+{"id": "addd66cf983b9b16", "it": "Fuococarica", "sez": "MovesLong"}
+{"id": "45c7983b84a66c88", "it": "Cannonflash", "sez": "MovesLong"}
+{"id": "1e807432703cb573", "it": "Cannonfiore", "sez": "MovesLong"}
+{"id": "2aeaf0e4b429d97c", "it": "Virata", "sez": "MovesLong"}
+{"id": "5a00942d5d9bd65d", "it": "Fiordifesa", "sez": "MovesLong"}
+{"id": "71e7e8e476707322", "it": "Prestigiafiore", "sez": "MovesLong"}
+{"id": "c03408dde910e389", "it": "Schiacciatuffo", "sez": "MovesLong"}
+{"id": "797764300b5fdc25", "it": "Focalcolpo", "sez": "MovesLong"}
+{"id": "d0bcfd1c13d816e9", "it": "Focalenergia", "sez": "MovesLong"}
+{"id": "7ab4a793c02c6981", "it": "Centripugno", "sez": "MovesLong"}
+{"id": "468d566ab6bc62f7", "it": "Sonoqui", "sez": "MovesLong"}
+{"id": "0748c55d4c780e23", "it": "Palmoforza", "sez": "MovesLong"}
+{"id": "b307e9b31c771fc7", "it": "Preveggenza", "sez": "MovesLong"}
+{"id": "3b9bde080a55db9c", "it": "Ripicca", "sez": "MovesLong"}
+{"id": "cc1e0db5295d4cc3", "it": "Elettrogelo", "sez": "MovesLong"}
+{"id": "382c92c114ed0729", "it": "Liofilizzazione", "sez": "MovesLong"}
+{"id": "17b1fc234e9b3aa9", "it": "Radicalbero", "sez": "MovesLong"}
+{"id": "274475fb19f8b69f", "it": "Alitogelido", "sez": "MovesLong"}
+{"id": "b3b442ae4e2b09d6", "it": "Furia", "sez": "MovesLong"}
+{"id": "488b26221b322001", "it": "Tagliofuria", "sez": "MovesLong"}
+{"id": "9014aaf7e18b112c", "it": "Sfuriate", "sez": "MovesLong"}
+{"id": "9bef822b69da2393", "it": "Incrotuono", "sez": "MovesLong"}
+{"id": "8d6cbfadcb7b38bc", "it": "Incrofiamma", "sez": "MovesLong"}
+{"id": "ab37f29d14d14fcb", "it": "Gastroacido", "sez": "MovesLong"}
+{"id": "347704998c32a77f", "it": "Ingracolpo", "sez": "MovesLong"}
+{"id": "2379db86dadd5fc6", "it": "Marciainpiù", "sez": "MovesLong"}
+{"id": "69b05822c9a35533", "it": "Supernova delle Origini", "sez": "MovesLong"}
+{"id": "54f3e0c3f7c0a955", "it": "Gigassorbimento", "sez": "MovesLong"}
+{"id": "200f96374007281b", "it": "Gigaimpatto", "sez": "MovesLong"}
+{"id": "f550e155bc63c026", "it": "Granmartello", "sez": "MovesLong"}
+{"id": "58733e388f87a120", "it": "Gigascarica Folgorante", "sez": "MovesLong"}
+{"id": "2d7e145e3657848b", "it": "Gelamondo", "sez": "MovesLong"}
+{"id": "cb8d4820389d8381", "it": "Spadoncarica", "sez": "MovesLong"}
+{"id": "608ca64f7408e921", "it": "Sguardo Feroce", "sez": "MovesLong"}
+{"id": "bdf07055b85f5950", "it": "Laccioerboso", "sez": "MovesLong"}
+{"id": "1040b198d4366a2e", "it": "Erbapatto", "sez": "MovesLong"}
+{"id": "169598b24c4fdc16", "it": "Meloderba", "sez": "MovesLong"}
+{"id": "874bfce903d33b13", "it": "Erboscivolata", "sez": "MovesLong"}
+{"id": "811ce4914db86ba0", "it": "Campo Erboso", "sez": "MovesLong"}
+{"id": "5e394f8c48aeff24", "it": "Forza G", "sez": "MovesLong"}
+{"id": "03032b10666394ba", "it": "Ruggito", "sez": "MovesLong"}
+{"id": "79720fd8911d2dff", "it": "Paridifesa", "sez": "MovesLong"}
+{"id": "1722f526f572abf9", "it": "Barattoscudo", "sez": "MovesLong"}
+{"id": "a6b03b99971183cc", "it": "Collera del Guardiano", "sez": "MovesLong"}
+{"id": "1842ef09c4188859", "it": "Sporcolancio", "sez": "MovesLong"}
+{"id": "c69523bfb2bb7567", "it": "Vortexpalla", "sez": "MovesLong"}
+{"id": "13d1323ff5788f4c", "it": "Grandine", "sez": "MovesLong"}
+{"id": "590837bd63465c53", "it": "Martelpugno", "sez": "MovesLong"}
+{"id": "03805687659a1d27", "it": "Cuccagna", "sez": "MovesLong"}
+{"id": "f3724f98240e9478", "it": "Pressa d’Acciaio", "sez": "MovesLong"}
+{"id": "5ea17acb7251e234", "it": "Rafforzatore", "sez": "MovesLong"}
+{"id": "a51bf593de27dd6e", "it": "Nube", "sez": "MovesLong"}
+{"id": "c40d6b89014cd11c", "it": "Ricciolata", "sez": "MovesLong"}
+{"id": "5b084e9502568341", "it": "Zuccata", "sez": "MovesLong"}
+{"id": "90bb4ebcaa6c04c0", "it": "Bottintesta", "sez": "MovesLong"}
+{"id": "2565bb1da8a44ea8", "it": "Scontro Frontale", "sez": "MovesLong"}
+{"id": "e2ff7f75b14183f3", "it": "Rintoccasana", "sez": "MovesLong"}
+{"id": "93ee5f71e9b74413", "it": "Comandocura", "sez": "MovesLong"}
+{"id": "a2d7a192d1bf89ab", "it": "Ondasana", "sez": "MovesLong"}
+{"id": "3c6ca13eb620038d", "it": "Curardore", "sez": "MovesLong"}
+{"id": "1d164bebc228bc5e", "it": "Cuorestampo", "sez": "MovesLong"}
+{"id": "80c61a3cd4c8fcca", "it": "Cuorbaratto", "sez": "MovesLong"}
+{"id": "a3a5962124110d78", "it": "Marchiafuoco", "sez": "MovesLong"}
+{"id": "acd7ffdb296cd6b8", "it": "Ondacalda", "sez": "MovesLong"}
+{"id": "24561f7c4f22df24", "it": "Pesobomba", "sez": "MovesLong"}
+{"id": "1ed81eede438d184", "it": "Altruismo", "sez": "MovesLong"}
+{"id": "2eb18b6c522d039c", "it": "Sciagura", "sez": "MovesLong"}
+{"id": "8f25d4b39271dfa0", "it": "Introforza", "sez": "MovesLong"}
+{"id": "86775b25c0734135", "it": "Forza Equina", "sez": "MovesLong"}
+{"id": "2ce15e144acdb750", "it": "Calcinvolo", "sez": "MovesLong"}
+{"id": "b241644f39d911b0", "it": "Unghiaguzze", "sez": "MovesLong"}
+{"id": "b1eb6fd44fc02755", "it": "Incornata", "sez": "MovesLong"}
+{"id": "6e14bc6b14750e60", "it": "Perforcorno", "sez": "MovesLong"}
+{"id": "30ceb7da64b0cba6", "it": "Legnicorno", "sez": "MovesLong"}
+{"id": "9b979b0f3f65bf04", "it": "Gridodilotta", "sez": "MovesLong"}
+{"id": "08a7c28a28b9a4ba", "it": "Tifone", "sez": "MovesLong"}
+{"id": "964472ae62c9960e", "it": "Idrovapore", "sez": "MovesLong"}
+{"id": "0dfdc82b5b38f49a", "it": "Idrovortice Abissale", "sez": "MovesLong"}
+{"id": "247f08a4bb2a45f3", "it": "Iper Raggio", "sez": "MovesLong"}
+{"id": "426aea99a1db1a74", "it": "Ipertrapano", "sez": "MovesLong"}
+{"id": "34e568eb71a918b7", "it": "Iperzanna", "sez": "MovesLong"}
+{"id": "fa32923b668d2ec3", "it": "Granvoce", "sez": "MovesLong"}
+{"id": "9e1be1d438efcde0", "it": "Urtodimensionale", "sez": "MovesLong"}
+{"id": "83178c4577f7ca30", "it": "Forodimensionale", "sez": "MovesLong"}
+{"id": "208a6d7afffd5e9d", "it": "Palla Gelo", "sez": "MovesLong"}
+{"id": "22dab8cf47672226", "it": "Geloraggio", "sez": "MovesLong"}
+{"id": "9559764fa16f0e46", "it": "Vampagelida", "sez": "MovesLong"}
+{"id": "7645680ad488d86b", "it": "Gelodenti", "sez": "MovesLong"}
+{"id": "ea9ea3aec37efedc", "it": "Martelgelo", "sez": "MovesLong"}
+{"id": "c3085c48a3d120ca", "it": "Gelopugno", "sez": "MovesLong"}
+{"id": "eeba0b5307ca282d", "it": "Geloscheggia", "sez": "MovesLong"}
+{"id": "cb07929fcf7b7255", "it": "Vortighiaccio", "sez": "MovesLong"}
+{"id": "d6a17fa07fff6539", "it": "Scagliagelo", "sez": "MovesLong"}
+{"id": "3bab8bf0b982db36", "it": "Gelolancia", "sez": "MovesLong"}
+{"id": "3a55373476526bef", "it": "Ventogelato", "sez": "MovesLong"}
+{"id": "91ae1f7a7f0ebcc7", "it": "Esclusiva", "sez": "MovesLong"}
+{"id": "4c721b017e627281", "it": "Bruciatutto", "sez": "MovesLong"}
+{"id": "e068725cc46043ed", "it": "Corteo Spettrale", "sez": "MovesLong"}
+{"id": "6a69f7a5a045afa0", "it": "Marchiatura", "sez": "MovesLong"}
+{"id": "379eb54250f87007", "it": "Fiammobomba Detonante", "sez": "MovesLong"}
+{"id": "4c2baf5fd37248eb", "it": "Assillo", "sez": "MovesLong"}
+{"id": "652511a3de956791", "it": "Imposizione", "sez": "MovesLong"}
+{"id": "88efe56884171ceb", "it": "Pioggiaplasma", "sez": "MovesLong"}
+{"id": "c947ab9a227c2f90", "it": "Ferroscudo", "sez": "MovesLong"}
+{"id": "f056c7bbed805fcd", "it": "Metaltestata", "sez": "MovesLong"}
+{"id": "fb67fc858439845d", "it": "Codacciaio", "sez": "MovesLong"}
+{"id": "b14a03a503677f80", "it": "Clava di Liane", "sez": "MovesLong"}
+{"id": "25a2ea03e96815fc", "it": "Morsostretto", "sez": "MovesLong"}
+{"id": "78dbe25126e09c41", "it": "Pugnojet", "sez": "MovesLong"}
+{"id": "467c7de61fd927c4", "it": "Calciosalto", "sez": "MovesLong"}
+{"id": "18432388be048ab2", "it": "Giunglacura", "sez": "MovesLong"}
+{"id": "dce0121a91472069", "it": "Colpokarate", "sez": "MovesLong"}
+{"id": "5b4730d490bc4b3c", "it": "Cinèsi", "sez": "MovesLong"}
+{"id": "6ef1e9b3cf70bf4a", "it": "Privazione", "sez": "MovesLong"}
+{"id": "d5b019888853e645", "it": "Genufendente", "sez": "MovesLong"}
+{"id": "569ec2173648cf4e", "it": "Concentrazione", "sez": "MovesLong"}
+{"id": "61b9819a5d5ed68b", "it": "Sfogarabbia", "sez": "MovesLong"}
+{"id": "0ebb89199f922204", "it": "Ultimascelta", "sez": "MovesLong"}
+{"id": "6cb845642a727561", "it": "Omaggio ai KO", "sez": "MovesLong"}
+{"id": "abe9a85fd983a38b", "it": "Lavasbuffo", "sez": "MovesLong"}
+{"id": "b1fea1d262365613", "it": "Fendifoglia", "sez": "MovesLong"}
+{"id": "392f4c18e66e8990", "it": "Verdebufera", "sez": "MovesLong"}
+{"id": "e8fcc96d24d8429b", "it": "Vorticerba", "sez": "MovesLong"}
+{"id": "b2756b838e7d9740", "it": "Fogliame", "sez": "MovesLong"}
+{"id": "63da0041080cc3e3", "it": "Sanguisuga", "sez": "MovesLong"}
+{"id": "eaf7d94356e7fd39", "it": "Fulmisguardo", "sez": "MovesLong"}
+{"id": "6b9f49baf4171246", "it": "Goccia Vitale", "sez": "MovesLong"}
+{"id": "db77ad4604d590f5", "it": "Luce Nefasta", "sez": "MovesLong"}
+{"id": "0014ab3d1503b2cb", "it": "Idrobreccia", "sez": "MovesLong"}
+{"id": "9514f4fbe2c1e323", "it": "Localizza", "sez": "MovesLong"}
+{"id": "b649de01f5be85de", "it": "Demonbacio", "sez": "MovesLong"}
+{"id": "aaa5e64964b3c9bb", "it": "Calciobasso", "sez": "MovesLong"}
+{"id": "80fa3d59bd781347", "it": "Fortuncanto", "sez": "MovesLong"}
+{"id": "0464d5f2e6e62f27", "it": "Fotocollisione", "sez": "MovesLong"}
+{"id": "10368153be83c475", "it": "Invocaluna", "sez": "MovesLong"}
+{"id": "81fb06c295e7186d", "it": "Lunardanza", "sez": "MovesLong"}
+{"id": "4bb65a98e22d3755", "it": "Assalto", "sez": "MovesLong"}
+{"id": "70f3b11dd21c0a35", "it": "Abbagliante", "sez": "MovesLong"}
+{"id": "378f5fadde342ea2", "it": "Pugnorapido", "sez": "MovesLong"}
+{"id": "ffee474689cd6d3f", "it": "Magivelo", "sez": "MovesLong"}
+{"id": "436eafa52d213aad", "it": "Magipolvere", "sez": "MovesLong"}
+{"id": "c4a3f7a869a7030b", "it": "Magicozona", "sez": "MovesLong"}
+{"id": "81724e95d991218a", "it": "Fogliamagica", "sez": "MovesLong"}
+{"id": "aff4c498dffc434f", "it": "Magmaclisma", "sez": "MovesLong"}
+{"id": "9c1bde4fbb5e4413", "it": "Bombagnete", "sez": "MovesLong"}
+{"id": "95da23587290e04d", "it": "Magnetascesa", "sez": "MovesLong"}
+{"id": "e3dc5b3db8ce25fe", "it": "Controllo Polare", "sez": "MovesLong"}
+{"id": "53fd0595aa979f81", "it": "Corsa all’Oro", "sez": "MovesLong"}
+{"id": "0ec6bb0178675eea", "it": "Iperschianto delle Tenebre", "sez": "MovesLong"}
+{"id": "3f7203a9eba4f502", "it": "Intossicatena", "sez": "MovesLong"}
+{"id": "61a278cfd65b4243", "it": "Ribaltappeto", "sez": "MovesLong"}
+{"id": "7853a5a7c90eff9c", "it": "Spruzzatè", "sez": "MovesLong"}
+{"id": "f095a4cf6dfda69b", "it": "Precedenza", "sez": "MovesLong"}
+{"id": "197ced3dcae9dd55", "it": "Malosguardo", "sez": "MovesLong"}
+{"id": "d02fd0d1f445c47b", "it": "Deflagrazione Lunare", "sez": "MovesLong"}
+{"id": "476d1d8dc9df38e4", "it": "Metalscoppio", "sez": "MovesLong"}
+{"id": "5b619f003499cea8", "it": "Ferrartigli", "sez": "MovesLong"}
+{"id": "b8f03bb80f335206", "it": "Ferrostrido", "sez": "MovesLong"}
+{"id": "3700fe1171b625a4", "it": "Sfolgorassalto", "sez": "MovesLong"}
+{"id": "d6290d2fbad5862f", "it": "Raggiometeora", "sez": "MovesLong"}
+{"id": "a34bc3821274f807", "it": "Meteorpugno", "sez": "MovesLong"}
+{"id": "e6b3ab2c2c6ed038", "it": "Taglio Poderoso", "sez": "MovesLong"}
+{"id": "a2b2fc80bf4ae10c", "it": "Buonlatte", "sez": "MovesLong"}
+{"id": "704197b31a175be3", "it": "Sbalorditesta", "sez": "MovesLong"}
+{"id": "c20f04cd763dfd64", "it": "Leggimente", "sez": "MovesLong"}
+{"id": "1c5b768c8e72a0a8", "it": "Minimizzato", "sez": "MovesLong"}
+{"id": "54eacd9b349024e9", "it": "Miracolvista", "sez": "MovesLong"}
+{"id": "088500bd18b43afd", "it": "Specchiovelo", "sez": "MovesLong"}
+{"id": "97cd706bb461f52a", "it": "Speculmossa", "sez": "MovesLong"}
+{"id": "30cb5f0bd6243eb4", "it": "Cristalcolpo", "sez": "MovesLong"}
+{"id": "661f1a3b3d01dd88", "it": "Foschisfera", "sez": "MovesLong"}
+{"id": "0316675b2a2c3bf9", "it": "Nebbioscoppio", "sez": "MovesLong"}
+{"id": "3d8d1643c3138610", "it": "Campo Nebbioso", "sez": "MovesLong"}
+{"id": "c89a179a097f0bba", "it": "Raggio d’Ombra", "sez": "MovesLong"}
+{"id": "f61a85a3123ec35d", "it": "Lucelunare", "sez": "MovesLong"}
+{"id": "80dc2589bed36331", "it": "Mattindoro", "sez": "MovesLong"}
+{"id": "f053ad18a9a06186", "it": "Glitturbine", "sez": "MovesLong"}
+{"id": "824ddb0c1bfa69a0", "it": "Soffio d’Iceberg", "sez": "MovesLong"}
+{"id": "1281a33bceab4cd0", "it": "Pantanobomba", "sez": "MovesLong"}
+{"id": "087896060fac7e81", "it": "Colpodifango", "sez": "MovesLong"}
+{"id": "b503009b63005f26", "it": "Fangata", "sez": "MovesLong"}
+{"id": "e592e97553802968", "it": "Fangosberla", "sez": "MovesLong"}
+{"id": "dad7549865518f7f", "it": "Fanghiglia", "sez": "MovesLong"}
+{"id": "89ff4a8f8b7b8b9b", "it": "Multiattacco", "sez": "MovesLong"}
+{"id": "12116ae63b0a3b1a", "it": "Magifiamma", "sez": "MovesLong"}
+{"id": "c0033790dffb977b", "it": "Forza Mistica", "sez": "MovesLong"}
+{"id": "b0c6b5fafaa55e03", "it": "Congiura", "sez": "MovesLong"}
+{"id": "64bf6e0436be2b3c", "it": "Dononaturale", "sez": "MovesLong"}
+{"id": "7493c5201df3afdb", "it": "Naturforza", "sez": "MovesLong"}
+{"id": "d377e42b3706389f", "it": "Pugnospine", "sez": "MovesLong"}
+{"id": "4d23d6620f57129c", "it": "Abbraccio Spettrale", "sez": "MovesLong"}
+{"id": "5930b1e31fe53925", "it": "Urtoscuro", "sez": "MovesLong"}
+{"id": "595395f9d0ae8288", "it": "Ombra Notturna", "sez": "MovesLong"}
+{"id": "f29913796de604f6", "it": "Nottesferza", "sez": "MovesLong"}
+{"id": "c26bfd58900dca70", "it": "Spalle al Muro", "sez": "MovesLong"}
+{"id": "93a4eb4793b30585", "it": "Urlo", "sez": "MovesLong"}
+{"id": "a05621177b1e4cd8", "it": "Elettrococcola", "sez": "MovesLong"}
+{"id": "a93fd06112d0273c", "it": "Ali del Fato", "sez": "MovesLong"}
+{"id": "8d4fc9a44c23be86", "it": "Sbarramento", "sez": "MovesLong"}
+{"id": "10d434054b5c09aa", "it": "Sinfonia del Mare", "sez": "MovesLong"}
+{"id": "2f51699e47f825b8", "it": "Octazooka", "sez": "MovesLong"}
+{"id": "fdebad76d8eb9eaf", "it": "Tentacolock", "sez": "MovesLong"}
+{"id": "79aecb84322b9e4f", "it": "Segugio", "sez": "MovesLong"}
+{"id": "0dc028631a924517", "it": "Funestovento", "sez": "MovesLong"}
+{"id": "c38b81a87a365842", "it": "Alta Cucina", "sez": "MovesLong"}
+{"id": "fa24871a3a62a32c", "it": "Primopulsar", "sez": "MovesLong"}
+{"id": "18e54af6e016af36", "it": "Oltraggio", "sez": "MovesLong"}
+{"id": "19c6f5c0fe2dc72a", "it": "Overdrive", "sez": "MovesLong"}
+{"id": "01bd06bc69864222", "it": "Malcomune", "sez": "MovesLong"}
+{"id": "9c7b8211f92e7601", "it": "Caricaparabola", "sez": "MovesLong"}
+{"id": "35490156615bdc3b", "it": "Monito", "sez": "MovesLong"}
+{"id": "25cdefe2ac44b4ab", "it": "Giornopaga", "sez": "MovesLong"}
+{"id": "c186f1cac86d38f7", "it": "Ultimocanto", "sez": "MovesLong"}
+{"id": "16364b42cd10cb12", "it": "Fiortempesta", "sez": "MovesLong"}
+{"id": "f6045317215f13e0", "it": "Petalodanza", "sez": "MovesLong"}
+{"id": "307afffc8616a71d", "it": "Spettrotuffo", "sez": "MovesLong"}
+{"id": "fd03062965baa073", "it": "Pugni Plasma", "sez": "MovesLong"}
+{"id": "74d803929e021dab", "it": "Simpatia", "sez": "MovesLong"}
+{"id": "f671d35dca338805", "it": "Carineria", "sez": "MovesLong"}
+{"id": "b087befca760e457", "it": "Spennata", "sez": "MovesLong"}
+{"id": "bf8e2652fc181ffe", "it": "Velenodenti", "sez": "MovesLong"}
+{"id": "896ea1f3ff034be2", "it": "Velenogas", "sez": "MovesLong"}
+{"id": "7efc9cf618e66c3c", "it": "Velenpuntura", "sez": "MovesLong"}
+{"id": "92edf9172926f1c8", "it": "Velenpolvere", "sez": "MovesLong"}
+{"id": "b44f445909918f93", "it": "Velenospina", "sez": "MovesLong"}
+{"id": "25b456f8cdcfe464", "it": "Velenocoda", "sez": "MovesLong"}
+{"id": "1ebeb5c0ca1ebe9f", "it": "Sferapolline", "sez": "MovesLong"}
+{"id": "26089013d6c3a5c9", "it": "Infestazione", "sez": "MovesLong"}
+{"id": "0241a607d6feadee", "it": "Balzo", "sez": "MovesLong"}
+{"id": "0a262d0037a2f65d", "it": "Pulviscoppio", "sez": "MovesLong"}
+{"id": "0ea35372102739cc", "it": "Polneve", "sez": "MovesLong"}
+{"id": "9d2c5f71d7a7ce47", "it": "Gemmoforza", "sez": "MovesLong"}
+{"id": "a92ed89b5f6154b6", "it": "Scambioforza", "sez": "MovesLong"}
+{"id": "814212cd743d07e3", "it": "Pariattacco", "sez": "MovesLong"}
+{"id": "042378c7c2965a65", "it": "Barattoforza", "sez": "MovesLong"}
+{"id": "d41045b41946adb4", "it": "Ingannoforza", "sez": "MovesLong"}
+{"id": "960d33c72ac288cd", "it": "Tracotanza", "sez": "MovesLong"}
+{"id": "06a409a28183c8e3", "it": "Vigorcolpo", "sez": "MovesLong"}
+{"id": "b8d487f29cf67b56", "it": "Crescipugno", "sez": "MovesLong"}
+{"id": "0c075ed2c70258bf", "it": "Spade Telluriche", "sez": "MovesLong"}
+{"id": "815ad257a9776000", "it": "Prismalaser", "sez": "MovesLong"}
+{"id": "3539756e1ebb7664", "it": "Psicamisù", "sez": "MovesLong"}
+{"id": "0d32f6d2953d4137", "it": "Psichico", "sez": "MovesLong"}
+{"id": "60e49794452fff05", "it": "Psicozanna", "sez": "MovesLong"}
+{"id": "4a787bf2fd836547", "it": "Psicorumore", "sez": "MovesLong"}
+{"id": "8baf092afee3ddbe", "it": "Campo Psichico", "sez": "MovesLong"}
+{"id": "da9001688e1c3183", "it": "Psicoslancio", "sez": "MovesLong"}
+{"id": "da9276300cafe90f", "it": "Psicotransfer", "sez": "MovesLong"}
+{"id": "678966e2f540eb85", "it": "Barrierassalto", "sez": "MovesLong"}
+{"id": "985c2a908035406e", "it": "Psicobotta", "sez": "MovesLong"}
+{"id": "d2bd8848f1e7497b", "it": "Adesso Faccio sul Serio", "sez": "MovesLong"}
+{"id": "81309939a498fa27", "it": "Inseguimento", "sez": "MovesLong"}
+{"id": "6ad21abc6f2f3022", "it": "Palla Infuocata", "sez": "MovesLong"}
+{"id": "71e778513fe7ccf5", "it": "Spintone", "sez": "MovesLong"}
+{"id": "9f5531690661fcd3", "it": "Anticipo", "sez": "MovesLong"}
+{"id": "c4f3fdf52a2e5b21", "it": "Eledanza", "sez": "MovesLong"}
+{"id": "cf98038a459840d1", "it": "Pugno Furibondo", "sez": "MovesLong"}
+{"id": "c1af147da93a01a7", "it": "Polverabbia", "sez": "MovesLong"}
+{"id": "c70fab5d165d8e43", "it": "Scatenatoro", "sez": "MovesLong"}
+{"id": "3074d304fb18b620", "it": "Ira Furente", "sez": "MovesLong"}
+{"id": "3af27e54217e3094", "it": "Pioggiadanza", "sez": "MovesLong"}
+{"id": "b6c6afc535828d30", "it": "Rapigiro", "sez": "MovesLong"}
+{"id": "5efb6e16c9e6fbaa", "it": "Conchilama", "sez": "MovesLong"}
+{"id": "119fcf4b53ff8388", "it": "Ventagliente", "sez": "MovesLong"}
+{"id": "4addbf16731014ac", "it": "Ripresa", "sez": "MovesLong"}
+{"id": "192f3563077c1474", "it": "Riflettipo", "sez": "MovesLong"}
+{"id": "56e3badc4e6c5cc9", "it": "Rinfrescata", "sez": "MovesLong"}
+{"id": "e14dd6f06edbbd1c", "it": "Cantoantico", "sez": "MovesLong"}
+{"id": "2a3f9544a2611e13", "it": "Nemesi", "sez": "MovesLong"}
+{"id": "24f096b221f9534b", "it": "Ritorno", "sez": "MovesLong"}
+{"id": "f3820fe455b58a23", "it": "Mutadanza", "sez": "MovesLong"}
+{"id": "9bcbe9f08ece2736", "it": "Contropiede", "sez": "MovesLong"}
+{"id": "569924967ad76613", "it": "Preghiera Vitale", "sez": "MovesLong"}
+{"id": "6be951f52114ada9", "it": "Elettroimpennata", "sez": "MovesLong"}
+{"id": "893f80e0a5d4da70", "it": "Boato", "sez": "MovesLong"}
+{"id": "41a4e38a59db7f2b", "it": "Fragortempo", "sez": "MovesLong"}
+{"id": "0b14072214f63b82", "it": "Cadutamassi", "sez": "MovesLong"}
+{"id": "9e5c72f351ce9613", "it": "Lucidatura", "sez": "MovesLong"}
+{"id": "96d39df0a1f410ad", "it": "Spaccaroccia", "sez": "MovesLong"}
+{"id": "32281f30979e6a2c", "it": "Sassata", "sez": "MovesLong"}
+{"id": "a18ad0d3e2f72826", "it": "Rocciotomba", "sez": "MovesLong"}
+{"id": "3e6d8d86bd07d181", "it": "Devastomasso", "sez": "MovesLong"}
+{"id": "8f767ebaa325cb1c", "it": "Giocodiruolo", "sez": "MovesLong"}
+{"id": "67ca8d897038c940", "it": "Calciorullo", "sez": "MovesLong"}
+{"id": "ebaaf0ba344b596e", "it": "Trespolo", "sez": "MovesLong"}
+{"id": "1ca57a2a8b76fba3", "it": "Aracampo", "sez": "MovesLong"}
+{"id": "ec7b59833520bb2b", "it": "Coro", "sez": "MovesLong"}
+{"id": "a089052737464643", "it": "Catastrofe", "sez": "MovesLong"}
+{"id": "401ffbb7dbc39c83", "it": "Magifuoco", "sez": "MovesLong"}
+{"id": "6ac072a9d6edbd21", "it": "Spadasolenne", "sez": "MovesLong"}
+{"id": "6f228a6e3f9313df", "it": "Sotto Sale", "sez": "MovesLong"}
+{"id": "21f4973e286ea853", "it": "Turbosabbia", "sez": "MovesLong"}
+{"id": "3ca03a1c1ddc6c22", "it": "Sabbiotomba", "sez": "MovesLong"}
+{"id": "593b70c92689a7da", "it": "Tempesta Ardente", "sez": "MovesLong"}
+{"id": "d8bacad21e7cfb92", "it": "Terrempesta", "sez": "MovesLong"}
+{"id": "7b706c3479a030bf", "it": "Bozzolo Fatale", "sez": "MovesLong"}
+{"id": "8e15f25bb255f785", "it": "Idrovampata", "sez": "MovesLong"}
+{"id": "5494d48f4f00158a", "it": "Squamacolpo", "sez": "MovesLong"}
+{"id": "f459f2a2f9a46634", "it": "Visotruce", "sez": "MovesLong"}
+{"id": "c7065c2bb9cdf9fb", "it": "Sabbiardente", "sez": "MovesLong"}
+{"id": "765ef9861bec45c8", "it": "Sparafuoco", "sez": "MovesLong"}
+{"id": "52fd12eb4bcf3af5", "it": "Supercollisione Solare", "sez": "MovesLong"}
+{"id": "d92321bae693b37b", "it": "Forzasegreta", "sez": "MovesLong"}
+{"id": "5d543e46c4679b06", "it": "Spadamistica", "sez": "MovesLong"}
+{"id": "a7019f638f19f902", "it": "Infuriaseme", "sez": "MovesLong"}
+{"id": "db402e2d84b44bef", "it": "Movim. Sismico", "sez": "MovesLong"}
+{"id": "d751d817e848de50", "it": "Ombrolame", "sez": "MovesLong"}
+{"id": "d1144fb266bae0ae", "it": "Ombrattacco", "sez": "MovesLong"}
+{"id": "a320e7ded5ac9ea0", "it": "Fulminombra", "sez": "MovesLong"}
+{"id": "4c0eb058f5dce8ef", "it": "Ossotetro", "sez": "MovesLong"}
+{"id": "290f5e0c5b26af06", "it": "Ombrospinta", "sez": "MovesLong"}
+{"id": "3594b405040c274b", "it": "Gelodombra", "sez": "MovesLong"}
+{"id": "1ad6b697a2050545", "it": "Ombrartigli", "sez": "MovesLong"}
+{"id": "99fd45c2aa3801d6", "it": "Declinoscuro", "sez": "MovesLong"}
+{"id": "2088fca03ac2bc23", "it": "Fineoscuro", "sez": "MovesLong"}
+{"id": "68640164c247c510", "it": "Fuocoscuro", "sez": "MovesLong"}
+{"id": "b3d2cf37f53940e6", "it": "Oscurotuffo", "sez": "MovesLong"}
+{"id": "89d8099105dc87e4", "it": "Iraoscura", "sez": "MovesLong"}
+{"id": "4bd954403bd4ee3f", "it": "Retedombra", "sez": "MovesLong"}
+{"id": "7aaf9f23af61102c", "it": "Nebbiascura", "sez": "MovesLong"}
+{"id": "af4ceb5867ac58ad", "it": "Ombrapanico", "sez": "MovesLong"}
+{"id": "3ef11e997d032d3e", "it": "Pugnodombra", "sez": "MovesLong"}
+{"id": "ebb075694d8acb3c", "it": "Ombrolancia", "sez": "MovesLong"}
+{"id": "e6396617dbdb09b7", "it": "Ombroraffica", "sez": "MovesLong"}
+{"id": "9ad93551a10fc473", "it": "Ombrannulla", "sez": "MovesLong"}
+{"id": "a9370983db707abb", "it": "Cieloscuro", "sez": "MovesLong"}
+{"id": "081d7b7b52617c6f", "it": "Furtivombra", "sez": "MovesLong"}
+{"id": "ef322fb2b38ac5de", "it": "Turbinombra", "sez": "MovesLong"}
+{"id": "e5978c6a57e99b81", "it": "Ondascura", "sez": "MovesLong"}
+{"id": "f4777faeaa3a3d10", "it": "Affilatore", "sez": "MovesLong"}
+{"id": "64409b9d2a85e79a", "it": "Impatto Psicocinetico", "sez": "MovesLong"}
+{"id": "7a55b1242e6cd1d4", "it": "Tagliacoda", "sez": "MovesLong"}
+{"id": "078248082c210696", "it": "Purogelo", "sez": "MovesLong"}
+{"id": "80a9abf5d3e7bcfe", "it": "Armaguscio", "sez": "MovesLong"}
+{"id": "626498b98f1d694a", "it": "Gettaguscio", "sez": "MovesLong"}
+{"id": "83026caa6b7aa117", "it": "Gusciotrappola", "sez": "MovesLong"}
+{"id": "a8fbb45be7f6b986", "it": "Barricata", "sez": "MovesLong"}
+{"id": "2ecce91f4ac947b3", "it": "Cambiomarcia", "sez": "MovesLong"}
+{"id": "9abb4749af2809bb", "it": "Sabbiaccumulo", "sez": "MovesLong"}
+{"id": "32968cb1a6e98612", "it": "Segnoraggio", "sez": "MovesLong"}
+{"id": "60f8aad628c0804f", "it": "Telatrappola", "sez": "MovesLong"}
+{"id": "035806f4475d07b1", "it": "Ventargenteo", "sez": "MovesLong"}
+{"id": "d8413b743d210f3d", "it": "Ondisinvolta", "sez": "MovesLong"}
+{"id": "83cb89f6592eb72f", "it": "Dardoassalto Spettrale", "sez": "MovesLong"}
+{"id": "32fd056d3d4b1c9b", "it": "Schizzo", "sez": "MovesLong"}
+{"id": "365fb02fb93abcb1", "it": "Baratto", "sez": "MovesLong"}
+{"id": "0fb9968b1a5045ac", "it": "Strisciacolpo", "sez": "MovesLong"}
+{"id": "f0dad5075a1bcb31", "it": "Capocciata", "sez": "MovesLong"}
+{"id": "0c522ab407d26cc1", "it": "Aeroattacco", "sez": "MovesLong"}
+{"id": "b7ba9e99d122bf36", "it": "Cadutalibera", "sez": "MovesLong"}
+{"id": "b70c3bde9b256b73", "it": "Stramontante", "sez": "MovesLong"}
+{"id": "3daf856cb9b2ef2c", "it": "Pigro", "sez": "MovesLong"}
+{"id": "1edb76c02117c9dd", "it": "Schianto", "sez": "MovesLong"}
+{"id": "3173b14b00675fd5", "it": "Sonnifero", "sez": "MovesLong"}
+{"id": "ac8b14d69acd29b9", "it": "Sonnolalia", "sez": "MovesLong"}
+{"id": "95737dff04cbb4d9", "it": "Fangobomba", "sez": "MovesLong"}
+{"id": "01722376b2cbdba8", "it": "Fangonda", "sez": "MovesLong"}
+{"id": "8fc94e11c2c8ab64", "it": "Abbattimento", "sez": "MovesLong"}
+{"id": "9737be8a204f0a85", "it": "Sottilcorno", "sez": "MovesLong"}
+{"id": "a555b451f39eea56", "it": "Maniereforti", "sez": "MovesLong"}
+{"id": "0d4bc4fdeeb6e1f7", "it": "Smog", "sez": "MovesLong"}
+{"id": "1f22f6a7917bfadc", "it": "Muro di Fumo", "sez": "MovesLong"}
+{"id": "b6d563399d8ee9bd", "it": "Tagliola", "sez": "MovesLong"}
+{"id": "3e54b5724319adc0", "it": "Urlorabbia", "sez": "MovesLong"}
+{"id": "03210d7937c2d852", "it": "Scippo", "sez": "MovesLong"}
+{"id": "dbd360605452c48a", "it": "Tiromirato", "sez": "MovesLong"}
+{"id": "7d08772e0d5a5e00", "it": "Vista Innevata", "sez": "MovesLong"}
+{"id": "97452b917bfd87a3", "it": "Inondazione", "sez": "MovesLong"}
+{"id": "b4736733fb57ace2", "it": "Covauova", "sez": "MovesLong"}
+{"id": "0c024ef02dd0f9a6", "it": "Sonicboom", "sez": "MovesLong"}
+{"id": "f4e858e6c005da56", "it": "Colpo Eptastellare Rubanima", "sez": "MovesLong"}
+{"id": "b78e7b6e718f648a", "it": "Fendispazio", "sez": "MovesLong"}
+{"id": "bc5865c805cc83be", "it": "Canto Effimero", "sez": "MovesLong"}
+{"id": "242c26b164af5b13", "it": "Ombrafurto", "sez": "MovesLong"}
+{"id": "2e0f1102e0f5e8b5", "it": "Velociscambio", "sez": "MovesLong"}
+{"id": "ef84d8d6d223cb2d", "it": "Essenza Piccante", "sez": "MovesLong"}
+{"id": "c3bbefcb1bef1c9a", "it": "Sparalance", "sez": "MovesLong"}
+{"id": "a40ce09834cbb1f5", "it": "Agodifesa", "sez": "MovesLong"}
+{"id": "c7db42998ecba182", "it": "Slittaruote", "sez": "MovesLong"}
+{"id": "57ca0aba46d01719", "it": "Frantumanima", "sez": "MovesLong"}
+{"id": "07e42e50d7585035", "it": "Cucitura d’Ombra", "sez": "MovesLong"}
+{"id": "e4067601c2a23ea8", "it": "Sfoghenergia", "sez": "MovesLong"}
+{"id": "997befeb4020f156", "it": "Dispetto", "sez": "MovesLong"}
+{"id": "5942e0b27836bfd8", "it": "Litotempesta Radiale", "sez": "MovesLong"}
+{"id": "67b782e4b8253cc9", "it": "Spora", "sez": "MovesLong"}
+{"id": "8e593fd5c76e9208", "it": "Tempesta Zefirea", "sez": "MovesLong"}
+{"id": "2d8276fcac751585", "it": "Vaporscoppio", "sez": "MovesLong"}
+{"id": "21c4f9a3e88c3817", "it": "Rulloduro", "sez": "MovesLong"}
+{"id": "62d8dca6b456fe53", "it": "Raggio d’Acciaio", "sez": "MovesLong"}
+{"id": "ef5838174a733041", "it": "Ferrorullo", "sez": "MovesLong"}
+{"id": "49ffc4f3918d1944", "it": "Alacciaio", "sez": "MovesLong"}
+{"id": "427eda2b0d88a5e6", "it": "Elettrosurf Folgorante", "sez": "MovesLong"}
+{"id": "ed170d7ee9159b97", "it": "Battipiedi", "sez": "MovesLong"}
+{"id": "4b068d05dbd57ce4", "it": "Rocciascure", "sez": "MovesLong"}
+{"id": "ea929ef2e494fc1b", "it": "Pietrataglio", "sez": "MovesLong"}
+{"id": "27c8a2c627ad32fc", "it": "Veicolaforza", "sez": "MovesLong"}
+{"id": "2476537ea851fa93", "it": "Tempestretta", "sez": "MovesLong"}
+{"id": "3e286c3cd0851fdb", "it": "Vapore Incantato", "sez": "MovesLong"}
+{"id": "306bd9401856883f", "it": "Assorbiforza", "sez": "MovesLong"}
+{"id": "8be952e61bff7eb3", "it": "Millebave", "sez": "MovesLong"}
+{"id": "992b414893a159da", "it": "Scontro", "sez": "MovesLong"}
+{"id": "65258487abe80d14", "it": "Entomoblocco", "sez": "MovesLong"}
+{"id": "08b72639dcdb6ce6", "it": "Riempiguance", "sez": "MovesLong"}
+{"id": "434fd46bc2e609d9", "it": "Paralizzante", "sez": "MovesLong"}
+{"id": "bc0f641d25f7bd1f", "it": "Criodistruzione Polare", "sez": "MovesLong"}
+{"id": "301400cbac8a5522", "it": "Sbigoattacco", "sez": "MovesLong"}
+{"id": "c2d44ac9c8b7b0f2", "it": "Giornodisole", "sez": "MovesLong"}
+{"id": "ce09a2ab6084f169", "it": "Astrocarica", "sez": "MovesLong"}
+{"id": "df43c821331413bc", "it": "Superzanna", "sez": "MovesLong"}
+{"id": "fb318e41783677e2", "it": "Elettrotuffo", "sez": "MovesLong"}
+{"id": "6a76dfb8b24ef5a0", "it": "Troppoforte", "sez": "MovesLong"}
+{"id": "e19b530437798fc6", "it": "Supersuono", "sez": "MovesLong"}
+{"id": "ebd236f56b882686", "it": "Picchiata Devastante", "sez": "MovesLong"}
+{"id": "e0c3b08706aba2e5", "it": "Idroraffica", "sez": "MovesLong"}
+{"id": "8665a69471e465a3", "it": "Bullo", "sez": "MovesLong"}
+{"id": "50909d466b17c1fd", "it": "Introenergia", "sez": "MovesLong"}
+{"id": "b94f96d36a16c3aa", "it": "Dolcebacio", "sez": "MovesLong"}
+{"id": "8e2580d059e77ca2", "it": "Profumino", "sez": "MovesLong"}
+{"id": "112ab020698e5fc0", "it": "Comete", "sez": "MovesLong"}
+{"id": "26cf01df46a2c796", "it": "Rapidscambio", "sez": "MovesLong"}
+{"id": "2e9f1fff5c97b81d", "it": "Danzaspada", "sez": "MovesLong"}
+{"id": "809b2be09aebe1c1", "it": "Sincrumore", "sez": "MovesLong"}
+{"id": "628a08b0b29e7d3b", "it": "Bomba Sciroppata", "sez": "MovesLong"}
+{"id": "565280f087412464", "it": "Tachiontaglio", "sez": "MovesLong"}
+{"id": "b62f5b86f1526719", "it": "Codadiluce", "sez": "MovesLong"}
+{"id": "ca84696084fee876", "it": "Spazzasberla", "sez": "MovesLong"}
+{"id": "156cbf6442d8afe3", "it": "Colpocoda", "sez": "MovesLong"}
+{"id": "d9d7e3d085268c88", "it": "Ventoincoda", "sez": "MovesLong"}
+{"id": "aab881264c068e0f", "it": "Riduttore", "sez": "MovesLong"}
+{"id": "a7c64c7f7be927b6", "it": "Baldimpulso", "sez": "MovesLong"}
+{"id": "3ffa36a9e864a492", "it": "Colpocatrame", "sez": "MovesLong"}
+{"id": "2320195136c8960c", "it": "Provocazione", "sez": "MovesLong"}
+{"id": "e084bed9cdf4b305", "it": "Occhionilucidi", "sez": "MovesLong"}
+{"id": "32f5c5cc6be39276", "it": "Furore della Terra", "sez": "MovesLong"}
+{"id": "127a62f8793dcb9d", "it": "Strampadanza", "sez": "MovesLong"}
+{"id": "2835f4a21b11369e", "it": "Rabbia Bruciante", "sez": "MovesLong"}
+{"id": "6d69f03c03d9dff5", "it": "Terascoppio", "sez": "MovesLong"}
+{"id": "a1c11bf8b4654975", "it": "Teracluster", "sez": "MovesLong"}
+{"id": "e0f161eb188fca59", "it": "Campopulsar", "sez": "MovesLong"}
+{"id": "639f95ea416e74ee", "it": "Mille Frecce", "sez": "MovesLong"}
+{"id": "ce8a3f5109d337e7", "it": "Colpo", "sez": "MovesLong"}
+{"id": "c1b5d366d2b41c1f", "it": "Colpo Infernale", "sez": "MovesLong"}
+{"id": "134e9305305a1e7c", "it": "Tuono", "sez": "MovesLong"}
+{"id": "582be5de8452f921", "it": "Elettrogabbia", "sez": "MovesLong"}
+{"id": "93ebae7605a07559", "it": "Fulmindenti", "sez": "MovesLong"}
+{"id": "439f6cac558ff87d", "it": "Tuononda", "sez": "MovesLong"}
+{"id": "adddee8d342e63a6", "it": "Fulmine", "sez": "MovesLong"}
+{"id": "9ab63902c0ec7a78", "it": "Saetta", "sez": "MovesLong"}
+{"id": "9055ccbc37f73fbf", "it": "Pulizie", "sez": "MovesLong"}
+{"id": "731b63aea54f5b0f", "it": "Sottosopra", "sez": "MovesLong"}
+{"id": "943a709d1bc3d241", "it": "Canzone Ardente", "sez": "MovesLong"}
+{"id": "aceca89245e168b1", "it": "Attaccalite", "sez": "MovesLong"}
+{"id": "9b923b11d352941a", "it": "Fielepunte", "sez": "MovesLong"}
+{"id": "1b9593004646aa7a", "it": "Velenotela", "sez": "MovesLong"}
+{"id": "b1240c3e0dcaee8f", "it": "Apripista", "sez": "MovesLong"}
+{"id": "ffb97c1df9625470", "it": "Tripletta", "sez": "MovesLong"}
+{"id": "1ff2d42e37ac8c27", "it": "Raggiro", "sez": "MovesLong"}
+{"id": "a22068ec2722377c", "it": "Distortozona", "sez": "MovesLong"}
+{"id": "526fe0ce80615a62", "it": "Halloween", "sez": "MovesLong"}
+{"id": "2a2b943c8e15f75e", "it": "Triplodardo", "sez": "MovesLong"}
+{"id": "be7a8086d708d6cd", "it": "Triplo Tuffo", "sez": "MovesLong"}
+{"id": "89743d67500f9503", "it": "Triplocalcio", "sez": "MovesLong"}
+{"id": "5da05561b4f6c806", "it": "Tropicalcio", "sez": "MovesLong"}
+{"id": "3fe9d2b9d578ad92", "it": "Asso", "sez": "MovesLong"}
+{"id": "fd8bc7a34d856641", "it": "Doppioraggio", "sez": "MovesLong"}
+{"id": "a5891c0c9e3700ed", "it": "Doppio Ago", "sez": "MovesLong"}
+{"id": "8eac3667ac59e8c0", "it": "Astroimpatto Fatato", "sez": "MovesLong"}
+{"id": "868bbfb04f81699a", "it": "Tornado", "sez": "MovesLong"}
+{"id": "ec661d9838d1cbf4", "it": "Retromarcia", "sez": "MovesLong"}
+{"id": "7a7cd081b66ea88b", "it": "Colpo di Mano", "sez": "MovesLong"}
+{"id": "85d314ff2b08a6f9", "it": "Baraonda", "sez": "MovesLong"}
+{"id": "6a17985eeca57697", "it": "Generatore V", "sez": "MovesLong"}
+{"id": "7c8a472e68c282bd", "it": "Vuotonda", "sez": "MovesLong"}
+{"id": "871f4852e4b994a3", "it": "Velenotrappola", "sez": "MovesLong"}
+{"id": "61e923d6576b2357", "it": "Danzavittoria", "sez": "MovesLong"}
+{"id": "0e1275fa54cb69e4", "it": "Frustata", "sez": "MovesLong"}
+{"id": "2d7aa4e503a9f044", "it": "Presa", "sez": "MovesLong"}
+{"id": "058743c0509c8314", "it": "Vitaltiro", "sez": "MovesLong"}
+{"id": "c5c0235a372833bb", "it": "Invertivolt", "sez": "MovesLong"}
+{"id": "15ef1f2c57780e41", "it": "Locomovolt", "sez": "MovesLong"}
+{"id": "49dc2cdf0f8eb695", "it": "Svegliopacca", "sez": "MovesLong"}
+{"id": "1fbaa895c851bf91", "it": "Pistolacqua", "sez": "MovesLong"}
+{"id": "b499ad861612154c", "it": "Acquapatto", "sez": "MovesLong"}
+{"id": "91edfe057ed48337", "it": "Idropulsar", "sez": "MovesLong"}
+{"id": "84c67033e6916288", "it": "Acqualame", "sez": "MovesLong"}
+{"id": "4af0cf8d8ec9cb26", "it": "Docciascudo", "sez": "MovesLong"}
+{"id": "444f1603cc1423aa", "it": "Zampillo", "sez": "MovesLong"}
+{"id": "70db3272859e5b2f", "it": "Ondaschianto", "sez": "MovesLong"}
+{"id": "e43a27eea719608e", "it": "Palla Clima", "sez": "MovesLong"}
+{"id": "c04c4523c602f525", "it": "Mulinello", "sez": "MovesLong"}
+{"id": "facacf93c52a6aaf", "it": "Pugnotenebra", "sez": "MovesLong"}
+{"id": "4c7b47abe18c19a4", "it": "Bodyguard", "sez": "MovesLong"}
+{"id": "796938612b47a370", "it": "Sprizzalampo", "sez": "MovesLong"}
+{"id": "c287811cf4acd72e", "it": "Tempesta Tonante", "sez": "MovesLong"}
+{"id": "432551b8cbdb536b", "it": "Fuocofatuo", "sez": "MovesLong"}
+{"id": "59e03521136fe304", "it": "Attacco d’Ala", "sez": "MovesLong"}
+{"id": "fb5371fab9341491", "it": "Mirabilzona", "sez": "MovesLong"}
+{"id": "f00e04e95339f8d4", "it": "Mazzuolegno", "sez": "MovesLong"}
+{"id": "a042d64ef48dc860", "it": "Cuordileone", "sez": "MovesLong"}
+{"id": "263452a64a76e50b", "it": "Affannoseme", "sez": "MovesLong"}
+{"id": "c3447e7954fa5698", "it": "Avvolgibotta", "sez": "MovesLong"}
+{"id": "97bcb9f4eb515b28", "it": "Forbice X", "sez": "MovesLong"}
+{"id": "8862bef75f019222", "it": "Falcecannone", "sez": "MovesLong"}
+{"id": "a4d478c9a76d2b4a", "it": "Cozzata Zen", "sez": "MovesLong"}
+{"id": "cfda7835fe4bd939", "it": "Elettropizzico", "sez": "MovesLong"}
+{"id": "d6c73a8d58161e71", "it": "Capsula abilità", "sez": "Items"}
+{"id": "70fd242fb10ba894", "it": "Scudo abilità", "sez": "Items"}
+{"id": "543604e961960f70", "it": "Abomasnowite", "sez": "Items"}
+{"id": "60a5b893c952cbdb", "it": "Bulbo", "sez": "Items"}
+{"id": "23563eed54fc5f39", "it": "Adamasferoide", "sez": "Items"}
+{"id": "b1753114e0e2de7a", "it": "Adamasfera", "sez": "Items"}
+{"id": "6b055aa895cf9068", "it": "Fifasfera", "sez": "Items"}
+{"id": "150db2aa4f95ab78", "it": "Baccaguava", "sez": "Items"}
+{"id": "ad44916d1a5906dc", "it": "Palloncino", "sez": "Items"}
+{"id": "2c0c18e1c4d7fbe3", "it": "Mess. Aereo", "sez": "Items"}
+{"id": "58f36b8f52f40902", "it": "Alakazamite", "sez": "Items"}
+{"id": "422bcb82b0870e27", "it": "Aloraicium Z", "sez": "Items"}
+{"id": "9f916d85487bdfc9", "it": "Altarite", "sez": "Items"}
+{"id": "4420483420a3af9c", "it": "Monetamuleto", "sez": "Items"}
+{"id": "86afad6f3defbc9e", "it": "Baccacocca", "sez": "Items"}
+{"id": "01a680a08ba69f23", "it": "Fossilscudo", "sez": "Items"}
+{"id": "ad68cbb277868f90", "it": "Baccaperina", "sez": "Items"}
+{"id": "eb3cf3304eeb2edb", "it": "Corpetto assalto", "sez": "Items"}
+{"id": "3e5a95002b585a55", "it": "Armatura fausta", "sez": "Items"}
+{"id": "39c01d82e8868b7d", "it": "Baccababiri", "sez": "Items"}
+{"id": "e765984c30152984", "it": "Profumfungo", "sez": "Items"}
+{"id": "7772bdff5f003564", "it": "UC Ball", "sez": "Items"}
+{"id": "0b3dfb8e3bf47c52", "it": "Baccartillo", "sez": "Items"}
+{"id": "f86860c53da4fdf7", "it": "Succodibacca", "sez": "Items"}
+{"id": "5fc2df267c86a4d1", "it": "Malasada maxi", "sez": "Items"}
+{"id": "dd1410ac16997220", "it": "Grande Fungo", "sez": "Items"}
+{"id": "74093667ea3818f0", "it": "Granpepita", "sez": "Items"}
+{"id": "7e9cbf7ca3858d87", "it": "Grande Perla", "sez": "Items"}
+{"id": "89d52c5fc675f51b", "it": "Granradice", "sez": "Items"}
+{"id": "1d797c827e2e72f3", "it": "Buono Bici", "sez": "Items"}
+{"id": "955bcf25ae91b420", "it": "Legafascia", "sez": "Items"}
+{"id": "37a9792c5d20aeb0", "it": "Ghicocca Nera", "sez": "Items"}
+{"id": "6b2985e5dd1618c5", "it": "Augite nera", "sez": "Items"}
+{"id": "5a22716a5786d629", "it": "Cinturanera", "sez": "Items"}
+{"id": "ec061818687a5ee7", "it": "Occhialineri", "sez": "Items"}
+{"id": "e9646379a60f8bc5", "it": "Fangopece", "sez": "Items"}
+{"id": "bf1f92a4bd3d170b", "it": "Blastoisite", "sez": "Items"}
+{"id": "291def09eefb1bf6", "it": "Mess. Petalo", "sez": "Items"}
+{"id": "fd39163045c73a73", "it": "Gemma blu", "sez": "Items"}
+{"id": "331ceb935d7a966c", "it": "Petalo azzurro", "sez": "Items"}
+{"id": "5ec76d3a2b09ef83", "it": "Fascia Blu", "sez": "Items"}
+{"id": "39825404804e67f1", "it": "Coccio Blu", "sez": "Items"}
+{"id": "3f4ba0489b7c7fc6", "it": "Baccamora", "sez": "Items"}
+{"id": "af463efe649f2eed", "it": "Fiascopolizza", "sez": "Items"}
+{"id": "967a3f3512c1c0d1", "it": "Capsula energetica", "sez": "Items"}
+{"id": "2568df9e4d3621bd", "it": "Mess. Muro", "sez": "Items"}
+{"id": "b11941472e3aac84", "it": "Luminpolvere", "sez": "Items"}
+{"id": "7c00b71d0eaa8f00", "it": "Mess. Bolla", "sez": "Items"}
+{"id": "5ecd59f4ee75891c", "it": "Bijoucoleottero", "sez": "Items"}
+{"id": "96b844b3f75041ef", "it": "ROM Coleottero", "sez": "Items"}
+{"id": "ee8dbadae9d155d0", "it": "Insectium Z", "sez": "Items"}
+{"id": "7f319bbfb4510c47", "it": "Piromodulo", "sez": "Items"}
+{"id": "6e13cd06ddb73227", "it": "Antiscottatura", "sez": "Items"}
+{"id": "0f7e2ded5aa02e68", "it": "Carburante", "sez": "Items"}
+{"id": "c8a031732ec6fb7f", "it": "Conostropoli", "sez": "Items"}
+{"id": "ba6682f5c9843d74", "it": "Catturamuleto", "sez": "Items"}
+{"id": "b4a83328a9648d68", "it": "Ricaripila", "sez": "Items"}
+{"id": "c81e2a08f7e0b5c4", "it": "Carbonella", "sez": "Items"}
+{"id": "fa24275583a72cfe", "it": "Baccaciofo", "sez": "Items"}
+{"id": "b1fed2a468829b02", "it": "Baccaliegia", "sez": "Items"}
+{"id": "80ce991d882faeaa", "it": "Pregio Ball", "sez": "Items"}
+{"id": "fdf059a20c5b5798", "it": "Baccastagna", "sez": "Items"}
+{"id": "bb7c2496b7650be9", "it": "Baccacinlan", "sez": "Items"}
+{"id": "8c52c0aaf9e48add", "it": "Gelomodulo", "sez": "Items"}
+{"id": "1b9dfab8e842c053", "it": "Teiera crepata", "sez": "Items"}
+{"id": "b2889da789705cdc", "it": "Bendascelta", "sez": "Items"}
+{"id": "e4ff1b90ea55af3a", "it": "Stolascelta", "sez": "Items"}
+{"id": "a5f55dcc906f98d6", "it": "Lentiscelta", "sez": "Items"}
+{"id": "39733f6b3a877024", "it": "Baccarosmel", "sez": "Items"}
+{"id": "e699884100e6a1f7", "it": "Fossilunghia", "sez": "Items"}
+{"id": "2c102f52cbdd878d", "it": "Velopuro", "sez": "Items"}
+{"id": "27f8c694b46044b0", "it": "Ciondolochiaro", "sez": "Items"}
+{"id": "8a588a141f60e0e1", "it": "Piumintuito", "sez": "Items"}
+{"id": "aa32acf0b01c5894", "it": "Baccababa", "sez": "Items"}
+{"id": "852c41a122f8543a", "it": "Salvadanaio", "sez": "Items"}
+{"id": "ac9686b870f81d7c", "it": "Baccaxan", "sez": "Items"}
+{"id": "345d29ce2c748e3f", "it": "Pezzo Cometa", "sez": "Items"}
+{"id": "10a50431fbcbe5de", "it": "Maschera Fondamenta", "sez": "Items"}
+{"id": "6f7ee4764f3090f6", "it": "Baccavena", "sez": "Items"}
+{"id": "79aab1ee2a1947f0", "it": "Fossiltappo", "sez": "Items"}
+{"id": "a480a0c59a5fa039", "it": "Anonimanto", "sez": "Items"}
+{"id": "ea26f18f6620f6d6", "it": "Teiera rotta", "sez": "Items"}
+{"id": "f2043e2034c169ed", "it": "Baccacrela", "sez": "Items"}
+{"id": "d86132ea57d600b1", "it": "Cuneo DNA", "sez": "Items"}
+{"id": "6690f910c7d6b9b9", "it": "Fertilidro", "sez": "Items"}
+{"id": "5e834a0a07c8711b", "it": "Rocciaumida", "sez": "Items"}
+{"id": "ef03f857f8b499a3", "it": "Bijoubuio", "sez": "Items"}
+{"id": "f78a4c042dcc6602", "it": "ROM Buio", "sez": "Items"}
+{"id": "2f86b4852073eb34", "it": "Obscurium Z", "sez": "Items"}
+{"id": "ebc501cbf1a56329", "it": "Deciduenium Z", "sez": "Items"}
+{"id": "5cb11c3ac8b8169c", "it": "Squamabissi", "sez": "Items"}
+{"id": "7e784f5a294f69f4", "it": "Dente Abissi", "sez": "Items"}
+{"id": "5ac7363f71ded3a0", "it": "Destincomune", "sez": "Items"}
+{"id": "6eff29c07aa4bead", "it": "Supercolpo", "sez": "Items"}
+{"id": "5f98cfb440fddee5", "it": "Supercolpo 2", "sez": "Items"}
+{"id": "9e4a241b914857ff", "it": "Supercolpo 3", "sez": "Items"}
+{"id": "917f55ce518a260f", "it": "Domofossile", "sez": "Items"}
+{"id": "d6afd6d36375e78c", "it": "Idromodulo", "sez": "Items"}
+{"id": "2e110dacb6b4ad95", "it": "Ricerca strum.", "sez": "Items"}
+{"id": "ce720e785d3ce54a", "it": "Lastradrakon", "sez": "Items"}
+{"id": "ab92c0113e28d351", "it": "Dentedidrago", "sez": "Items"}
+{"id": "a191a8b1c970dc7e", "it": "Bijoudrago", "sez": "Items"}
+{"id": "efc44bb3fdc1e13c", "it": "ROM Drago", "sez": "Items"}
+{"id": "0d78ecbbbc5e0d3e", "it": "Squama Drago", "sez": "Items"}
+{"id": "5dd2096539d7df95", "it": "Lastratimore", "sez": "Items"}
+{"id": "76e714b417923f07", "it": "Dubbiodisco", "sez": "Items"}
+{"id": "123c290e455e36c8", "it": "Baccadurian", "sez": "Items"}
+{"id": "d00556e797d96e12", "it": "Scuro Ball", "sez": "Items"}
+{"id": "aca4dc5d27411c70", "it": "Neropietra", "sez": "Items"}
+{"id": "5c22234d9c45185b", "it": "Lastrageo", "sez": "Items"}
+{"id": "ec2bf602463a4389", "it": "Pulsantefuga", "sez": "Items"}
+{"id": "abcc4e8a15232e2f", "it": "Zainofuga", "sez": "Items"}
+{"id": "953bace2c9b934c1", "it": "Elettritore", "sez": "Items"}
+{"id": "acdcba4a2246cad8", "it": "Bijouelettro", "sez": "Items"}
+{"id": "73da248d9ac9217a", "it": "ROM Elettro", "sez": "Items"}
+{"id": "392e3300e615c38c", "it": "Electrium Z", "sez": "Items"}
+{"id": "08f0d633aea0923b", "it": "Polvenergia", "sez": "Items"}
+{"id": "eba12f414487e7ee", "it": "Baccaenigma", "sez": "Items"}
+{"id": "618230bde678c855", "it": "Fune di fuga", "sez": "Items"}
+{"id": "5a584e8e15290888", "it": "Evolcondensa", "sez": "Items"}
+{"id": "86fbc355d49b9f7f", "it": "Caram. Esp. L", "sez": "Items"}
+{"id": "ae9a4633566b2fc2", "it": "Caram. Esp. M", "sez": "Items"}
+{"id": "d598902b5eb7e2c0", "it": "Caram. Esp. S", "sez": "Items"}
+{"id": "a0a95021922b7fff", "it": "Caram. Esp. XL", "sez": "Items"}
+{"id": "d15997844f41f3c7", "it": "Caram. Esp. XS", "sez": "Items"}
+{"id": "ab9e50f3525c0d61", "it": "Condividi esp.", "sez": "Items"}
+{"id": "dbf8381c20b026ae", "it": "Abilcintura", "sez": "Items"}
+{"id": "c8080a15b9945949", "it": "Follectium Z", "sez": "Items"}
+{"id": "931294b9db63ed66", "it": "Piuma fatata", "sez": "Items"}
+{"id": "002d81a097880c32", "it": "Bijoufolletto", "sez": "Items"}
+{"id": "a1aeeb2ab240abc6", "it": "ROM Folletto", "sez": "Items"}
+{"id": "f63e0b6360daeae8", "it": "Rapid Ball", "sez": "Items"}
+{"id": "b7d06229c122389f", "it": "Bijoulotta", "sez": "Items"}
+{"id": "03e3bf7629c43265", "it": "ROM Lotta", "sez": "Items"}
+{"id": "31d38e45b2b2e8e6", "it": "Luctium Z", "sez": "Items"}
+{"id": "efed157d1473430e", "it": "Baccafico", "sez": "Items"}
+{"id": "3b216be9e1ea6fc8", "it": "Bijoufuoco", "sez": "Items"}
+{"id": "12710bbddce8bd66", "it": "ROM Fuoco", "sez": "Items"}
+{"id": "d01e8addca5801ef", "it": "Pirium Z", "sez": "Items"}
+{"id": "4743c4ab2f135db5", "it": "Lastrapugno", "sez": "Items"}
+{"id": "6ee94b9f22f688de", "it": "Mess. Fiamma", "sez": "Items"}
+{"id": "b540a43a25f26bce", "it": "Fiammosfera", "sez": "Items"}
+{"id": "b901e63d35d4f82a", "it": "Lastrarogo", "sez": "Items"}
+{"id": "a6b40353058edabe", "it": "Pietralieve", "sez": "Items"}
+{"id": "1578dbd690fff71b", "it": "Coda Skitty", "sez": "Items"}
+{"id": "5bbc5f05aeb4b3a8", "it": "Bijouvolante", "sez": "Items"}
+{"id": "497c2711b6dc52df", "it": "ROM Volante", "sez": "Items"}
+{"id": "0876683a0a3d5c94", "it": "Bandana", "sez": "Items"}
+{"id": "3039b0184e3b52fe", "it": "Focalnastro", "sez": "Items"}
+{"id": "d80f8ad1ef271e67", "it": "Ornitofossile", "sez": "Items"}
+{"id": "66eb4a6f56ff49c1", "it": "Plesiofossile", "sez": "Items"}
+{"id": "edcbb722866a88c7", "it": "Dracofossile", "sez": "Items"}
+{"id": "95ae33c8bdd3b777", "it": "Ittiofossile", "sez": "Items"}
+{"id": "9b8cc43197c2c9e3", "it": "Acqua fresca", "sez": "Items"}
+{"id": "defdc12d7d7c4e99", "it": "Friend Ball", "sez": "Items"}
+{"id": "654caf722ad2eb2c", "it": "Cura totale", "sez": "Items"}
+{"id": "a17047147d8c97cd", "it": "Gonfioaroma", "sez": "Items"}
+{"id": "743ff2ba486af940", "it": "Ricarica totale", "sez": "Items"}
+{"id": "68c8588385cb8772", "it": "Fascia Galarnoce", "sez": "Items"}
+{"id": "8b7ae2b4cc6a5119", "it": "Corona Galarnoce", "sez": "Items"}
+{"id": "ce75cfbc1dd694bf", "it": "Baccalongan", "sez": "Items"}
+{"id": "7882b321df77be33", "it": "Piumingegno", "sez": "Items"}
+{"id": "115c9667f20fa911", "it": "Bijouspettro", "sez": "Items"}
+{"id": "9150e97b49bd425c", "it": "ROM Spettro", "sez": "Items"}
+{"id": "208814fb79e8b63c", "it": "Spectrium Z", "sez": "Items"}
+{"id": "cc20020a2d7838a3", "it": "Moneta di Gimmighoul", "sez": "Items"}
+{"id": "33bc59d7ea81b4ac", "it": "Glalite", "sez": "Items"}
+{"id": "095e226a2470176e", "it": "Amo Buono", "sez": "Items"}
+{"id": "4c9be61e78c68995", "it": "Fertilcolla", "sez": "Items"}
+{"id": "f17c2097896fed13", "it": "Bijouerba", "sez": "Items"}
+{"id": "67493473e6ef4cd0", "it": "Mess. Erba", "sez": "Items"}
+{"id": "a057d084d7c502e5", "it": "ROM Erba", "sez": "Items"}
+{"id": "2bda03363b6b1d69", "it": "Herbium Z", "sez": "Items"}
+{"id": "27a44a962cbc53a0", "it": "Mega Ball", "sez": "Items"}
+{"id": "297fe284978e181a", "it": "Petalo verde", "sez": "Items"}
+{"id": "58fc1d7e712d7291", "it": "Coccio Verde", "sez": "Items"}
+{"id": "0e3a81a9fc8f1848", "it": "Baccauva", "sez": "Items"}
+{"id": "27c19607cc03249b", "it": "Presartigli", "sez": "Items"}
+{"id": "72a73094c7bbd1f7", "it": "Grigiosferoide", "sez": "Items"}
+{"id": "749a35c7b25f3849", "it": "Grigiosfera", "sez": "Items"}
+{"id": "1b2dd56cb70e5322", "it": "Bijouterra", "sez": "Items"}
+{"id": "2fd3eb2aef99a2e7", "it": "ROM Terra", "sez": "Items"}
+{"id": "c0eb323f056a73e0", "it": "Fertilrapido", "sez": "Items"}
+{"id": "e9cefec5c28555c4", "it": "Superguardia", "sez": "Items"}
+{"id": "361e9013b5c2b2be", "it": "PS-Su", "sez": "Items"}
+{"id": "3e95030a407bc814", "it": "Baccahaban", "sez": "Items"}
+{"id": "10a15f958d307d7c", "it": "Pietradura", "sez": "Items"}
+{"id": "574cafefeeb8d8e9", "it": "Cura Ball", "sez": "Items"}
+{"id": "75b1c850e2da8af6", "it": "Polvocura", "sez": "Items"}
+{"id": "994dbfc10a3fa07b", "it": "Piumsalute", "sez": "Items"}
+{"id": "36f8956a02904e51", "it": "Mess. Cuore", "sez": "Items"}
+{"id": "f81f85f440bf8bfe", "it": "Rocciacalda", "sez": "Items"}
+{"id": "aa75ce79dc70d327", "it": "Scarponi robusti", "sez": "Items"}
+{"id": "3b801a1998300b1a", "it": "Helixfossile", "sez": "Items"}
+{"id": "aa70287d6b00b2c7", "it": "Heracrossite", "sez": "Items"}
+{"id": "bb6d71c3f4af0941", "it": "Baccamelon", "sez": "Items"}
+{"id": "3a77c92710ae925e", "it": "Houndoomite", "sez": "Items"}
+{"id": "c659e11540737239", "it": "Baccapaia", "sez": "Items"}
+{"id": "108155d9208ea723", "it": "Bijoughiaccio", "sez": "Items"}
+{"id": "bfda0bd6392fd5d5", "it": "Antigelo", "sez": "Items"}
+{"id": "62ead969fd43ba04", "it": "ROM Ghiaccio", "sez": "Items"}
+{"id": "5388f21b9d512c8f", "it": "Pietragelo", "sez": "Items"}
+{"id": "98ca860c5820a654", "it": "Lastragelo", "sez": "Items"}
+{"id": "3c1c35bdd70890aa", "it": "Glacium Z", "sez": "Items"}
+{"id": "7bfcf2162fbc139d", "it": "Rocciafredda", "sez": "Items"}
+{"id": "c26066e713c58d43", "it": "Incineronium Z", "sez": "Items"}
+{"id": "7d9644c9c416bfcc", "it": "Lastrabaco", "sez": "Items"}
+{"id": "7fb256d3e1928c03", "it": "Sasso suggestivo", "sez": "Items"}
+{"id": "16c217aa17d7faeb", "it": "Ferropalla", "sez": "Items"}
+{"id": "1025295c0dad3df8", "it": "Lastraferro", "sez": "Items"}
+{"id": "345c5f0fa6a169d1", "it": "Baccajaba", "sez": "Items"}
+{"id": "e4bb639de6e0545c", "it": "Fossilmascella", "sez": "Items"}
+{"id": "bacfee186163a475", "it": "Baccacitrus", "sez": "Items"}
+{"id": "693370a2e73830e8", "it": "Baccakebia", "sez": "Items"}
+{"id": "22b3d36dcf407b73", "it": "Baccalighia", "sez": "Items"}
+{"id": "1dfa51c26b03bcd4", "it": "Baccalga", "sez": "Items"}
+{"id": "e13277836f08776b", "it": "Rallentocoda", "sez": "Items"}
+{"id": "b487de0a4b4aa03d", "it": "Baccalangsa", "sez": "Items"}
+{"id": "cb209abc06a2db07", "it": "Lavottino", "sez": "Items"}
+{"id": "230214a12f1b7d1c", "it": "Distraroma", "sez": "Items"}
+{"id": "c4c431fb7acbef58", "it": "Gambo", "sez": "Items"}
+{"id": "79dfeb52ec937087", "it": "Avanzi", "sez": "Items"}
+{"id": "a3b35c842283fbe4", "it": "Lemonsucco", "sez": "Items"}
+{"id": "345ee0c2ab8b9b95", "it": "Baccamela", "sez": "Items"}
+{"id": "f16527320e0fcf6b", "it": "Level Ball", "sez": "Items"}
+{"id": "ee3d194ebbdffa5e", "it": "Baccalici", "sez": "Items"}
+{"id": "20fe0718b90f319b", "it": "Assorbisfera", "sez": "Items"}
+{"id": "553bfcec129945e2", "it": "Elettropalla", "sez": "Items"}
+{"id": "198ef747d7799c84", "it": "Creta Luce", "sez": "Items"}
+{"id": "0706c6e60a73d3fc", "it": "Chiarolite", "sez": "Items"}
+{"id": "3acb010f621eafea", "it": "Dado truccato", "sez": "Items"}
+{"id": "ec22501ec8be0fd7", "it": "Menta Schiva", "sez": "Items"}
+{"id": "c49ce8f5c30fd721", "it": "Love Ball", "sez": "Items"}
+{"id": "e30ce5018910f94d", "it": "Lucarite", "sez": "Items"}
+{"id": "37a498178c776aae", "it": "Fortunaroma", "sez": "Items"}
+{"id": "623ec54361bb1479", "it": "Fortunuovo", "sez": "Items"}
+{"id": "55735942ace7f1f0", "it": "Fortunpugno", "sez": "Items"}
+{"id": "b4a18c7bbdd0b0d8", "it": "Baccaprugna", "sez": "Items"}
+{"id": "d85916c70a5647ac", "it": "Muschioluce", "sez": "Items"}
+{"id": "8fbce7471340e728", "it": "Pan di Lumi", "sez": "Items"}
+{"id": "03b1d2a6002dfb81", "it": "Splendisferoide", "sez": "Items"}
+{"id": "1fd8f0f305626239", "it": "Splendisfera", "sez": "Items"}
+{"id": "ad7d803f55428ec4", "it": "Chic Ball", "sez": "Items"}
+{"id": "d9b18e82c1d76391", "it": "Lycanrochium Z", "sez": "Items"}
+{"id": "564de87bb98beaad", "it": "Crescicappa", "sez": "Items"}
+{"id": "3bdc6cd082b2afa8", "it": "Magmatore", "sez": "Items"}
+{"id": "d7f87f222d12dda1", "it": "Calamita", "sez": "Items"}
+{"id": "3943cffbf5fc792f", "it": "Baccamango", "sez": "Items"}
+{"id": "fb496a2be90c09eb", "it": "Baccagostan", "sez": "Items"}
+{"id": "ba66256f79561f8b", "it": "Armatura infausta", "sez": "Items"}
+{"id": "0acd85461f03ac57", "it": "Manectricite", "sez": "Items"}
+{"id": "7a21c8faccfe4ff1", "it": "Baccapane", "sez": "Items"}
+{"id": "f8df313973ace768", "it": "Tazza eccezionale", "sez": "Items"}
+{"id": "0f7647edd0e3b849", "it": "Repellente Max", "sez": "Items"}
+{"id": "36cfdb2ffa8ef369", "it": "Revitalizz. Max", "sez": "Items"}
+{"id": "f9a75bf1e36fc22f", "it": "Lastraprato", "sez": "Items"}
+{"id": "d8faee39ebe2efb1", "it": "Mentalerba", "sez": "Items"}
+{"id": "35a4feb04b2db2a9", "it": "Metallo composito", "sez": "Items"}
+{"id": "92b011bc158b8d51", "it": "Metalcoperta", "sez": "Items"}
+{"id": "72879829803d2a08", "it": "Metalpolvere", "sez": "Items"}
+{"id": "470aedded491364b", "it": "Plessimetro", "sez": "Items"}
+{"id": "901e98f6febe30f2", "it": "Mewtwoite X", "sez": "Items"}
+{"id": "20185a2e1562d2e6", "it": "Mewtwoite Y", "sez": "Items"}
+{"id": "f5f88c106376435a", "it": "Baccaracolo", "sez": "Items"}
+{"id": "3f4cceae58709ccd", "it": "Mimikyum Z", "sez": "Items"}
+{"id": "5829d511d7d88f94", "it": "Lastramente", "sez": "Items"}
+{"id": "714997eb8fe66d60", "it": "Miracolseme", "sez": "Items"}
+{"id": "e33707d172e8c1ea", "it": "Foglia carbone", "sez": "Items"}
+{"id": "6b41d64fc5867b08", "it": "Latte Mumu", "sez": "Items"}
+{"id": "b7bb6a7600c2cd56", "it": "Mess. Iride", "sez": "Items"}
+{"id": "984c5a1618989a38", "it": "Muscolbanda", "sez": "Items"}
+{"id": "c8a886ff85c5a6f1", "it": "Piumpotenza", "sez": "Items"}
+{"id": "39d488388e30f9f0", "it": "Necrolunix", "sez": "Items"}
+{"id": "ddfbfafe79918b00", "it": "Necrosolix", "sez": "Items"}
+{"id": "16b75264541fc3a5", "it": "Baccabana", "sez": "Items"}
+{"id": "5428710a6812964b", "it": "Minor Ball", "sez": "Items"}
+{"id": "35554c4b176bcae0", "it": "Rete Ball", "sez": "Items"}
+{"id": "9f85c467b032ca98", "it": "Gelomai", "sez": "Items"}
+{"id": "adb56a6f7944cf8a", "it": "Baccalemon", "sez": "Items"}
+{"id": "9e0628102372eee9", "it": "Bijounormale", "sez": "Items"}
+{"id": "b2609405d8edcae9", "it": "Normium Z", "sez": "Items"}
+{"id": "80d173805a481e00", "it": "Baccacao", "sez": "Items"}
+{"id": "d0fd27c942beee15", "it": "Bizzoaroma", "sez": "Items"}
+{"id": "3117fb9d1d0dac67", "it": "Roccianima", "sez": "Items"}
+{"id": "86887e02ef095b61", "it": "Ambra antica", "sez": "Items"}
+{"id": "0c7cb4d10070f28d", "it": "Dolce Gateau", "sez": "Items"}
+{"id": "5a5362ccc0ddfe32", "it": "Amo Vecchio", "sez": "Items"}
+{"id": "2c4bc73c24eb951e", "it": "Mappa Stinta", "sez": "Items"}
+{"id": "169a0acccf83a26c", "it": "Baccarancia", "sez": "Items"}
+{"id": "b328d60dc6b082eb", "it": "Petalo arancione", "sez": "Items"}
+{"id": "4362c36cea263113", "it": "Ovamuleto", "sez": "Items"}
+{"id": "3e06b0220e61a253", "it": "Pietraovale", "sez": "Items"}
+{"id": "ff2d0b71df2921d6", "it": "PP-Max", "sez": "Items"}
+{"id": "9e9924f225905616", "it": "PP-Su", "sez": "Items"}
+{"id": "de3ccf78ef311fca", "it": "Baccapalma", "sez": "Items"}
+{"id": "6bce2198d8289d14", "it": "Antiparalisi", "sez": "Items"}
+{"id": "105fcd770cdb12e3", "it": "Baccapasflo", "sez": "Items"}
+{"id": "bc6d0fa011b9b8f1", "it": "Baccapayapa", "sez": "Items"}
+{"id": "4980f20d6b6dc284", "it": "Trittiperla", "sez": "Items"}
+{"id": "e9239d5e5a6305b4", "it": "Blocco di torba", "sez": "Items"}
+{"id": "99a8ea70d63fca6c", "it": "Baccapesca", "sez": "Items"}
+{"id": "f83a5b7573ecbf65", "it": "Baccaki", "sez": "Items"}
+{"id": "f749ddc48c083f17", "it": "Baccapitaya", "sez": "Items"}
+{"id": "2714915229ddaf1e", "it": "Pikacium Z", "sez": "Items"}
+{"id": "d26e78191e616b4f", "it": "Baccananas", "sez": "Items"}
+{"id": "4e70852051ba13dd", "it": "Nettare rosa", "sez": "Items"}
+{"id": "9187d45601ff01cc", "it": "Petalo rosa", "sez": "Items"}
+{"id": "f967c48023a2ccfd", "it": "Fascia Rosa", "sez": "Items"}
+{"id": "5bcc7627df82200c", "it": "Lastraspiritello", "sez": "Items"}
+{"id": "8d9789369138e741", "it": "Fossilpiuma", "sez": "Items"}
+{"id": "761be0b5a42f862c", "it": "Velenaculeo", "sez": "Items"}
+{"id": "77b73ae727f10982", "it": "Bijouveleno", "sez": "Items"}
+{"id": "c857a8054eb73678", "it": "ROM Veleno", "sez": "Items"}
+{"id": "2d3bf8a4e52d2302", "it": "Venenium Z", "sez": "Items"}
+{"id": "7a68eb0077f7bbb0", "it": "Poké Bambola", "sez": "Items"}
+{"id": "4a9219802e02e1d2", "it": "Pokégingillo", "sez": "Items"}
+{"id": "5dda83de9cd1d5b9", "it": "Baccagrana", "sez": "Items"}
+{"id": "97cf2dc368622152", "it": "Vigorgliera", "sez": "Items"}
+{"id": "c43c761b51b14043", "it": "Vigorbanda", "sez": "Items"}
+{"id": "77152d534979c4cd", "it": "Vigorfascia", "sez": "Items"}
+{"id": "582acc253a14f716", "it": "Vigorcerchio", "sez": "Items"}
+{"id": "9db8dd9966ccbc63", "it": "Vigorerba", "sez": "Items"}
+{"id": "b554066ed9de164c", "it": "Vigorlente", "sez": "Items"}
+{"id": "bd06720e19a5be10", "it": "Vigorpeso", "sez": "Items"}
+{"id": "95dd7b3c3b41e81d", "it": "Piumabella", "sez": "Items"}
+{"id": "a517574aecba73b3", "it": "Primarinium Z", "sez": "Items"}
+{"id": "44b92fff82fc6c66", "it": "Squama Bella", "sez": "Items"}
+{"id": "f2ac7116a8e75f2d", "it": "Vaso del vincolo", "sez": "Items"}
+{"id": "324680369e8b594c", "it": "Smorzaurti", "sez": "Items"}
+{"id": "047c146c1dd8f2ba", "it": "Copertura", "sez": "Items"}
+{"id": "15a7242b133d1628", "it": "Bijoupsico", "sez": "Items"}
+{"id": "f5bf64a29b252b8a", "it": "ROM Psico", "sez": "Items"}
+{"id": "6179b3c6d3003e6e", "it": "Psichium Z", "sez": "Items"}
+{"id": "daf36f8ac4985de9", "it": "Guantone", "sez": "Items"}
+{"id": "363c35b503d5ad96", "it": "Puroaroma", "sez": "Items"}
+{"id": "017b853f619f95af", "it": "Nettare viola", "sez": "Items"}
+{"id": "f1cbae06463d53a1", "it": "Baccaloquat", "sez": "Items"}
+{"id": "9d27d508a990251f", "it": "Velox Ball", "sez": "Items"}
+{"id": "15606d50bf175ba1", "it": "Rapidartigli", "sez": "Items"}
+{"id": "ea6753c0da1933d5", "it": "Velopolvere", "sez": "Items"}
+{"id": "0c8af13b16b55892", "it": "Baccambutan", "sez": "Items"}
+{"id": "54c07f40b65ece4b", "it": "Iramella", "sez": "Items"}
+{"id": "785f610f6fc3048c", "it": "Caramella rara", "sez": "Items"}
+{"id": "4c9dafe30ec4cf28", "it": "Baccafrago", "sez": "Items"}
+{"id": "04ec730e0b8d7694", "it": "Affilartigli", "sez": "Items"}
+{"id": "0c5f6c1b7d6d67d4", "it": "Affilodente", "sez": "Items"}
+{"id": "81bc08462acd9b53", "it": "Baccalampon", "sez": "Items"}
+{"id": "c32e485db3e4fe31", "it": "Terrorpanno", "sez": "Items"}
+{"id": "3c1acfb024d34d57", "it": "Cartelrosso", "sez": "Items"}
+{"id": "de2e6e25da61d510", "it": "Nettare rosso", "sez": "Items"}
+{"id": "5fcaea43dec27aa5", "it": "Gemma rossa", "sez": "Items"}
+{"id": "6da40eb108628cf7", "it": "Coccio Rosso", "sez": "Items"}
+{"id": "7a1e1f1f7bd73953", "it": "Briglie legame", "sez": "Items"}
+{"id": "300927e2c5e106e5", "it": "Bracciantico", "sez": "Items"}
+{"id": "e8d48dd06ca8d6de", "it": "Soldantico", "sez": "Items"}
+{"id": "5f0a6946b6d51620", "it": "Coronantica", "sez": "Items"}
+{"id": "4e2438f33b7327ed", "it": "Doblonantico", "sez": "Items"}
+{"id": "d1114065ee7090e6", "it": "Ducatantico", "sez": "Items"}
+{"id": "367cad30e1b2d833", "it": "Statuantica", "sez": "Items"}
+{"id": "d63ca1f690fa8331", "it": "Vasantico", "sez": "Items"}
+{"id": "6f24ff15fb9d92b6", "it": "Bis Ball", "sez": "Items"}
+{"id": "6891e985535c2090", "it": "Piumtutela", "sez": "Items"}
+{"id": "6c94659245208488", "it": "Verispecchio", "sez": "Items"}
+{"id": "c7a2585a4115af22", "it": "Vitalerba", "sez": "Items"}
+{"id": "7fa5b8f37d8e609e", "it": "Baccarindo", "sez": "Items"}
+{"id": "00842e02f1f37255", "it": "Facilsaglio", "sez": "Items"}
+{"id": "79d700404111e425", "it": "Bijouroccia", "sez": "Items"}
+{"id": "5ae7d6c7b8725108", "it": "Roccioaroma", "sez": "Items"}
+{"id": "4b6a791241988599", "it": "ROM Roccia", "sez": "Items"}
+{"id": "6fc06cec4d460154", "it": "Petrium Z", "sez": "Items"}
+{"id": "600ef6aa1435645a", "it": "Bitorzolelmo", "sez": "Items"}
+{"id": "a757090457c1bb89", "it": "Distorservizio", "sez": "Items"}
+{"id": "f050ff6e5878044e", "it": "Radifossile", "sez": "Items"}
+{"id": "c430f588ada3c9bf", "it": "Rosaroma", "sez": "Items"}
+{"id": "67cfb9164c3a5052", "it": "Baccarcadè", "sez": "Items"}
+{"id": "40a7acc098d85ea9", "it": "Smart Rotom", "sez": "Items"}
+{"id": "3980829500d08947", "it": "Baccaroam", "sez": "Items"}
+{"id": "f057223bb6912f79", "it": "Scudo rovinato", "sez": "Items"}
+{"id": "61c7d44e1aee3309", "it": "Spada rovinata", "sez": "Items"}
+{"id": "0e791e233d338006", "it": "Sableyite", "sez": "Items"}
+{"id": "e7bdf29fd384992d", "it": "Bustina aromi", "sez": "Items"}
+{"id": "b100393d3ef808ea", "it": "Ceneremagica", "sez": "Items"}
+{"id": "b7e51d86beeb62b6", "it": "Visierantisabbia", "sez": "Items"}
+{"id": "7040eb176faed86c", "it": "Fossilpinna", "sez": "Items"}
+{"id": "ff41cd19bb548e59", "it": "Baccasalak", "sez": "Items"}
+{"id": "ecec2aec8d1fc781", "it": "Mirino", "sez": "Items"}
+{"id": "5a78fed32ce9bc37", "it": "Rotolo del Buio", "sez": "Items"}
+{"id": "5f9d04bc7c8b1246", "it": "Rotolo dell’Acqua", "sez": "Items"}
+{"id": "aa6f4bafa5e705f4", "it": "Marearoma", "sez": "Items"}
+{"id": "ac21a7ab9141a881", "it": "Beccaffilato", "sez": "Items"}
+{"id": "fd4e2e671936b58e", "it": "Sharpedite", "sez": "Items"}
+{"id": "cefcbe9f3bbf6d3f", "it": "Disfoguscio", "sez": "Items"}
+{"id": "e348336fce257a89", "it": "Conchinella", "sez": "Items"}
+{"id": "35b3cffeb8ae1c18", "it": "Cromamuleto", "sez": "Items"}
+{"id": "dea5ebda970d0dd8", "it": "Pietrabrillo", "sez": "Items"}
+{"id": "78c020d3e14b0064", "it": "Sale Ondoso", "sez": "Items"}
+{"id": "ba9d011f09340b22", "it": "Gusciondoso", "sez": "Items"}
+{"id": "706ab97fb868b631", "it": "Voltmodulo", "sez": "Items"}
+{"id": "3b7e17f4da807284", "it": "Baccanaca", "sez": "Items"}
+{"id": "79b5fdb895e01c98", "it": "Sciarpa Seta", "sez": "Items"}
+{"id": "7f525be2676f6751", "it": "Spettrosonda", "sez": "Items"}
+{"id": "a3de509be43d9129", "it": "Argenpolvere", "sez": "Items"}
+{"id": "438c0b53147b2a73", "it": "Baccacedro", "sez": "Items"}
+{"id": "5260bb3a0482f480", "it": "Fossilcranio", "sez": "Items"}
+{"id": "7e1c0218485d4182", "it": "Lastracielo", "sez": "Items"}
+{"id": "0267d2d109a5d834", "it": "Slowbroite", "sez": "Items"}
+{"id": "c075ad3d1b2cdee2", "it": "Palla Fumo", "sez": "Items"}
+{"id": "8706ea6b0975735c", "it": "Roccialiscia", "sez": "Items"}
+{"id": "48b8eda79e3c231e", "it": "Snorlactium Z", "sez": "Items"}
+{"id": "e8c7c2814476b7e7", "it": "Mess. Neve", "sez": "Items"}
+{"id": "5aa672038dc4b06e", "it": "Palla di neve", "sez": "Items"}
+{"id": "bb4859964c4ca351", "it": "Gassosa", "sez": "Items"}
+{"id": "7eef925775125222", "it": "Sabbia Soffice", "sez": "Items"}
+{"id": "e0e2360fe19d2929", "it": "Solgaleium Z", "sez": "Items"}
+{"id": "665621470cbe188a", "it": "Calmanella", "sez": "Items"}
+{"id": "2aa683ab32a125e6", "it": "Cuorugiada", "sez": "Items"}
+{"id": "6c92c3818661025b", "it": "Mess. Spazio", "sez": "Items"}
+{"id": "903fa4472dc46999", "it": "Spettrotarga", "sez": "Items"}
+{"id": "e42e156dd4a80cc6", "it": "Baccamelos", "sez": "Items"}
+{"id": "7a32185a9f4ada96", "it": "Lastraidro", "sez": "Items"}
+{"id": "29c4b3fc3b8e5ce7", "it": "Lastratetra", "sez": "Items"}
+{"id": "8cfae54fde8f55ef", "it": "Gara Ball", "sez": "Items"}
+{"id": "504b57fc0a0bd463", "it": "Sprayduck", "sez": "Items"}
+{"id": "407f00035472c895", "it": "Fertilsaldo", "sez": "Items"}
+{"id": "2c1915cbd05a4ac1", "it": "Pezzo Stella", "sez": "Items"}
+{"id": "53cb1f455d882f79", "it": "Polvostella", "sez": "Items"}
+{"id": "4b9d175c4a80109a", "it": "Baccambola", "sez": "Items"}
+{"id": "9fc0ab2d20dcd1e8", "it": "Bijouacciaio", "sez": "Items"}
+{"id": "87a917d62e0c7423", "it": "Mess. Lega", "sez": "Items"}
+{"id": "8e85a4d5faf4bf50", "it": "ROM Acciaio", "sez": "Items"}
+{"id": "3c026c83371882b9", "it": "Metallium Z", "sez": "Items"}
+{"id": "d08e8a0c8a5453e7", "it": "Vischiopunta", "sez": "Items"}
+{"id": "0753acc73f56796c", "it": "Lastrapietra", "sez": "Items"}
+{"id": "a50e815570fdb840", "it": "Super Amo", "sez": "Items"}
+{"id": "d87d2784a877ccaa", "it": "Dolcepomo", "sez": "Items"}
+{"id": "8080e864b50dcbcd", "it": "Dolcecuore", "sez": "Items"}
+{"id": "846428e0a246355d", "it": "Piumreazione", "sez": "Items"}
+{"id": "c7f00bb418343bd6", "it": "Sciroppomo", "sez": "Items"}
+{"id": "d1cd344033857c1a", "it": "Baccamodoro", "sez": "Items"}
+{"id": "033010f997882e7c", "it": "Baccaitan", "sez": "Items"}
+{"id": "c36accd32f3693b3", "it": "Tapium Z", "sez": "Items"}
+{"id": "9926d9a3c1a0ca40", "it": "Aspropomo", "sez": "Items"}
+{"id": "f6d78561bdc5b369", "it": "Maschera Turchese", "sez": "Items"}
+{"id": "97826dd92683897e", "it": "Terasfera", "sez": "Items"}
+{"id": "5cce7b91d679836a", "it": "Ossospesso", "sez": "Items"}
+{"id": "923a16cc15e25422", "it": "Spray gola", "sez": "Items"}
+{"id": "f7ba4fa0dbb76485", "it": "Minifungo", "sez": "Items"}
+{"id": "4d566fe2abf8877c", "it": "Mappa città", "sez": "Items"}
+{"id": "bebcee32ba6999ad", "it": "Tossicsfera", "sez": "Items"}
+{"id": "1ea67e0717a304da", "it": "Lastrafiele", "sez": "Items"}
+{"id": "ab647ae100e246d7", "it": "Mess. Tunnel", "sez": "Items"}
+{"id": "eadf64100e8d1552", "it": "Cucchiaio Torto", "sez": "Items"}
+{"id": "9ff88e7b4b53245c", "it": "Tazza dozzinale", "sez": "Items"}
+{"id": "ca7415e6c7389dc9", "it": "Superombrello", "sez": "Items"}
+{"id": "894818aa754b500a", "it": "Baccaparmen", "sez": "Items"}
+{"id": "98e600d5c6c8ab53", "it": "Vaso Wailmer", "sez": "Items"}
+{"id": "487c661d0aa0aa13", "it": "Bijouacqua", "sez": "Items"}
+{"id": "4b98870f595e24ba", "it": "ROM Acqua", "sez": "Items"}
+{"id": "996618ececcab05e", "it": "Idrium Z", "sez": "Items"}
+{"id": "449ba438e6962775", "it": "Baccacomero", "sez": "Items"}
+{"id": "f968de5270426d73", "it": "Ondaroma", "sez": "Items"}
+{"id": "eff771e5c8a112e8", "it": "Vulneropolizza", "sez": "Items"}
+{"id": "c7a17232683070aa", "it": "Maschera Pozzo", "sez": "Items"}
+{"id": "421f23bc7f9c87d0", "it": "Baccapera", "sez": "Items"}
+{"id": "06988de55dd28734", "it": "Dolcespuma", "sez": "Items"}
+{"id": "0da9e2fd0aeeb0ef", "it": "Erbachiara", "sez": "Items"}
+{"id": "8934af34cd0b8b12", "it": "Grandelente", "sez": "Items"}
+{"id": "949badda2316758f", "it": "Baccakiwi", "sez": "Items"}
+{"id": "799ced9d9f624571", "it": "Saviocchiali", "sez": "Items"}
+{"id": "fd567923db3b253b", "it": "Precisione X-2", "sez": "Items"}
+{"id": "b0b6399068a6b911", "it": "Precisione X-3", "sez": "Items"}
+{"id": "0ac061a36a606b73", "it": "Precisione X-6", "sez": "Items"}
+{"id": "0b2f25cad05fe959", "it": "Attacco X-2", "sez": "Items"}
+{"id": "0f7ef4438d6739a3", "it": "Attacco X-3", "sez": "Items"}
+{"id": "183e141aac20e2db", "it": "Attacco X-6", "sez": "Items"}
+{"id": "59814dfd494e9edb", "it": "Difesa X-2", "sez": "Items"}
+{"id": "c1f8f1595a114ba9", "it": "Difesa X-3", "sez": "Items"}
+{"id": "bd090688a1202e22", "it": "Difesa X-6", "sez": "Items"}
+{"id": "7cecd530a9e03e66", "it": "Att. Speciale X", "sez": "Items"}
+{"id": "9bf0b502d3eb238c", "it": "Att. Sp. X-2", "sez": "Items"}
+{"id": "01d35f12fc9d3d9c", "it": "Att. Sp. X-3", "sez": "Items"}
+{"id": "8df98b42e87f7182", "it": "Att. Sp. X-6", "sez": "Items"}
+{"id": "96182264dd3274fc", "it": "Dif. Speciale X", "sez": "Items"}
+{"id": "57dfbfc5605e917a", "it": "Dif. Spec. X-2", "sez": "Items"}
+{"id": "3655c5653a191985", "it": "Dif. Spec. X-3", "sez": "Items"}
+{"id": "9a1f752a8e02ff8a", "it": "Dif. Spec. X-6", "sez": "Items"}
+{"id": "ba213caec0659289", "it": "Velocità X-2", "sez": "Items"}
+{"id": "64539e2c0acbf4ff", "it": "Velocità X-3", "sez": "Items"}
+{"id": "530a32ce08fd0074", "it": "Velocità X-6", "sez": "Items"}
+{"id": "246e4d22f6002643", "it": "Baccamoya", "sez": "Items"}
+{"id": "4fd4fb490a9cb5be", "it": "Nettare giallo", "sez": "Items"}
+{"id": "7307d8a46829fef6", "it": "Coccio Giallo", "sez": "Items"}
+{"id": "6a3da12ebc958a6b", "it": "Lastrasaetta", "sez": "Items"}
+{"id": "dd0ae60d2c119fea", "it": "Zoomlente", "sez": "Items"}
+{"id": "52b8231a68069576", "it": "Pellecielo", "sez": "Abilities"}
+{"id": "ba9cefa178082482", "it": "Scoppio", "sez": "Abilities"}
+{"id": "d52c02c3a7e8352d", "it": "Riparo", "sez": "Abilities"}
+{"id": "bf4be597331cacd9", "it": "Ponderazione", "sez": "Abilities"}
+{"id": "237b90832e04a3d6", "it": "Grancollera", "sez": "Abilities"}
+{"id": "609abca6d2057656", "it": "Iraguscio", "sez": "Abilities"}
+{"id": "4acd47483c5f04ab", "it": "Presagio", "sez": "Abilities"}
+{"id": "07e7de58183a3f9b", "it": "Trappoarena", "sez": "Abilities"}
+{"id": "452d4d86b8ad36e4", "it": "Codarmatura", "sez": "Abilities"}
+{"id": "cf0323ce584ebba8", "it": "Aromavelo", "sez": "Abilities"}
+{"id": "c2640fb98dbf8f91", "it": "Sintonia Equina", "sez": "Abilities"}
+{"id": "8e382c9f4909cef6", "it": "Frangiaura", "sez": "Abilities"}
+{"id": "9603db60bc736096", "it": "Sogniamari", "sez": "Abilities"}
+{"id": "4a027f1838cd8c4f", "it": "Raccattapalle", "sez": "Abilities"}
+{"id": "29ead3a7fc66d2d6", "it": "Lottascudo", "sez": "Abilities"}
+{"id": "0b93932d121e271d", "it": "Monile Nefasto", "sez": "Abilities"}
+{"id": "4e2fa1e250f790e6", "it": "Ultraboost", "sez": "Abilities"}
+{"id": "9ecca445cad61d53", "it": "Furore", "sez": "Abilities"}
+{"id": "e38fccf216123da5", "it": "Pettinfuori", "sez": "Abilities"}
+{"id": "7ff440de8d23dfe6", "it": "Aiutofuoco", "sez": "Abilities"}
+{"id": "a8cf78d701c64a06", "it": "Antiproiettile", "sez": "Abilities"}
+{"id": "9cfa5837eef5a115", "it": "Guancegonfie", "sez": "Abilities"}
+{"id": "5f01d053930ee576", "it": "Nitrito Bianco", "sez": "Abilities"}
+{"id": "a3dbcc1a4e44e00d", "it": "Corpochiaro", "sez": "Abilities"}
+{"id": "ed67a47675f8b277", "it": "Antimeteo", "sez": "Abilities"}
+{"id": "32c21fe3190accd4", "it": "Sonno Assoluto", "sez": "Abilities"}
+{"id": "79056c7ae5c30b8c", "it": "Torre di Comando", "sez": "Abilities"}
+{"id": "c7ffcd97e38ff217", "it": "Tenacia", "sez": "Abilities"}
+{"id": "a84b774502531873", "it": "Insettocchi", "sez": "Abilities"}
+{"id": "166578224dd32db5", "it": "Inversione", "sez": "Abilities"}
+{"id": "112878765a202613", "it": "Coprotagonismo", "sez": "Abilities"}
+{"id": "dc94a104062e19f4", "it": "Lanugine", "sez": "Abilities"}
+{"id": "6707cc4aaa55ec8a", "it": "Ruminante", "sez": "Abilities"}
+{"id": "98087f487df14994", "it": "Corpofunesto", "sez": "Abilities"}
+{"id": "9b6d638391816338", "it": "Incantevole", "sez": "Abilities"}
+{"id": "bbd3fe91db28cc6e", "it": "Sincrodanza", "sez": "Abilities"}
+{"id": "d1337bd66502e493", "it": "Auratetra", "sez": "Abilities"}
+{"id": "557bc1d0d9cf9aff", "it": "Scudo Saldo", "sez": "Abilities"}
+{"id": "cd0d22ba89bce028", "it": "Corposgargiante", "sez": "Abilities"}
+{"id": "502de343544eb36c", "it": "Sconforto", "sez": "Abilities"}
+{"id": "e3b95cbcb6a7a989", "it": "Agonismo", "sez": "Abilities"}
+{"id": "5ecc0136b1f05c2e", "it": "Flusso Delta", "sez": "Abilities"}
+{"id": "6109cb752d175f20", "it": "Terra Estrema", "sez": "Abilities"}
+{"id": "05612764ef6eda67", "it": "Fantasmanto", "sez": "Abilities"}
+{"id": "c67360253575090c", "it": "Pelledrago", "sez": "Abilities"}
+{"id": "74f0cd3774ffef6a", "it": "Piovischio", "sez": "Abilities"}
+{"id": "68fc4cad65a694c4", "it": "Pellearsa", "sez": "Abilities"}
+{"id": "377ddf1d5862d9be", "it": "Sveglialampo", "sez": "Abilities"}
+{"id": "1995b93aed08cbae", "it": "Spargispora", "sez": "Abilities"}
+{"id": "b1fb2cd12feb0470", "it": "Elettrogenesi", "sez": "Abilities"}
+{"id": "2e2c4cc56896b64f", "it": "Albergamemorie", "sez": "Abilities"}
+{"id": "a3b658dc31f6fdfb", "it": "Aurafolletto", "sez": "Abilities"}
+{"id": "c74567ff02efc7bc", "it": "Corpodifuoco", "sez": "Abilities"}
+{"id": "156b7bd8bb69b4c3", "it": "Bruciaimpeto", "sez": "Abilities"}
+{"id": "438c97bacbba8f05", "it": "Fuocardore", "sez": "Abilities"}
+{"id": "673f51cfbd385ad5", "it": "Regalfiore", "sez": "Abilities"}
+{"id": "0389af3d4d8fec2e", "it": "Fiorvelo", "sez": "Abilities"}
+{"id": "3af4e2d1a82a1e2d", "it": "Morbidone", "sez": "Abilities"}
+{"id": "528bc4bc381542e0", "it": "Previsioni", "sez": "Abilities"}
+{"id": "b85400bc89b33b1f", "it": "Premonizione", "sez": "Abilities"}
+{"id": "17ac547d28b088d7", "it": "Amicoscudo", "sez": "Abilities"}
+{"id": "b293f5458d9bff94", "it": "Indagine", "sez": "Abilities"}
+{"id": "8af67600669f00f2", "it": "Metalprotezione", "sez": "Abilities"}
+{"id": "17e3aa60b4b7f6cc", "it": "Foltopelo", "sez": "Abilities"}
+{"id": "f3cb71f5078d8fdd", "it": "Aliraffica", "sez": "Abilities"}
+{"id": "f54f8ba5f84c4223", "it": "Pellelettro", "sez": "Abilities"}
+{"id": "d12a8b2a74ee4582", "it": "Voracità", "sez": "Abilities"}
+{"id": "98d8dca9d45d9476", "it": "Corpo Aureo", "sez": "Abilities"}
+{"id": "1463a3c3f5a60fb6", "it": "Viscosità", "sez": "Abilities"}
+{"id": "ff2749b6d39e2158", "it": "Vigorilla", "sez": "Abilities"}
+{"id": "73583d0c990204fa", "it": "Peloderba", "sez": "Abilities"}
+{"id": "005f78400f7b5735", "it": "Erbogenesi", "sez": "Abilities"}
+{"id": "78cacc6b0912213f", "it": "Nitrito Nero", "sez": "Abilities"}
+{"id": "0726b90bb1e16f7a", "it": "Inghiottimissile", "sez": "Abilities"}
+{"id": "4cf405f9d85c31b8", "it": "Dentistretti", "sez": "Abilities"}
+{"id": "ae305410007037a4", "it": "Motore Adronico", "sez": "Abilities"}
+{"id": "1b665f2be323552d", "it": "Coglibacche", "sez": "Abilities"}
+{"id": "6cad85d7f7dcd1b5", "it": "Curacuore", "sez": "Abilities"}
+{"id": "a428fcb24474fd2d", "it": "Antifuoco", "sez": "Abilities"}
+{"id": "c53249dbc3fafe1f", "it": "Metalpesante", "sez": "Abilities"}
+{"id": "f676d1befee311ba", "it": "Mielincetta", "sez": "Abilities"}
+{"id": "ede03e09c0bfbcf9", "it": "Macroforza", "sez": "Abilities"}
+{"id": "9a1af6215504f1c7", "it": "Pancialterna", "sez": "Abilities"}
+{"id": "16517773a769afad", "it": "Tuttafretta", "sez": "Abilities"}
+{"id": "d491050061b75bae", "it": "Ipertaglio", "sez": "Abilities"}
+{"id": "4a57bd0b311ee2d1", "it": "Corpogelo", "sez": "Abilities"}
+{"id": "d4f2a40b183552d3", "it": "Gelofaccia", "sez": "Abilities"}
+{"id": "5939919c3d052e0d", "it": "Geloscaglie", "sez": "Abilities"}
+{"id": "1526e6b93ddb847b", "it": "Risplendi", "sez": "Abilities"}
+{"id": "6c4d8b5c36ca010e", "it": "Sosia", "sez": "Abilities"}
+{"id": "775b5c2c4a4124bc", "it": "Intrapasso", "sez": "Abilities"}
+{"id": "15d733b9e4b07333", "it": "Espellinterno", "sez": "Abilities"}
+{"id": "d887c7f57ddeba2b", "it": "Forza Interiore", "sez": "Abilities"}
+{"id": "59bb99641c312454", "it": "Prepotenza", "sez": "Abilities"}
+{"id": "800ce59d6c704f15", "it": "Spada Indomita", "sez": "Abilities"}
+{"id": "408250f36ae3188c", "it": "Spineferrate", "sez": "Abilities"}
+{"id": "a8f79f3f034ecaa6", "it": "Ferropugno", "sez": "Abilities"}
+{"id": "27e40dfc3a59c938", "it": "Giustizia", "sez": "Abilities"}
+{"id": "57863b92f910bff9", "it": "Sguardofermo", "sez": "Abilities"}
+{"id": "91e52dad95c67e77", "it": "Impaccio", "sez": "Abilities"}
+{"id": "1d20c7df11d39ab8", "it": "Fogliamanto", "sez": "Abilities"}
+{"id": "805e1a9b50fd5e74", "it": "Metalleggero", "sez": "Abilities"}
+{"id": "8bb41cad1c7ee869", "it": "Scioltezza", "sez": "Abilities"}
+{"id": "9e625b05478b7225", "it": "Idrovoce", "sez": "Abilities"}
+{"id": "d2709866f92fbab2", "it": "Distacco", "sez": "Abilities"}
+{"id": "d03eb47890fceae4", "it": "Magispecchio", "sez": "Abilities"}
+{"id": "382411405b0b7144", "it": "Magicscudo", "sez": "Abilities"}
+{"id": "148f29f679588417", "it": "Prestigiatore", "sez": "Abilities"}
+{"id": "c67cf942fb445276", "it": "Magmascudo", "sez": "Abilities"}
+{"id": "33f34ff1aad75d85", "it": "Pelledura", "sez": "Abilities"}
+{"id": "cf298572a2ed50d5", "it": "Megalancio", "sez": "Abilities"}
+{"id": "91832f0d559de6f2", "it": "Megasolar", "sez": "Abilities"}
+{"id": "c51b3ee318cd1b7e", "it": "Spietatezza", "sez": "Abilities"}
+{"id": "66b0843d9cf98562", "it": "Blindospecchio", "sez": "Abilities"}
+{"id": "61cc79eea4757182", "it": "Nebbiogenesi", "sez": "Abilities"}
+{"id": "e84f44dd091f2509", "it": "Altalena", "sez": "Abilities"}
+{"id": "8b20a6d2da98367e", "it": "Elettrorapid", "sez": "Abilities"}
+{"id": "d2247a80d869e9f2", "it": "Arroganza", "sez": "Abilities"}
+{"id": "c6d18d43cdccd0ed", "it": "Micoforza", "sez": "Abilities"}
+{"id": "9eb1071b822f9e6c", "it": "Alternacura", "sez": "Abilities"}
+{"id": "a57de611359d092c", "it": "Cerebroforza", "sez": "Abilities"}
+{"id": "80c555a5baa57c38", "it": "Gas Reagente", "sez": "Abilities"}
+{"id": "1daba6950906497f", "it": "Nullodifesa", "sez": "Abilities"}
+{"id": "67b991b2ba727ffb", "it": "Normalità", "sez": "Abilities"}
+{"id": "0fabb76b747b0c9c", "it": "Indifferenza", "sez": "Abilities"}
+{"id": "b203148f74e9f424", "it": "Scrocco", "sez": "Abilities"}
+{"id": "76c56a26979d0c17", "it": "Copricapo", "sez": "Abilities"}
+{"id": "f305c840d4d10c8f", "it": "Mente Locale", "sez": "Abilities"}
+{"id": "865cd11c40489ada", "it": "Amorefiliale", "sez": "Abilities"}
+{"id": "f70109213303a491", "it": "Pastelvelo", "sez": "Abilities"}
+{"id": "52a1dc6ce903134d", "it": "Ultimotocco", "sez": "Abilities"}
+{"id": "13d1545ab7647035", "it": "Arraffalesto", "sez": "Abilities"}
+{"id": "1777405ef66c7f8a", "it": "Punta Perforante", "sez": "Abilities"}
+{"id": "31ae6a967432563e", "it": "Pellefolletto", "sez": "Abilities"}
+{"id": "24fab91a7ac7af76", "it": "Velencura", "sez": "Abilities"}
+{"id": "89d9460002685e4d", "it": "Velenopunto", "sez": "Abilities"}
+{"id": "90cca7075150b0fd", "it": "Velentocco", "sez": "Abilities"}
+{"id": "d0b3be8a16360ce0", "it": "Fonte Energetica", "sez": "Abilities"}
+{"id": "afe654602fbd35e8", "it": "Burla", "sez": "Abilities"}
+{"id": "3cd14f9e7f0e343b", "it": "Scudoprisma", "sez": "Abilities"}
+{"id": "0f74709ef5cd2c4f", "it": "Elicopinna", "sez": "Abilities"}
+{"id": "f2ac9b4298bbb1df", "it": "Mutatipo", "sez": "Abilities"}
+{"id": "62780443917324ee", "it": "Paleoattivazione", "sez": "Abilities"}
+{"id": "e3344db7974fbd0b", "it": "Psicogenesi", "sez": "Abilities"}
+{"id": "8c1e8a928521102b", "it": "Forzapura", "sez": "Abilities"}
+{"id": "21fc53615cd0e1a5", "it": "Carica Quark", "sez": "Abilities"}
+{"id": "239bae2e44863f8f", "it": "Colpolesto", "sez": "Abilities"}
+{"id": "c8b381bf5c2c3e67", "it": "Piedisvelti", "sez": "Abilities"}
+{"id": "73f683e3ca27e99c", "it": "Sistema Primevo", "sez": "Abilities"}
+{"id": "73e2c38fba838233", "it": "Copripioggia", "sez": "Abilities"}
+{"id": "0a7707046a034a85", "it": "Paura", "sez": "Abilities"}
+{"id": "8434c52b54f0df88", "it": "Ricezione", "sez": "Abilities"}
+{"id": "c085a670628a4e24", "it": "Temerarietà", "sez": "Abilities"}
+{"id": "0cb24c94e84728c8", "it": "Pellegelo", "sez": "Abilities"}
+{"id": "ef29e8619cb3df78", "it": "Rigenergia", "sez": "Abilities"}
+{"id": "e3b4a99b9befe2e3", "it": "Antagonismo", "sez": "Abilities"}
+{"id": "ca161e119ff96192", "it": "Testadura", "sez": "Abilities"}
+{"id": "69b2549ad9ac48d7", "it": "Portamassi", "sez": "Abilities"}
+{"id": "bbcccb6a0d7ef5fe", "it": "Cartavetro", "sez": "Abilities"}
+{"id": "f48da6329f7f2785", "it": "Fugafacile", "sez": "Abilities"}
+{"id": "067c47233918ab4f", "it": "Silicoforza", "sez": "Abilities"}
+{"id": "8af04e4753dc0a4b", "it": "Remasabbia", "sez": "Abilities"}
+{"id": "af19cb606ae87897", "it": "Sabbiafiume", "sez": "Abilities"}
+{"id": "e143f1ab9ee16dfe", "it": "Sabbiavelo", "sez": "Abilities"}
+{"id": "4849e6ac2cf39d63", "it": "Mangiaerba", "sez": "Abilities"}
+{"id": "8c68b98a31bdb8f3", "it": "Banco", "sez": "Abilities"}
+{"id": "dc03847736868623", "it": "Nervisaldi", "sez": "Abilities"}
+{"id": "6be8a8cf286bfd07", "it": "Annullabarriere", "sez": "Abilities"}
+{"id": "fbc7c2b3cefee21f", "it": "Spargisemi", "sez": "Abilities"}
+{"id": "098a5d89c4dcefd4", "it": "Leggiadro", "sez": "Abilities"}
+{"id": "eb891a3684b37fde", "it": "Spettroguardia", "sez": "Abilities"}
+{"id": "dd43437d323a9bb5", "it": "Pedinombra", "sez": "Abilities"}
+{"id": "74ff2464781fa149", "it": "Affilama", "sez": "Abilities"}
+{"id": "6d200361ae8726fb", "it": "Muta", "sez": "Abilities"}
+{"id": "7015ec34eb2b9262", "it": "Forzabruta", "sez": "Abilities"}
+{"id": "e6e2d2e5cc5305e7", "it": "Guscioscudo", "sez": "Abilities"}
+{"id": "62311c165044b31e", "it": "Polvoscudo", "sez": "Abilities"}
+{"id": "3197fd6be69017e6", "it": "Scudosoglia", "sez": "Abilities"}
+{"id": "de72ea9e60d3b038", "it": "Disinvoltura", "sez": "Abilities"}
+{"id": "80d2e02c6e43859e", "it": "Abillegame", "sez": "Abilities"}
+{"id": "d9d2e3952e834a4b", "it": "Lentoinizio", "sez": "Abilities"}
+{"id": "a47824241e533937", "it": "Spalaneve", "sez": "Abilities"}
+{"id": "306416cf56542d7c", "it": "Mantelneve", "sez": "Abilities"}
+{"id": "53cc950fac815db9", "it": "Scendineve", "sez": "Abilities"}
+{"id": "955d821a4930803f", "it": "Solarpotere", "sez": "Abilities"}
+{"id": "f66b4342583cf57c", "it": "Solidroccia", "sez": "Abilities"}
+{"id": "64c6d9e45e1a4ddf", "it": "Cuoreanima", "sez": "Abilities"}
+{"id": "f2e475585ea86d73", "it": "Antisuono", "sez": "Abilities"}
+{"id": "a18acbc7d17b64a7", "it": "Acceleratore", "sez": "Abilities"}
+{"id": "81134c3559b1ae55", "it": "Spargipiccante", "sez": "Abilities"}
+{"id": "eb75d2388d262556", "it": "Sorveglianza", "sez": "Abilities"}
+{"id": "516bb8e84924a199", "it": "Rallentatore", "sez": "Abilities"}
+{"id": "a4bfe78ac74ae089", "it": "Volontà di Ferro", "sez": "Abilities"}
+{"id": "b82236115cc38e82", "it": "Sopportazione", "sez": "Abilities"}
+{"id": "948c4fae13547b47", "it": "Accendilotta", "sez": "Abilities"}
+{"id": "af92969a73d6478f", "it": "Statico", "sez": "Abilities"}
+{"id": "93da20c14ff891d0", "it": "Cuordeciso", "sez": "Abilities"}
+{"id": "ba11777eebc9f99b", "it": "Vapormacchina", "sez": "Abilities"}
+{"id": "921a90ed30fb3985", "it": "Tempracciaio", "sez": "Abilities"}
+{"id": "6a1a50ee4ba7b5df", "it": "Spiritoferreo", "sez": "Abilities"}
+{"id": "33d55b1702e3348c", "it": "Tanfo", "sez": "Abilities"}
+{"id": "c43a598063bf7977", "it": "Antifurto", "sez": "Abilities"}
+{"id": "b3597351e7890c9a", "it": "Acquascolo", "sez": "Abilities"}
+{"id": "eb36f7ad3691c6a5", "it": "Ferromascella", "sez": "Abilities"}
+{"id": "04f2d6248388aef1", "it": "Vigore", "sez": "Abilities"}
+{"id": "8bad12ae353624de", "it": "Supersorte", "sez": "Abilities"}
+{"id": "70dbca35e47c3ece", "it": "Codasurf", "sez": "Abilities"}
+{"id": "5c7e3aec1f9179ce", "it": "Aiutinsetto", "sez": "Abilities"}
+{"id": "41c7e82cc2252698", "it": "Dolcevelo", "sez": "Abilities"}
+{"id": "733c7d5343f393ed", "it": "Nuotovelox", "sez": "Abilities"}
+{"id": "33933691144186d7", "it": "Spada Nefasta", "sez": "Abilities"}
+{"id": "e8e9ae04ffe7ac1d", "it": "Amuleto Nefasto", "sez": "Abilities"}
+{"id": "e94a82a9bed8d5ae", "it": "Intricopiedi", "sez": "Abilities"}
+{"id": "e47fd38264af200f", "it": "Boccolidoro", "sez": "Abilities"}
+{"id": "0bfbb51b3b3c0cf1", "it": "Teraguscio", "sez": "Abilities"}
+{"id": "3aeb117a0960e8fd", "it": "Teramorfosi", "sez": "Abilities"}
+{"id": "4ac8493f490f3ce2", "it": "Zeroformazione", "sez": "Abilities"}
+{"id": "ca3c53c7910f60a1", "it": "Grassospesso", "sez": "Abilities"}
+{"id": "90984c03d28e6ec2", "it": "Lentifumé", "sez": "Abilities"}
+{"id": "4d15a5de84eb354a", "it": "Acquaiuto", "sez": "Abilities"}
+{"id": "1ea85132b9ba0391", "it": "Unghiedure", "sez": "Abilities"}
+{"id": "3e9b9bc647ebc04a", "it": "Velenimpeto", "sez": "Abilities"}
+{"id": "97fca6ddf5cd2094", "it": "Mantossina", "sez": "Abilities"}
+{"id": "013ec284eed0cb93", "it": "Primacura", "sez": "Abilities"}
+{"id": "e5587e0f6ac67a20", "it": "Pigrone", "sez": "Abilities"}
+{"id": "c4bf5f98abc727d3", "it": "Piroturbina", "sez": "Abilities"}
+{"id": "6ad9fe0f12008f61", "it": "Imprudenza", "sez": "Abilities"}
+{"id": "0a6b37e8651f8943", "it": "Agiltecnica", "sez": "Abilities"}
+{"id": "bdc59da52cb8e28c", "it": "Pugni Invisibili", "sez": "Abilities"}
+{"id": "20156f952325ed53", "it": "Vaso Nefasto", "sez": "Abilities"}
+{"id": "acdfd772997124a0", "it": "Vittorstella", "sez": "Abilities"}
+{"id": "1dad103124c6e5f1", "it": "Spiritovivo", "sez": "Abilities"}
+{"id": "8581d9791f8c8845", "it": "Assorbivolt", "sez": "Abilities"}
+{"id": "7fd1f0ed8b89e742", "it": "Assorbacqua", "sez": "Abilities"}
+{"id": "e0a08c9310da44c9", "it": "Bolladacqua", "sez": "Abilities"}
+{"id": "bb9a657148c6d252", "it": "Idrovelo", "sez": "Abilities"}
+{"id": "80992b5748634e60", "it": "Sottilguscio", "sez": "Abilities"}
+{"id": "824c43c338d98583", "it": "Fumochiaro", "sez": "Abilities"}
+{"id": "9cd6157628317d6e", "it": "Fuggifuggi", "sez": "Abilities"}
+{"id": "c0c480910b6e1576", "it": "Energia Eolica", "sez": "Abilities"}
+{"id": "b5539c2d0b156ff0", "it": "Vento Propizio", "sez": "Abilities"}
+{"id": "75be513f9ef9c7b2", "it": "Magidifesa", "sez": "Abilities"}
+{"id": "67936228b7a3176e", "it": "Splendicute", "sez": "Abilities"}
+{"id": "4f89e2fc4cbc87d6", "it": "Stato Zen", "sez": "Abilities"}
+{"id": "38449147edeb0dc8", "it": "Supercambio", "sez": "Abilities"}
+{"id": "52b8231a68069576", "it": "Pellecielo", "sez": "AbilitiesLong"}
+{"id": "ba9cefa178082482", "it": "Scoppio", "sez": "AbilitiesLong"}
+{"id": "d52c02c3a7e8352d", "it": "Riparo", "sez": "AbilitiesLong"}
+{"id": "bf4be597331cacd9", "it": "Ponderazione", "sez": "AbilitiesLong"}
+{"id": "237b90832e04a3d6", "it": "Grancollera", "sez": "AbilitiesLong"}
+{"id": "609abca6d2057656", "it": "Iraguscio", "sez": "AbilitiesLong"}
+{"id": "4acd47483c5f04ab", "it": "Presagio", "sez": "AbilitiesLong"}
+{"id": "07e7de58183a3f9b", "it": "Trappoarena", "sez": "AbilitiesLong"}
+{"id": "452d4d86b8ad36e4", "it": "Codarmatura", "sez": "AbilitiesLong"}
+{"id": "cf0323ce584ebba8", "it": "Aromavelo", "sez": "AbilitiesLong"}
+{"id": "c2640fb98dbf8f91", "it": "Sintonia Equina", "sez": "AbilitiesLong"}
+{"id": "8e382c9f4909cef6", "it": "Frangiaura", "sez": "AbilitiesLong"}
+{"id": "9603db60bc736096", "it": "Sogniamari", "sez": "AbilitiesLong"}
+{"id": "4a027f1838cd8c4f", "it": "Raccattapalle", "sez": "AbilitiesLong"}
+{"id": "29ead3a7fc66d2d6", "it": "Lottascudo", "sez": "AbilitiesLong"}
+{"id": "0b93932d121e271d", "it": "Monile Nefasto", "sez": "AbilitiesLong"}
+{"id": "4e2fa1e250f790e6", "it": "Ultraboost", "sez": "AbilitiesLong"}
+{"id": "9ecca445cad61d53", "it": "Furore", "sez": "AbilitiesLong"}
+{"id": "e38fccf216123da5", "it": "Pettinfuori", "sez": "AbilitiesLong"}
+{"id": "7ff440de8d23dfe6", "it": "Aiutofuoco", "sez": "AbilitiesLong"}
+{"id": "a8cf78d701c64a06", "it": "Antiproiettile", "sez": "AbilitiesLong"}
+{"id": "9cfa5837eef5a115", "it": "Guancegonfie", "sez": "AbilitiesLong"}
+{"id": "5f01d053930ee576", "it": "Nitrito Bianco", "sez": "AbilitiesLong"}
+{"id": "a3dbcc1a4e44e00d", "it": "Corpochiaro", "sez": "AbilitiesLong"}
+{"id": "ed67a47675f8b277", "it": "Antimeteo", "sez": "AbilitiesLong"}
+{"id": "32c21fe3190accd4", "it": "Sonno Assoluto", "sez": "AbilitiesLong"}
+{"id": "79056c7ae5c30b8c", "it": "Torre di Comando", "sez": "AbilitiesLong"}
+{"id": "c7ffcd97e38ff217", "it": "Tenacia", "sez": "AbilitiesLong"}
+{"id": "a84b774502531873", "it": "Insettocchi", "sez": "AbilitiesLong"}
+{"id": "166578224dd32db5", "it": "Inversione", "sez": "AbilitiesLong"}
+{"id": "112878765a202613", "it": "Coprotagonismo", "sez": "AbilitiesLong"}
+{"id": "dc94a104062e19f4", "it": "Lanugine", "sez": "AbilitiesLong"}
+{"id": "6707cc4aaa55ec8a", "it": "Ruminante", "sez": "AbilitiesLong"}
+{"id": "5136fe12d4cb6d9e", "it": "Stranofarmaco", "sez": "AbilitiesLong"}
+{"id": "98087f487df14994", "it": "Corpofunesto", "sez": "AbilitiesLong"}
+{"id": "9b6d638391816338", "it": "Incantevole", "sez": "AbilitiesLong"}
+{"id": "bbd3fe91db28cc6e", "it": "Sincrodanza", "sez": "AbilitiesLong"}
+{"id": "d1337bd66502e493", "it": "Auratetra", "sez": "AbilitiesLong"}
+{"id": "557bc1d0d9cf9aff", "it": "Scudo Saldo", "sez": "AbilitiesLong"}
+{"id": "cd0d22ba89bce028", "it": "Corposgargiante", "sez": "AbilitiesLong"}
+{"id": "502de343544eb36c", "it": "Sconforto", "sez": "AbilitiesLong"}
+{"id": "e3b95cbcb6a7a989", "it": "Agonismo", "sez": "AbilitiesLong"}
+{"id": "5ecc0136b1f05c2e", "it": "Flusso Delta", "sez": "AbilitiesLong"}
+{"id": "6109cb752d175f20", "it": "Terra Estrema", "sez": "AbilitiesLong"}
+{"id": "05612764ef6eda67", "it": "Fantasmanto", "sez": "AbilitiesLong"}
+{"id": "c67360253575090c", "it": "Pelledrago", "sez": "AbilitiesLong"}
+{"id": "74f0cd3774ffef6a", "it": "Piovischio", "sez": "AbilitiesLong"}
+{"id": "68fc4cad65a694c4", "it": "Pellearsa", "sez": "AbilitiesLong"}
+{"id": "377ddf1d5862d9be", "it": "Sveglialampo", "sez": "AbilitiesLong"}
+{"id": "1995b93aed08cbae", "it": "Spargispora", "sez": "AbilitiesLong"}
+{"id": "b1fb2cd12feb0470", "it": "Elettrogenesi", "sez": "AbilitiesLong"}
+{"id": "444409f1f14da7ed", "it": "Convertivolt", "sez": "AbilitiesLong"}
+{"id": "2e2c4cc56896b64f", "it": "Albergamemorie", "sez": "AbilitiesLong"}
+{"id": "0d4ca32ddf8d648e", "it": "Passoindietro", "sez": "AbilitiesLong"}
+{"id": "a3b658dc31f6fdfb", "it": "Aurafolletto", "sez": "AbilitiesLong"}
+{"id": "c74567ff02efc7bc", "it": "Corpodifuoco", "sez": "AbilitiesLong"}
+{"id": "156b7bd8bb69b4c3", "it": "Bruciaimpeto", "sez": "AbilitiesLong"}
+{"id": "438c97bacbba8f05", "it": "Fuocardore", "sez": "AbilitiesLong"}
+{"id": "673f51cfbd385ad5", "it": "Regalfiore", "sez": "AbilitiesLong"}
+{"id": "0389af3d4d8fec2e", "it": "Fiorvelo", "sez": "AbilitiesLong"}
+{"id": "3af4e2d1a82a1e2d", "it": "Morbidone", "sez": "AbilitiesLong"}
+{"id": "528bc4bc381542e0", "it": "Previsioni", "sez": "AbilitiesLong"}
+{"id": "b85400bc89b33b1f", "it": "Premonizione", "sez": "AbilitiesLong"}
+{"id": "17ac547d28b088d7", "it": "Amicoscudo", "sez": "AbilitiesLong"}
+{"id": "b293f5458d9bff94", "it": "Indagine", "sez": "AbilitiesLong"}
+{"id": "8af67600669f00f2", "it": "Metalprotezione", "sez": "AbilitiesLong"}
+{"id": "17e3aa60b4b7f6cc", "it": "Foltopelo", "sez": "AbilitiesLong"}
+{"id": "f3cb71f5078d8fdd", "it": "Aliraffica", "sez": "AbilitiesLong"}
+{"id": "f54f8ba5f84c4223", "it": "Pellelettro", "sez": "AbilitiesLong"}
+{"id": "d12a8b2a74ee4582", "it": "Voracità", "sez": "AbilitiesLong"}
+{"id": "98d8dca9d45d9476", "it": "Corpo Aureo", "sez": "AbilitiesLong"}
+{"id": "1463a3c3f5a60fb6", "it": "Viscosità", "sez": "AbilitiesLong"}
+{"id": "ff2749b6d39e2158", "it": "Vigorilla", "sez": "AbilitiesLong"}
+{"id": "73583d0c990204fa", "it": "Peloderba", "sez": "AbilitiesLong"}
+{"id": "005f78400f7b5735", "it": "Erbogenesi", "sez": "AbilitiesLong"}
+{"id": "78cacc6b0912213f", "it": "Nitrito Nero", "sez": "AbilitiesLong"}
+{"id": "0726b90bb1e16f7a", "it": "Inghiottimissile", "sez": "AbilitiesLong"}
+{"id": "4cf405f9d85c31b8", "it": "Dentistretti", "sez": "AbilitiesLong"}
+{"id": "ae305410007037a4", "it": "Motore Adronico", "sez": "AbilitiesLong"}
+{"id": "1b665f2be323552d", "it": "Coglibacche", "sez": "AbilitiesLong"}
+{"id": "6cad85d7f7dcd1b5", "it": "Curacuore", "sez": "AbilitiesLong"}
+{"id": "a428fcb24474fd2d", "it": "Antifuoco", "sez": "AbilitiesLong"}
+{"id": "c53249dbc3fafe1f", "it": "Metalpesante", "sez": "AbilitiesLong"}
+{"id": "f676d1befee311ba", "it": "Mielincetta", "sez": "AbilitiesLong"}
+{"id": "ede03e09c0bfbcf9", "it": "Macroforza", "sez": "AbilitiesLong"}
+{"id": "9a1af6215504f1c7", "it": "Pancialterna", "sez": "AbilitiesLong"}
+{"id": "16517773a769afad", "it": "Tuttafretta", "sez": "AbilitiesLong"}
+{"id": "d491050061b75bae", "it": "Ipertaglio", "sez": "AbilitiesLong"}
+{"id": "4a57bd0b311ee2d1", "it": "Corpogelo", "sez": "AbilitiesLong"}
+{"id": "d4f2a40b183552d3", "it": "Gelofaccia", "sez": "AbilitiesLong"}
+{"id": "5939919c3d052e0d", "it": "Geloscaglie", "sez": "AbilitiesLong"}
+{"id": "1526e6b93ddb847b", "it": "Risplendi", "sez": "AbilitiesLong"}
+{"id": "6c4d8b5c36ca010e", "it": "Sosia", "sez": "AbilitiesLong"}
+{"id": "775b5c2c4a4124bc", "it": "Intrapasso", "sez": "AbilitiesLong"}
+{"id": "15d733b9e4b07333", "it": "Espellinterno", "sez": "AbilitiesLong"}
+{"id": "d887c7f57ddeba2b", "it": "Forza Interiore", "sez": "AbilitiesLong"}
+{"id": "59bb99641c312454", "it": "Prepotenza", "sez": "AbilitiesLong"}
+{"id": "800ce59d6c704f15", "it": "Spada Indomita", "sez": "AbilitiesLong"}
+{"id": "408250f36ae3188c", "it": "Spineferrate", "sez": "AbilitiesLong"}
+{"id": "a8f79f3f034ecaa6", "it": "Ferropugno", "sez": "AbilitiesLong"}
+{"id": "27e40dfc3a59c938", "it": "Giustizia", "sez": "AbilitiesLong"}
+{"id": "57863b92f910bff9", "it": "Sguardofermo", "sez": "AbilitiesLong"}
+{"id": "91e52dad95c67e77", "it": "Impaccio", "sez": "AbilitiesLong"}
+{"id": "1d20c7df11d39ab8", "it": "Fogliamanto", "sez": "AbilitiesLong"}
+{"id": "805e1a9b50fd5e74", "it": "Metalleggero", "sez": "AbilitiesLong"}
+{"id": "8bb41cad1c7ee869", "it": "Scioltezza", "sez": "AbilitiesLong"}
+{"id": "0bc671c60fa3a662", "it": "Odore Tenace", "sez": "AbilitiesLong"}
+{"id": "9e625b05478b7225", "it": "Idrovoce", "sez": "AbilitiesLong"}
+{"id": "d2709866f92fbab2", "it": "Distacco", "sez": "AbilitiesLong"}
+{"id": "d03eb47890fceae4", "it": "Magispecchio", "sez": "AbilitiesLong"}
+{"id": "382411405b0b7144", "it": "Magicscudo", "sez": "AbilitiesLong"}
+{"id": "148f29f679588417", "it": "Prestigiatore", "sez": "AbilitiesLong"}
+{"id": "c67cf942fb445276", "it": "Magmascudo", "sez": "AbilitiesLong"}
+{"id": "33f34ff1aad75d85", "it": "Pelledura", "sez": "AbilitiesLong"}
+{"id": "cf298572a2ed50d5", "it": "Megalancio", "sez": "AbilitiesLong"}
+{"id": "91832f0d559de6f2", "it": "Megasolar", "sez": "AbilitiesLong"}
+{"id": "c51b3ee318cd1b7e", "it": "Spietatezza", "sez": "AbilitiesLong"}
+{"id": "66b0843d9cf98562", "it": "Blindospecchio", "sez": "AbilitiesLong"}
+{"id": "61cc79eea4757182", "it": "Nebbiogenesi", "sez": "AbilitiesLong"}
+{"id": "e84f44dd091f2509", "it": "Altalena", "sez": "AbilitiesLong"}
+{"id": "8b20a6d2da98367e", "it": "Elettrorapid", "sez": "AbilitiesLong"}
+{"id": "d2247a80d869e9f2", "it": "Arroganza", "sez": "AbilitiesLong"}
+{"id": "c6d18d43cdccd0ed", "it": "Micoforza", "sez": "AbilitiesLong"}
+{"id": "9eb1071b822f9e6c", "it": "Alternacura", "sez": "AbilitiesLong"}
+{"id": "a57de611359d092c", "it": "Cerebroforza", "sez": "AbilitiesLong"}
+{"id": "80c555a5baa57c38", "it": "Gas Reagente", "sez": "AbilitiesLong"}
+{"id": "1daba6950906497f", "it": "Nullodifesa", "sez": "AbilitiesLong"}
+{"id": "67b991b2ba727ffb", "it": "Normalità", "sez": "AbilitiesLong"}
+{"id": "0fabb76b747b0c9c", "it": "Indifferenza", "sez": "AbilitiesLong"}
+{"id": "b203148f74e9f424", "it": "Scrocco", "sez": "AbilitiesLong"}
+{"id": "3b0810fc965454b7", "it": "Ritmo d’Oricalco", "sez": "AbilitiesLong"}
+{"id": "76c56a26979d0c17", "it": "Copricapo", "sez": "AbilitiesLong"}
+{"id": "f305c840d4d10c8f", "it": "Mente Locale", "sez": "AbilitiesLong"}
+{"id": "865cd11c40489ada", "it": "Amorefiliale", "sez": "AbilitiesLong"}
+{"id": "f70109213303a491", "it": "Pastelvelo", "sez": "AbilitiesLong"}
+{"id": "52a1dc6ce903134d", "it": "Ultimotocco", "sez": "AbilitiesLong"}
+{"id": "13d1545ab7647035", "it": "Arraffalesto", "sez": "AbilitiesLong"}
+{"id": "1777405ef66c7f8a", "it": "Punta Perforante", "sez": "AbilitiesLong"}
+{"id": "31ae6a967432563e", "it": "Pellefolletto", "sez": "AbilitiesLong"}
+{"id": "24fab91a7ac7af76", "it": "Velencura", "sez": "AbilitiesLong"}
+{"id": "89d9460002685e4d", "it": "Velenopunto", "sez": "AbilitiesLong"}
+{"id": "7e3af03b384693f0", "it": "Malia Tossica", "sez": "AbilitiesLong"}
+{"id": "90cca7075150b0fd", "it": "Velentocco", "sez": "AbilitiesLong"}
+{"id": "13572e2c5c55b74b", "it": "Sciamefusione", "sez": "AbilitiesLong"}
+{"id": "d0b3be8a16360ce0", "it": "Fonte Energetica", "sez": "AbilitiesLong"}
+{"id": "0194d3ffd695beb4", "it": "Forza Chimica", "sez": "AbilitiesLong"}
+{"id": "afe654602fbd35e8", "it": "Burla", "sez": "AbilitiesLong"}
+{"id": "3cd14f9e7f0e343b", "it": "Scudoprisma", "sez": "AbilitiesLong"}
+{"id": "0f74709ef5cd2c4f", "it": "Elicopinna", "sez": "AbilitiesLong"}
+{"id": "f2ac9b4298bbb1df", "it": "Mutatipo", "sez": "AbilitiesLong"}
+{"id": "62780443917324ee", "it": "Paleoattivazione", "sez": "AbilitiesLong"}
+{"id": "e3344db7974fbd0b", "it": "Psicogenesi", "sez": "AbilitiesLong"}
+{"id": "8c1e8a928521102b", "it": "Forzapura", "sez": "AbilitiesLong"}
+{"id": "21fc53615cd0e1a5", "it": "Carica Quark", "sez": "AbilitiesLong"}
+{"id": "801d316d03101577", "it": "Regalità", "sez": "AbilitiesLong"}
+{"id": "239bae2e44863f8f", "it": "Colpolesto", "sez": "AbilitiesLong"}
+{"id": "c8b381bf5c2c3e67", "it": "Piedisvelti", "sez": "AbilitiesLong"}
+{"id": "73f683e3ca27e99c", "it": "Sistema Primevo", "sez": "AbilitiesLong"}
+{"id": "73e2c38fba838233", "it": "Copripioggia", "sez": "AbilitiesLong"}
+{"id": "0a7707046a034a85", "it": "Paura", "sez": "AbilitiesLong"}
+{"id": "8434c52b54f0df88", "it": "Ricezione", "sez": "AbilitiesLong"}
+{"id": "c085a670628a4e24", "it": "Temerarietà", "sez": "AbilitiesLong"}
+{"id": "0cb24c94e84728c8", "it": "Pellegelo", "sez": "AbilitiesLong"}
+{"id": "ef29e8619cb3df78", "it": "Rigenergia", "sez": "AbilitiesLong"}
+{"id": "e3b4a99b9befe2e3", "it": "Antagonismo", "sez": "AbilitiesLong"}
+{"id": "ca161e119ff96192", "it": "Testadura", "sez": "AbilitiesLong"}
+{"id": "69b2549ad9ac48d7", "it": "Portamassi", "sez": "AbilitiesLong"}
+{"id": "bbcccb6a0d7ef5fe", "it": "Cartavetro", "sez": "AbilitiesLong"}
+{"id": "f48da6329f7f2785", "it": "Fugafacile", "sez": "AbilitiesLong"}
+{"id": "067c47233918ab4f", "it": "Silicoforza", "sez": "AbilitiesLong"}
+{"id": "8af04e4753dc0a4b", "it": "Remasabbia", "sez": "AbilitiesLong"}
+{"id": "af19cb606ae87897", "it": "Sabbiafiume", "sez": "AbilitiesLong"}
+{"id": "e143f1ab9ee16dfe", "it": "Sabbiavelo", "sez": "AbilitiesLong"}
+{"id": "4849e6ac2cf39d63", "it": "Mangiaerba", "sez": "AbilitiesLong"}
+{"id": "8c68b98a31bdb8f3", "it": "Banco", "sez": "AbilitiesLong"}
+{"id": "dc03847736868623", "it": "Nervisaldi", "sez": "AbilitiesLong"}
+{"id": "6be8a8cf286bfd07", "it": "Annullabarriere", "sez": "AbilitiesLong"}
+{"id": "fbc7c2b3cefee21f", "it": "Spargisemi", "sez": "AbilitiesLong"}
+{"id": "098a5d89c4dcefd4", "it": "Leggiadro", "sez": "AbilitiesLong"}
+{"id": "eb891a3684b37fde", "it": "Spettroguardia", "sez": "AbilitiesLong"}
+{"id": "dd43437d323a9bb5", "it": "Pedinombra", "sez": "AbilitiesLong"}
+{"id": "74ff2464781fa149", "it": "Affilama", "sez": "AbilitiesLong"}
+{"id": "6d200361ae8726fb", "it": "Muta", "sez": "AbilitiesLong"}
+{"id": "7015ec34eb2b9262", "it": "Forzabruta", "sez": "AbilitiesLong"}
+{"id": "e6e2d2e5cc5305e7", "it": "Guscioscudo", "sez": "AbilitiesLong"}
+{"id": "62311c165044b31e", "it": "Polvoscudo", "sez": "AbilitiesLong"}
+{"id": "3197fd6be69017e6", "it": "Scudosoglia", "sez": "AbilitiesLong"}
+{"id": "de72ea9e60d3b038", "it": "Disinvoltura", "sez": "AbilitiesLong"}
+{"id": "80d2e02c6e43859e", "it": "Abillegame", "sez": "AbilitiesLong"}
+{"id": "d9d2e3952e834a4b", "it": "Lentoinizio", "sez": "AbilitiesLong"}
+{"id": "a47824241e533937", "it": "Spalaneve", "sez": "AbilitiesLong"}
+{"id": "306416cf56542d7c", "it": "Mantelneve", "sez": "AbilitiesLong"}
+{"id": "53cc950fac815db9", "it": "Scendineve", "sez": "AbilitiesLong"}
+{"id": "955d821a4930803f", "it": "Solarpotere", "sez": "AbilitiesLong"}
+{"id": "f66b4342583cf57c", "it": "Solidroccia", "sez": "AbilitiesLong"}
+{"id": "64c6d9e45e1a4ddf", "it": "Cuoreanima", "sez": "AbilitiesLong"}
+{"id": "f2e475585ea86d73", "it": "Antisuono", "sez": "AbilitiesLong"}
+{"id": "a18acbc7d17b64a7", "it": "Acceleratore", "sez": "AbilitiesLong"}
+{"id": "81134c3559b1ae55", "it": "Spargipiccante", "sez": "AbilitiesLong"}
+{"id": "eb75d2388d262556", "it": "Sorveglianza", "sez": "AbilitiesLong"}
+{"id": "516bb8e84924a199", "it": "Rallentatore", "sez": "AbilitiesLong"}
+{"id": "a4bfe78ac74ae089", "it": "Volontà di Ferro", "sez": "AbilitiesLong"}
+{"id": "b82236115cc38e82", "it": "Sopportazione", "sez": "AbilitiesLong"}
+{"id": "948c4fae13547b47", "it": "Accendilotta", "sez": "AbilitiesLong"}
+{"id": "af92969a73d6478f", "it": "Statico", "sez": "AbilitiesLong"}
+{"id": "93da20c14ff891d0", "it": "Cuordeciso", "sez": "AbilitiesLong"}
+{"id": "ba11777eebc9f99b", "it": "Vapormacchina", "sez": "AbilitiesLong"}
+{"id": "921a90ed30fb3985", "it": "Tempracciaio", "sez": "AbilitiesLong"}
+{"id": "6a1a50ee4ba7b5df", "it": "Spiritoferreo", "sez": "AbilitiesLong"}
+{"id": "33d55b1702e3348c", "it": "Tanfo", "sez": "AbilitiesLong"}
+{"id": "c43a598063bf7977", "it": "Antifurto", "sez": "AbilitiesLong"}
+{"id": "b3597351e7890c9a", "it": "Acquascolo", "sez": "AbilitiesLong"}
+{"id": "eb36f7ad3691c6a5", "it": "Ferromascella", "sez": "AbilitiesLong"}
+{"id": "04f2d6248388aef1", "it": "Vigore", "sez": "AbilitiesLong"}
+{"id": "8bad12ae353624de", "it": "Supersorte", "sez": "AbilitiesLong"}
+{"id": "a3b6eac16dd51b26", "it": "Sciroppo Sublime", "sez": "AbilitiesLong"}
+{"id": "61bc22127f19494c", "it": "Generale Supremo", "sez": "AbilitiesLong"}
+{"id": "70dbca35e47c3ece", "it": "Codasurf", "sez": "AbilitiesLong"}
+{"id": "5c7e3aec1f9179ce", "it": "Aiutinsetto", "sez": "AbilitiesLong"}
+{"id": "41c7e82cc2252698", "it": "Dolcevelo", "sez": "AbilitiesLong"}
+{"id": "733c7d5343f393ed", "it": "Nuotovelox", "sez": "AbilitiesLong"}
+{"id": "33933691144186d7", "it": "Spada Nefasta", "sez": "AbilitiesLong"}
+{"id": "e8e9ae04ffe7ac1d", "it": "Amuleto Nefasto", "sez": "AbilitiesLong"}
+{"id": "e94a82a9bed8d5ae", "it": "Intricopiedi", "sez": "AbilitiesLong"}
+{"id": "e47fd38264af200f", "it": "Boccolidoro", "sez": "AbilitiesLong"}
+{"id": "0bfbb51b3b3c0cf1", "it": "Teraguscio", "sez": "AbilitiesLong"}
+{"id": "3aeb117a0960e8fd", "it": "Teramorfosi", "sez": "AbilitiesLong"}
+{"id": "4ac8493f490f3ce2", "it": "Zeroformazione", "sez": "AbilitiesLong"}
+{"id": "97b24db70d66ef4a", "it": "Termoscambio", "sez": "AbilitiesLong"}
+{"id": "ca3c53c7910f60a1", "it": "Grassospesso", "sez": "AbilitiesLong"}
+{"id": "90984c03d28e6ec2", "it": "Lentifumé", "sez": "AbilitiesLong"}
+{"id": "4d15a5de84eb354a", "it": "Acquaiuto", "sez": "AbilitiesLong"}
+{"id": "1ea85132b9ba0391", "it": "Unghiedure", "sez": "AbilitiesLong"}
+{"id": "3e9b9bc647ebc04a", "it": "Velenimpeto", "sez": "AbilitiesLong"}
+{"id": "97fca6ddf5cd2094", "it": "Mantossina", "sez": "AbilitiesLong"}
+{"id": "013ec284eed0cb93", "it": "Primacura", "sez": "AbilitiesLong"}
+{"id": "e5587e0f6ac67a20", "it": "Pigrone", "sez": "AbilitiesLong"}
+{"id": "c4bf5f98abc727d3", "it": "Piroturbina", "sez": "AbilitiesLong"}
+{"id": "6ad9fe0f12008f61", "it": "Imprudenza", "sez": "AbilitiesLong"}
+{"id": "0a6b37e8651f8943", "it": "Agiltecnica", "sez": "AbilitiesLong"}
+{"id": "bdc59da52cb8e28c", "it": "Pugni Invisibili", "sez": "AbilitiesLong"}
+{"id": "20156f952325ed53", "it": "Vaso Nefasto", "sez": "AbilitiesLong"}
+{"id": "acdfd772997124a0", "it": "Vittorstella", "sez": "AbilitiesLong"}
+{"id": "1dad103124c6e5f1", "it": "Spiritovivo", "sez": "AbilitiesLong"}
+{"id": "8581d9791f8c8845", "it": "Assorbivolt", "sez": "AbilitiesLong"}
+{"id": "6bd54236634f4497", "it": "Anima Errante", "sez": "AbilitiesLong"}
+{"id": "7fd1f0ed8b89e742", "it": "Assorbacqua", "sez": "AbilitiesLong"}
+{"id": "e0a08c9310da44c9", "it": "Bolladacqua", "sez": "AbilitiesLong"}
+{"id": "9e9a8da55577fbc6", "it": "Idrorinforzo", "sez": "AbilitiesLong"}
+{"id": "bb9a657148c6d252", "it": "Idrovelo", "sez": "AbilitiesLong"}
+{"id": "80992b5748634e60", "it": "Sottilguscio", "sez": "AbilitiesLong"}
+{"id": "0695239664f3f2ae", "it": "Bentostato", "sez": "AbilitiesLong"}
+{"id": "824c43c338d98583", "it": "Fumochiaro", "sez": "AbilitiesLong"}
+{"id": "9cd6157628317d6e", "it": "Fuggifuggi", "sez": "AbilitiesLong"}
+{"id": "c0c480910b6e1576", "it": "Energia Eolica", "sez": "AbilitiesLong"}
+{"id": "b5539c2d0b156ff0", "it": "Vento Propizio", "sez": "AbilitiesLong"}
+{"id": "75be513f9ef9c7b2", "it": "Magidifesa", "sez": "AbilitiesLong"}
+{"id": "67936228b7a3176e", "it": "Splendicute", "sez": "AbilitiesLong"}
+{"id": "4f89e2fc4cbc87d6", "it": "Stato Zen", "sez": "AbilitiesLong"}
+{"id": "38449147edeb0dc8", "it": "Supercambio", "sez": "AbilitiesLong"}
+{"id": "90b06efb2efd364b", "it": "Decisa", "sez": "Natures"}
+{"id": "6e7aabc482fa3adb", "it": "Ritrosa", "sez": "Natures"}
+{"id": "19e07430eed6d97d", "it": "Sicura", "sez": "Natures"}
+{"id": "7930bf9fc20b545a", "it": "Calma", "sez": "Natures"}
+{"id": "a22ffcf91e953179", "it": "Cauta", "sez": "Natures"}
+{"id": "a82a6f7a960cca15", "it": "Ardita", "sez": "Natures"}
+{"id": "06e27642e791a899", "it": "Lesta", "sez": "Natures"}
+{"id": "a7f92120e3a57e67", "it": "Scaltra", "sez": "Natures"}
+{"id": "ddd3bf520430da3b", "it": "Allegra", "sez": "Natures"}
+{"id": "45ce90f4c0274c47", "it": "Fiacca", "sez": "Natures"}
+{"id": "26101223943e5c79", "it": "Schiva", "sez": "Natures"}
+{"id": "254c159afb844c8c", "it": "Modesta", "sez": "Natures"}
+{"id": "90ba804980f0660d", "it": "Ingenua", "sez": "Natures"}
+{"id": "dcce9d69c2097df0", "it": "Birbona", "sez": "Natures"}
+{"id": "fe73d79fdc84acfb", "it": "Quieta", "sez": "Natures"}
+{"id": "735224ad8a84a886", "it": "Furba", "sez": "Natures"}
+{"id": "c3f873fa572938af", "it": "Placida", "sez": "Natures"}
+{"id": "b74a20884816ee05", "it": "Seria", "sez": "Natures"}
+{"id": "83428753675b0d34", "it": "Timida", "sez": "Natures"}

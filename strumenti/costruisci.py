@@ -69,28 +69,36 @@ def carica_traduzioni():
         print("Generalo dalla tua copia di Rejuvenation con:")
         print("    python estrai.py")
         sys.exit(1)
+    # Una stringa puo' avere sia una traduzione valida ovunque sia una diversa
+    # limitata a una sezione: "Thunderbolt" e' la mossa Fulmine fra le mosse, ma
+    # altrove puo' voler dire altro. Le due cose convivono.
+    per_sezione_id = {}
     with open(p, encoding="utf-8") as f:
         for line in f:
             try:
                 o = json.loads(line)
-                per_id[o["id"]] = (o["it"], o.get("sez"))
             except Exception:
-                pass
+                continue
+            if o.get("sez"):
+                per_sezione_id[(o["id"], o["sez"])] = o["it"]
+            else:
+                per_id[o["id"]] = o["it"]
 
     globali, per_sezione = {}, {}
+    inglese_di = {}
     with open(percorsi.DA_TRADURRE, encoding="utf-8") as f:
         for line in f:
             o = json.loads(line)
-            voce = per_id.get(o["id"])
-            if not voce:
-                continue
-            it, sez = voce
-            if not it:
-                continue
-            if sez:
-                per_sezione[(sez, o["en"])] = it
-            else:
+            inglese_di[o["id"]] = o["en"]
+            it = per_id.get(o["id"])
+            if it:
                 globali[o["en"]] = it
+
+    for (ident, sez), it in per_sezione_id.items():
+        en = inglese_di.get(ident)
+        if en and it:
+            per_sezione[(sez, en)] = it
+
     return globali, per_sezione
 
 
