@@ -1,0 +1,22 @@
+# --- Materiale del gioco: non va mai pubblicato -----------------------------
+# da_tradurre.jsonl contiene il copione inglese INTEGRALE di Rejuvenation.
+# E' materiale del team di sviluppo: si rigenera in locale con estrai.py
+# dalla propria copia del gioco, non si redistribuisce.
+lavoro/
+gioco.txt
+
+# --- Artefatti di compilazione ----------------------------------------------
+# Si ricostruisce con costruisci.py e viene pubblicato nelle Release.
+patch/italiano.dat
+*.zip
+
+# --- Python ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Sistema -----------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store

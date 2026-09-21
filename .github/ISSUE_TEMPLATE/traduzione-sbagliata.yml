@@ -1,0 +1,59 @@
+name: 🔤 Traduzione sbagliata
+description: Segnala una frase tradotta male, poco chiara o rimasta in inglese
+title: "[Traduzione] "
+labels: ["traduzione"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie. Su 135.000 righe gli scivoloni ci sono, e chi gioca li vede
+        molto prima di chi ha costruito la patch.
+
+  - type: textarea
+    id: italiano
+    attributes:
+      label: La frase come appare in italiano
+      description: Copiala o descrivila, anche a memoria.
+      placeholder: Quello che leggi nel gioco
+    validations:
+      required: true
+
+  - type: textarea
+    id: inglese
+    attributes:
+      label: La frase originale in inglese
+      description: >
+        Se riesci a recuperarla, aiuta molto: rimetti English dal menu
+        Language e rileggi lo stesso punto. Se non ci riesci, lascia vuoto.
+    validations:
+      required: false
+
+  - type: input
+    id: dove
+    attributes:
+      label: Dove l'hai vista
+      placeholder: Città, edificio, personaggio, momento della storia
+    validations:
+      required: false
+
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Come la tradurresti
+      description: Se hai un'idea migliore, scrivila.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Di che problema si tratta
+      options:
+        - Traduzione sbagliata o fuorviante
+        - Italiano poco naturale
+        - Frase rimasta in inglese
+        - Testo tagliato o fuori dalla finestra
+        - Simboli strani al posto delle lettere accentate
+        - Altro
+    validations:
+      required: true

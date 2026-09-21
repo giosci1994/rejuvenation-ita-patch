@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📘 Guida all'installazione
+    url: https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/docs/INSTALLAZIONE.md
+    about: "La voce Language non compare? Il gioco resta in inglese? Le risposte sono qui, nella sezione «Se qualcosa non va»."
+  - name: 🎮 Il gioco Pokémon Rejuvenation
+    url: https://www.rebornevo.com/
+    about: "Questo repository contiene solo la traduzione. Per il gioco, i suoi bug e il suo supporto rivolgiti al team che lo sviluppa."
+  - name: ⚖️ Diritti e segnalazioni dei titolari
+    url: https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/NOTICE.md
+    about: "Fai parte del team di Rejuvenation o rappresenti un titolare di diritti? Qui trovi come chiedere la rimozione del progetto."

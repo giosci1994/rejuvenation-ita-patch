@@ -1,0 +1,16 @@
+# Normalizza i fine riga nel repository, lasciando a ogni sistema i suoi in locale.
+* text=auto eol=lf
+
+# Script Windows: CRLF, altrimenti PowerShell puo' storcere il naso.
+*.ps1 text eol=crlf
+
+# Script Ruby letti dal gioco: LF, come il resto dei suoi file.
+*.rb text eol=lf
+
+# La traduzione e' UTF-8 e non va toccata dalle conversioni.
+*.jsonl text eol=lf working-tree-encoding=UTF-8
+
+# Binari
+*.dat binary
+*.zip binary
+*.png binary

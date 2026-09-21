@@ -1,0 +1,75 @@
+{
+  "_nota": "Terminologia ufficiale italiana dei giochi Pokémon. Usata nel prompt di traduzione. I nomi dei Pokémon restano invariati. I font pkmn* del gioco disegnano tutte le lettere accentate: qui si usano gli accenti veri, non le forme con apostrofo.",
+
+  "tipi": {
+    "Normal": "Normale", "Fire": "Fuoco", "Water": "Acqua", "Electric": "Elettro",
+    "Grass": "Erba", "Ice": "Ghiaccio", "Fighting": "Lotta", "Poison": "Veleno",
+    "Ground": "Terra", "Flying": "Volante", "Psychic": "Psico", "Bug": "Coleottero",
+    "Rock": "Roccia", "Ghost": "Spettro", "Dragon": "Drago", "Dark": "Buio",
+    "Steel": "Acciaio", "Fairy": "Folletto"
+  },
+
+  "nature": {
+    "Hardy": "Ardito", "Lonely": "Solitario", "Brave": "Audace", "Adamant": "Deciso",
+    "Naughty": "Birbone", "Bold": "Sicuro", "Docile": "Docile", "Relaxed": "Placido",
+    "Impish": "Scaltro", "Lax": "Fiacco", "Timid": "Timido", "Hasty": "Lesto",
+    "Serious": "Serio", "Jolly": "Allegro", "Naive": "Ingenuo", "Modest": "Modesto",
+    "Mild": "Mite", "Quiet": "Quieto", "Bashful": "Ritroso", "Rash": "Ardente",
+    "Calm": "Calmo", "Gentle": "Gentile", "Sassy": "Vivace", "Careful": "Cauto",
+    "Quirky": "Furbo"
+  },
+
+  "statistiche": {
+    "HP": "PS", "Attack": "Attacco", "Defense": "Difesa",
+    "Sp. Atk": "Att. Sp.", "Sp. Def": "Dif. Sp.", "Special Attack": "Attacco Speciale",
+    "Special Defense": "Difesa Speciale", "Speed": "Velocità", "PP": "PP",
+    "Level": "Livello", "Exp. Points": "Punti Esperienza", "EV": "PA", "IV": "IV"
+  },
+
+  "interfaccia": {
+    "Bag": "Zaino", "Party": "Squadra", "Box": "Box", "Pokedex": "Pokédex",
+    "Move": "Mossa", "Moves": "Mosse", "Ability": "Abilità", "Item": "Strumento",
+    "Items": "Strumenti", "Berry": "Bacca", "Nature": "Natura", "Egg": "Uovo",
+    "Evolution": "Evoluzione", "Badge": "Medaglia", "Gym": "Palestra",
+    "Gym Leader": "Capopalestra", "Trainer": "Allenatore", "Champion": "Campione",
+    "Elite Four": "Superquattro", "Rival": "Rivale", "Professor": "Professore",
+    "Pokemon Center": "Centro Pokémon", "Poke Mart": "Poké Market",
+    "Day Care": "Pensione", "Save": "Salva", "Load": "Carica", "Options": "Opzioni",
+    "New Game": "Nuova Partita", "Continue": "Continua", "Yes": "Sì", "No": "No",
+    "Run": "Fuga", "Fight": "Lotta", "Switch": "Cambia", "Summary": "Riepilogo",
+    "Use": "Usa", "Give": "Dai", "Take": "Prendi", "Cancel": "Annulla",
+    "TM": "MT", "HM": "MN", "Shiny": "Cromatico", "Wild": "Selvatico",
+    "Quest": "Missione", "Quests": "Missioni", "Field Effect": "Campo di Lotta"
+  },
+
+  "stati": {
+    "Paralysis": "Paralisi", "paralyzed": "paralizzato", "Burn": "Scottatura",
+    "burned": "scottato", "Freeze": "Congelamento", "frozen": "congelato",
+    "Sleep": "Sonno", "asleep": "addormentato", "Poison": "Avvelenamento",
+    "poisoned": "avvelenato", "Confusion": "Confusione", "confused": "confuso",
+    "Flinch": "Tentennamento", "fainted": "esausto"
+  },
+
+  "lotta": {
+    "It's super effective!": "È superefficace!",
+    "It's not very effective...": "Non è molto efficace...",
+    "critical hit": "brutto colpo",
+    "A critical hit!": "Brutto colpo!",
+    "It doesn't affect": "Non ha effetto su",
+    "fainted!": "è esausto!",
+    "Gotcha!": "Preso!",
+    "level up": "sale di livello"
+  },
+
+  "font_senza_accenti": [
+    "Cute Notes", "Nym", "PKMN RBYGSC", "Garufan", "8-bit HUD"
+  ],
+
+  "regole": [
+    "I nomi dei Pokémon restano invariati (Bulbasaur, Charizard, ...).",
+    "I nomi propri di persone e luoghi restano invariati (Amber, Melia, Gearen City, ...).",
+    "Dare del tu, registro colloquiale come nei giochi Pokémon ufficiali italiani.",
+    "Mantenere il tono del personaggio: sarcasmo, slang e parolacce vanno resi, non addolciti.",
+    "Usare le lettere accentate vere: è, à, ì, ò, ù, é. Mai le forme con apostrofo."
+  ]
+}
