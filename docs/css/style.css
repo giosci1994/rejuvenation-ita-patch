@@ -29,6 +29,26 @@
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 
+/* --- selettore di lingua -------------------------------------------------
+   Ogni blocco di testo esiste due volte, marcato con lang="it" o lang="en".
+   Si mostra solo quello della lingua scelta. Senza JavaScript resta
+   l'italiano, perche' data-lang e' gia' scritto nell'HTML. */
+html[data-lang="it"] [lang="en"] { display: none !important; }
+html[data-lang="en"] [lang="it"] { display: none !important; }
+
+.lingue {
+  display: inline-flex; border: 1px solid var(--border);
+  border-radius: 999px; overflow: hidden; background: var(--panel);
+}
+.lingue button {
+  appearance: none; border: 0; background: none; cursor: pointer;
+  font-family: var(--font-mono); font-size: .74rem; font-weight: 600;
+  letter-spacing: .06em; color: var(--dim);
+  padding: 7px 13px; transition: .16s ease;
+}
+.lingue button:hover { color: var(--text); }
+.lingue button[aria-pressed="true"] { background: var(--brand); color: #04120d; }
+
 body {
   margin: 0;
   background: var(--bg);

@@ -1,17 +1,31 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="it" data-lang="it">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Rejuvenation ITA Patch — Pokémon Rejuvenation in italiano</title>
 
-<meta name="description" content="Traduzione amatoriale italiana di Pokémon Rejuvenation: dialoghi, interfaccia, mosse e Pokédex. Gratuita, per Windows, Android, iOS, Linux e macOS." />
+<meta name="description" content="Traduzione amatoriale italiana di Pokémon Rejuvenation: dialoghi, interfaccia, mosse e Pokédex. Gratuita, per Windows, Android, iOS, Linux e macOS. / Free Italian fan translation of Pokémon Rejuvenation." />
 <meta property="og:title" content="Rejuvenation ITA Patch" />
 <meta property="og:description" content="Pokémon Rejuvenation in italiano. Una cartella da copiare, una voce da selezionare, e la storia si legge." />
 <meta property="og:image" content="https://giosci1994.github.io/rejuvenation-ita-patch/social-preview.png" />
 <meta property="og:url" content="https://giosci1994.github.io/rejuvenation-ita-patch/" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
+
+<!-- Si applica la lingua prima del disegno, per non far comparire i due testi insieme. -->
+<script>
+  (function () {
+    try {
+      var s = localStorage.getItem('lingua');
+      if (s !== 'it' && s !== 'en') {
+        s = (navigator.language || 'it').toLowerCase().indexOf('it') === 0 ? 'it' : 'en';
+      }
+      document.documentElement.setAttribute('data-lang', s);
+      document.documentElement.setAttribute('lang', s);
+    } catch (e) { /* resta l'italiano scritto nell'HTML */ }
+  })();
+</script>
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -24,11 +38,19 @@
   <div class="nav-inner">
     <a class="brand" href="#top">🇮🇹 Rejuvenation <span>ITA</span></a>
     <nav class="nav-links">
-      <a href="#cosa">Cosa traduce</a>
-      <a href="#schermate">Schermate</a>
-      <a href="#installazione">Installazione</a>
+      <a href="#cosa" lang="it">Cosa traduce</a>
+      <a href="#cosa" lang="en">What it covers</a>
+      <a href="#schermate" lang="it">Schermate</a>
+      <a href="#schermate" lang="en">Screenshots</a>
+      <a href="#installazione" lang="it">Installazione</a>
+      <a href="#installazione" lang="en">Install</a>
       <a href="https://github.com/giosci1994/rejuvenation-ita-patch">GitHub</a>
-      <a class="btn btn-primary" href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest">Scarica</a>
+      <div class="lingue" role="group" aria-label="Lingua / Language">
+        <button type="button" data-imposta="it" aria-pressed="true">IT</button>
+        <button type="button" data-imposta="en" aria-pressed="false">EN</button>
+      </div>
+      <a class="btn btn-primary" href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest" lang="it">Scarica</a>
+      <a class="btn btn-primary" href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest" lang="en">Download</a>
     </nav>
   </div>
 </header>
@@ -37,67 +59,119 @@
 
   <section class="hero">
     <div class="container">
-      <p class="eyebrow">Traduzione amatoriale</p>
-      <h1>Pokémon Rejuvenation<br />in <em>italiano</em></h1>
-      <p class="lead">
+      <p class="eyebrow" lang="it">Traduzione amatoriale</p>
+      <p class="eyebrow" lang="en">Unofficial fan translation</p>
+
+      <h1 lang="it">Pokémon Rejuvenation<br />in <em>italiano</em></h1>
+      <h1 lang="en">Pokémon Rejuvenation<br />in <em>Italian</em></h1>
+
+      <p class="lead" lang="it">
         Una cartella da copiare, una voce da selezionare, e la storia si legge.
         Dialoghi, interfaccia, mosse, strumenti e Pokédex: tutto tradotto,
         senza toccare un solo file del gioco.
       </p>
+      <p class="lead" lang="en">
+        Copy one folder, pick one menu entry, and the story reads.
+        Dialogue, interface, moves, items and Pokédex — all translated,
+        without changing a single file of the game.
+      </p>
+
       <div class="actions">
-        <a class="btn btn-primary" href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest">
+        <a class="btn btn-primary" href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest" lang="it">
           Scarica la patch <span data-versione>ultima versione</span>
         </a>
-        <a class="btn btn-ghost" href="#installazione">Come si installa</a>
+        <a class="btn btn-primary" href="https://github.com/giosci1994/rejuvenation-ita-patch/releases/latest" lang="en">
+          Download the patch <span data-versione>latest release</span>
+        </a>
+        <a class="btn btn-ghost" href="#installazione" lang="it">Come si installa</a>
+        <a class="btn btn-ghost" href="#installazione" lang="en">How to install</a>
       </div>
+
       <img class="hero-shot" src="social-preview.png" alt="Il gioco tradotto in italiano: menu, opzioni e dialoghi" />
 
       <div class="stats">
-        <div class="stat"><b>99,9%</b><span>del testo tradotto</span></div>
-        <div class="stat"><b>135.033</b><span>stringhe</span></div>
-        <div class="stat"><b>5</b><span>piattaforme</span></div>
-        <div class="stat"><b>0 €</b><span>ora e sempre</span></div>
+        <div class="stat">
+          <b lang="it">99,9%</b>
+          <b lang="en">99.9%</b>
+          <span lang="it">del testo tradotto</span>
+          <span lang="en">of the game's text</span>
+        </div>
+        <div class="stat">
+          <b lang="it">135.033</b>
+          <b lang="en">135,033</b>
+          <span lang="it">stringhe</span>
+          <span lang="en">strings</span>
+        </div>
+        <div class="stat">
+          <b>5</b>
+          <span lang="it">piattaforme</span>
+          <span lang="en">platforms</span>
+        </div>
+        <div class="stat">
+          <b>0 €</b>
+          <span lang="it">ora e sempre</span>
+          <span lang="en">now and always</span>
+        </div>
       </div>
     </div>
   </section>
 
   <section class="section" id="cosa">
     <div class="container">
-      <h2>Cosa trovi tradotto</h2>
-      <p class="sub">
+      <h2 lang="it">Cosa trovi tradotto</h2>
+      <h2 lang="en">What you'll find translated</h2>
+
+      <p class="sub" lang="it">
         I nomi dei Pokémon e i nomi propri di persone e luoghi restano invariati,
         come nelle edizioni italiane ufficiali.
       </p>
+      <p class="sub" lang="en">
+        Pokémon names and proper nouns are left untouched, as in the official
+        Italian games.
+      </p>
+
       <div class="grid">
         <div class="card">
           <span class="ico">💬</span>
-          <h3>Dialoghi e narrativa</h3>
-          <p>L'intera trama, cutscene comprese. È la parte per cui esiste questo progetto.</p>
+          <h3 lang="it">Dialoghi e narrativa</h3>
+          <h3 lang="en">Dialogue and story</h3>
+          <p lang="it">L'intera trama, cutscene comprese. È la parte per cui esiste questo progetto.</p>
+          <p lang="en">The whole plot, cutscenes included. It's the reason this project exists.</p>
         </div>
         <div class="card">
           <span class="ico">🎒</span>
-          <h3>Interfaccia</h3>
-          <p>Menu, zaino, squadra, opzioni e messaggi di lotta.</p>
+          <h3 lang="it">Interfaccia</h3>
+          <h3 lang="en">Interface</h3>
+          <p lang="it">Menu, zaino, squadra, opzioni e messaggi di lotta.</p>
+          <p lang="en">Menus, bag, party, options and battle messages.</p>
         </div>
         <div class="card">
           <span class="ico">⚔️</span>
-          <h3>Terminologia ufficiale</h3>
-          <p>Mosse, strumenti, abilità, tipi e nature con i nomi delle edizioni italiane: Lanciafiamme, Geloraggio, Mangiasogni.</p>
+          <h3 lang="it">Terminologia ufficiale</h3>
+          <h3 lang="en">Official terminology</h3>
+          <p lang="it">Mosse, strumenti, abilità, tipi e nature con i nomi delle edizioni italiane: Lanciafiamme, Geloraggio, Mangiasogni.</p>
+          <p lang="en">Moves, items, abilities, types and natures use the names from the licensed Italian games.</p>
         </div>
         <div class="card">
           <span class="ico">📖</span>
-          <h3>Pokédex e missioni</h3>
-          <p>Voci del Pokédex, descrizioni degli strumenti e testi delle missioni.</p>
+          <h3 lang="it">Pokédex e missioni</h3>
+          <h3 lang="en">Pokédex and quests</h3>
+          <p lang="it">Voci del Pokédex, descrizioni degli strumenti e testi delle missioni.</p>
+          <p lang="en">Pokédex entries, item descriptions and quest text.</p>
         </div>
         <div class="card">
           <span class="ico">♀♂</span>
-          <h3>Si adatta a chi sei</h3>
-          <p>All'inizio scegli fra uomo, donna e non binario: oltre mille frasi si accordano alla tua scelta invece di restare al maschile.</p>
+          <h3 lang="it">Si adatta a chi sei</h3>
+          <h3 lang="en">It adapts to you</h3>
+          <p lang="it">All'inizio scegli fra uomo, donna e non binario: oltre mille frasi si accordano alla tua scelta invece di restare al maschile.</p>
+          <p lang="en">Italian inflects for gender, and English has one line for all three starting options. Over a thousand lines now agree with what you picked.</p>
         </div>
         <div class="card">
           <span class="ico">🛟</span>
-          <h3>Non può rompere niente</h3>
-          <p>Nessun file originale viene modificato, i salvataggi non si toccano e una frase non tradotta ricade sull'inglese.</p>
+          <h3 lang="it">Non può rompere niente</h3>
+          <h3 lang="en">It can't break anything</h3>
+          <p lang="it">Nessun file originale viene modificato, i salvataggi non si toccano e una frase non tradotta ricade sull'inglese.</p>
+          <p lang="en">No original file is modified, saves are never touched, and any untranslated line falls back to English.</p>
         </div>
       </div>
     </div>
@@ -105,24 +179,31 @@
 
   <section class="section" id="schermate">
     <div class="container">
-      <h2>Schermate</h2>
-      <p class="sub">Catture dal gioco con la patch installata.</p>
+      <h2 lang="it">Schermate</h2>
+      <h2 lang="en">Screenshots</h2>
+      <p class="sub" lang="it">Catture dal gioco con la patch installata.</p>
+      <p class="sub" lang="en">Captured in game with the patch installed.</p>
+
       <div class="shots">
         <figure class="shot">
           <img src="screenshots/scena_ita.png" alt="Una scena di dialogo tradotta in italiano" loading="lazy" />
-          <figcaption>I dialoghi della storia</figcaption>
+          <figcaption lang="it">I dialoghi della storia</figcaption>
+          <figcaption lang="en">Story dialogue</figcaption>
         </figure>
         <figure class="shot">
           <img src="screenshots/menu_iniziale.png" alt="Il menu principale del gioco in italiano" loading="lazy" />
-          <figcaption>Il menu principale, voce Lingua compresa</figcaption>
+          <figcaption lang="it">Il menu principale, voce Lingua compresa</figcaption>
+          <figcaption lang="en">The main menu, language entry included</figcaption>
         </figure>
         <figure class="shot">
           <img src="screenshots/impostazioni.png" alt="La schermata delle opzioni tradotta" loading="lazy" />
-          <figcaption>Le opzioni, testo di aiuto incluso</figcaption>
+          <figcaption lang="it">Le opzioni, testo di aiuto incluso</figcaption>
+          <figcaption lang="en">Options, help text included</figcaption>
         </figure>
         <figure class="shot">
           <img src="screenshots/selettore_lingua.png" alt="Il selettore della lingua fra English e Italiano" loading="lazy" />
-          <figcaption>Si passa da una lingua all'altra quando vuoi</figcaption>
+          <figcaption lang="it">Si passa da una lingua all'altra quando vuoi</figcaption>
+          <figcaption lang="en">Switch back whenever you like</figcaption>
         </figure>
       </div>
     </div>
@@ -130,42 +211,64 @@
 
   <section class="section" id="installazione">
     <div class="container">
-      <h2>Installazione</h2>
-      <p class="sub">
+      <h2 lang="it">Installazione</h2>
+      <h2 lang="en">Install</h2>
+
+      <p class="sub" lang="it">
         Ti serve una copia di Pokémon Rejuvenation già installata. Non la trovi
         qui e non viene distribuita: scaricala dal sito del suo team di sviluppo.
+      </p>
+      <p class="sub" lang="en">
+        You need your own copy of Pokémon Rejuvenation. It is not hosted or
+        distributed here — get it from its development team's own site.
       </p>
 
       <div class="steps">
         <div class="step">
           <h3>🪟 Windows</h3>
-          <ol>
+          <ol lang="it">
             <li>Scarica e <strong>estrai</strong> lo zip (non aprirlo soltanto)</li>
             <li>Tasto destro su <code>installa.ps1</code> → <em>Esegui con PowerShell</em></li>
             <li>L'installer cerca il gioco da solo; se non lo trova, trascinaci dentro la cartella</li>
+          </ol>
+          <ol lang="en">
+            <li>Download and <strong>extract</strong> the zip (don't just open it)</li>
+            <li>Right-click <code>installa.ps1</code> → <em>Run with PowerShell</em></li>
+            <li>It finds the game on its own; if it can't, drag the folder into the window</li>
           </ol>
         </div>
 
         <div class="step">
           <h3>📱 Android · 🍏 iOS · 🐧 Linux · 🍎 macOS</h3>
-          <ol>
+          <ol lang="it">
             <li>Estrai lo zip</li>
             <li>Copia la cartella <code>patch</code> dentro la cartella del gioco, quella che contiene <code>Data</code> e <code>Graphics</code></li>
             <li>Se esiste già una cartella <code>patch</code>, uniscila invece di sostituirla</li>
           </ol>
+          <ol lang="en">
+            <li>Extract the zip</li>
+            <li>Copy the <code>patch</code> folder into the game folder — the one holding <code>Data</code> and <code>Graphics</code></li>
+            <li>If a <code>patch</code> folder already exists, merge instead of replacing it</li>
+          </ol>
         </div>
 
         <div class="step">
-          <h3>▶️ Poi, in tutti i casi</h3>
-          <ol>
+          <h3 lang="it">▶️ Poi, in tutti i casi</h3>
+          <h3 lang="en">▶️ Then, on every platform</h3>
+          <ol lang="it">
             <li>Avvia il gioco</li>
             <li>Dal menu principale scegli <strong>Language → Italiano</strong>, in fondo sotto <em>Controls</em></li>
             <li>La scelta viene ricordata: non devi rifarla a ogni avvio</li>
           </ol>
+          <ol lang="en">
+            <li>Launch the game</li>
+            <li>In the main menu pick <strong>Language → Italiano</strong>, at the bottom under <em>Controls</em></li>
+            <li>The choice is remembered, so you only do this once</li>
+          </ol>
         </div>
       </div>
 
-      <div class="nota">
+      <div class="nota" lang="it">
         <strong>Sul telefono non servono percorsi speciali né permessi di root.</strong>
         Il gioco legge i propri file dalla cartella in cui si trova, su Android e iOS
         come su computer. L'unica difficoltà è capire dove sia quella cartella, e c'è
@@ -176,24 +279,48 @@
         Guida completa, con JoiPlay, Kirin, Empo e RPG Player:
         <a href="https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/docs/INSTALLAZIONE.md">INSTALLAZIONE.md</a>
       </div>
+      <div class="nota" lang="en">
+        <strong>On phones there are no special paths and no root needed.</strong>
+        The game reads its files from its own folder on Android and iOS exactly as
+        it does on desktop. The only hard part is finding that folder, and there's a
+        foolproof way: once you've played at least once, it's the only one holding
+        <code>Data</code>, <code>Graphics</code> and <code>Save Data</code> together.
+        <br /><br />
+        Full guide covering JoiPlay, Kirin, Empo and RPG Player (written in Italian):
+        <a href="https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/docs/INSTALLAZIONE.md">INSTALLAZIONE.md</a>
+      </div>
 
-      <div class="nota">
+      <div class="nota" lang="it">
         <strong>Per disinstallarla</strong> scegli <em>English</em> nel menu delle lingue,
         oppure esegui <code>installa.ps1 -Rimuovi</code>. Nessun file originale del gioco
         viene mai modificato, quindi non c'è nulla da ripristinare.
+      </div>
+      <div class="nota" lang="en">
+        <strong>To uninstall</strong>, pick <em>English</em> in the language menu, or run
+        <code>installa.ps1 -Rimuovi</code>. No original game file is ever modified, so
+        there is nothing to restore.
       </div>
     </div>
   </section>
 
   <section class="section" id="segnala">
     <div class="container">
-      <h2>Hai trovato una frase sbagliata?</h2>
-      <p class="sub">
+      <h2 lang="it">Hai trovato una frase sbagliata?</h2>
+      <h2 lang="en">Found a line that reads wrong?</h2>
+
+      <p class="sub" lang="it">
         Su 135.000 righe qualche scivolone c'è di sicuro, e chi gioca lo nota molto
         prima di chi ha costruito la patch. Segnalarlo è la cosa più utile che puoi fare:
         le correzioni più importanti pubblicate finora sono arrivate così.
       </p>
-      <a class="btn btn-ghost" href="https://github.com/giosci1994/rejuvenation-ita-patch/issues/new/choose">Segnala una traduzione</a>
+      <p class="sub" lang="en">
+        Across 135,000 lines there are bound to be slips, and players spot them long
+        before whoever built the patch does. Reporting one is the most useful thing you
+        can do — the most important fixes released so far came in exactly that way.
+      </p>
+
+      <a class="btn btn-ghost" href="https://github.com/giosci1994/rejuvenation-ita-patch/issues/new/choose" lang="it">Segnala una traduzione</a>
+      <a class="btn btn-ghost" href="https://github.com/giosci1994/rejuvenation-ita-patch/issues/new/choose" lang="en">Report a translation</a>
     </div>
   </section>
 
@@ -201,21 +328,37 @@
 
 <footer class="footer">
   <div class="container">
-    <p>
+    <p lang="it">
       Progetto amatoriale e gratuito, <strong>non affiliato</strong> a Nintendo,
       Game Freak, Creatures Inc., The Pokémon Company né al team di Rejuvenation.
       Non contiene il gioco, né sue risorse, né il copione originale: solo la
       traduzione italiana e gli strumenti per generarla, seguendo la guida alla
       traduzione che il team di Rejuvenation distribuisce dentro il gioco stesso.
     </p>
-    <p>
+    <p lang="en">
+      A free fan project, <strong>not affiliated</strong> with Nintendo, Game Freak,
+      Creatures Inc., The Pokémon Company or the Rejuvenation team. It contains no
+      game files, no assets and not the original script — only the Italian
+      translation and the tools that produce it, following the translation guide the
+      Rejuvenation team ships inside the game itself.
+    </p>
+
+    <p lang="it">
       Il merito del gioco, della storia e di ogni personaggio è del team di
       Pokémon Rejuvenation. Pokémon è un marchio di Nintendo, Creatures Inc. e Game Freak.
     </p>
+    <p lang="en">
+      All credit for the game, its story and its characters goes to the Pokémon
+      Rejuvenation team. Pokémon is a trademark of Nintendo, Creatures Inc. and Game Freak.
+    </p>
+
     <p>
-      <a href="https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/NOTICE.md">Diritti e attribuzioni</a> ·
-      <a href="https://github.com/giosci1994/rejuvenation-ita-patch">Repository</a> ·
-      Traduzione a cura di <a href="https://github.com/giosci1994">@giosci1994</a>
+      <a href="https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/NOTICE.md" lang="it">Diritti e attribuzioni</a>
+      <a href="https://github.com/giosci1994/rejuvenation-ita-patch/blob/main/NOTICE.md" lang="en">Rights and attribution</a> ·
+      <a href="https://github.com/giosci1994/rejuvenation-ita-patch" lang="it">Repository</a>
+      <a href="https://github.com/giosci1994/rejuvenation-ita-patch" lang="en">Source</a> ·
+      <span lang="it">Traduzione a cura di</span><span lang="en">Translated by</span>
+      <a href="https://github.com/giosci1994">@giosci1994</a>
     </p>
   </div>
 </footer>
