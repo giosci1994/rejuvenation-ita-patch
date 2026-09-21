@@ -61,8 +61,21 @@ lasciali dove sono e aggiungi quelli mancanti.
 REGOLE ASSOLUTE
 1. Non cambiare NIENT'ALTRO. Nemmeno una virgola, un accento o uno spazio. \
 L'unica modifica ammessa e' inserire \\gg[..|..] al posto della desinenza.
-2. Metti il codice al posto della sola desinenza che cambia, non dell'intera \
-parola: "pront\\gg[o|a]", non "\\gg[pronto|pronta]".
+2. Quando cambia solo la desinenza, marca SOLO quella: "pront\\gg[o|a]", non \
+"\\gg[pronto|pronta]".
+2bis. Quando invece la parola cambia del tutto, marcala INTERA, INSIEME \
+all'articolo o alla preposizione che la precede, e aggiungi una terza forma \
+neutra, perche' li' l'asterisco non avrebbe senso:
+  "Sei stato un padre per me"
+  diventa
+  "Sei stat\\gg[o|a] \\gg[un padre|una madre|un genitore] per me"
+Dentro le parentesi ci va tutto cio' che cambia: "un padre" e "una madre" \
+hanno articoli diversi, e scrivere "un \\gg[padre|madre]" produrrebbe "un \
+madre". Lo stesso per "del/della", "al/alla", "quel/quella", "bravo/brava".
+Vale per i nomi che si riferiscono a chi gioca: padre/madre/genitore, \
+fratello/sorella, figlio/figlia, ragazzo/ragazza, amico/amica, \
+signore/signora, eroe/eroina, campione/campionessa.
+Se una forma neutra naturale non esiste, usa la maschile come terza.
 3. Se la frase NON si rivolge al giocatore, o se la parola non si accorda con \
 lui, riporta la frase IDENTICA, senza toccarla. Molte frasi sono dialoghi fra \
 altri personaggi: quelle vanno lasciate stare.
