@@ -50,10 +50,16 @@ if (Test-Path $Zip) { Remove-Item $Zip -Force }
 Compress-Archive -Path (Join-Path $Staging '*') -DestinationPath $Zip -CompressionLevel Optimal
 Remove-Item $Staging -Recurse -Force
 
+# SHA256SUMS.txt accanto allo zip: chi scarica puo' controllare che sia quello originale.
+$Somme = Join-Path $Radice 'SHA256SUMS.txt'
+'{0}  {1}' -f (Get-FileHash $Zip -Algorithm SHA256).Hash.ToLowerInvariant(), (Split-Path $Zip -Leaf) |
+    Set-Content -Path $Somme -Encoding ascii
+
 $mb = [math]::Round((Get-Item $Zip).Length / 1MB, 1)
 Write-Host ''
 Write-Host "Pacchetto pronto: $Zip  ($mb MB)" -ForegroundColor Green
+Get-Content $Somme
 Write-Host ''
 Write-Host 'Per pubblicarlo:' -ForegroundColor White
-Write-Host "    gh release create v$Versione `"$Zip`" --title `"v$Versione`" --notes-file NOTE_RELEASE.md" -ForegroundColor Cyan
+Write-Host "    gh release create v$Versione `"$Zip`" `"$Somme`" --title `"v$Versione`" --notes-file NOTE_RELEASE.md" -ForegroundColor Cyan
 Write-Host ''

@@ -74,6 +74,8 @@ Passo 3 'Preparo il pacchetto'
 & "$PSScriptRoot\crea_pacchetto.ps1" -Versione $Versione
 $zip = "rejuvenation-ita-patch-v$Versione.zip"
 if (-not (Test-Path $zip)) { Fermati 'Il pacchetto non e'' stato creato.' }
+$somme = 'SHA256SUMS.txt'
+if (-not (Test-Path $somme)) { Fermati 'Manca SHA256SUMS.txt accanto al pacchetto.' }
 
 if ($SoloLocale) {
     Write-Host ''
@@ -87,7 +89,7 @@ $daCaricare = git status --porcelain -- dati/ patch/Init patch/Mods
 Write-Host ''
 Write-Host 'Sto per pubblicare:' -ForegroundColor Yellow
 Write-Host "  tag      : $tag"
-Write-Host "  pacchetto: $zip ($([math]::Round((Get-Item $zip).Length/1MB,1)) MB)"
+Write-Host "  pacchetto: $zip ($([math]::Round((Get-Item $zip).Length/1MB,1)) MB) + $somme"
 if ($daCaricare) {
     Write-Host '  modifiche da caricare:'
     $daCaricare | ForEach-Object { Write-Host "     $_" }
@@ -113,15 +115,16 @@ if ($daCaricare) {
 # --- 6. release --------------------------------------------------------------
 Passo 6 'Creo la Release'
 if ($Note -and (Test-Path $Note)) {
-    gh release create $tag $zip --title "$tag" --notes-file $Note
+    gh release create $tag $zip $somme --title "$tag" --notes-file $Note
 } else {
     $auto = "Aggiornamento della traduzione italiana di Pokemon Rejuvenation.`n`n" +
             "Estrai lo zip ed esegui ``installa.ps1`` su Windows, oppure copia la " +
             "cartella ``patch`` nella cartella del gioco su Android, iOS, Linux e macOS.`n`n" +
             "Poi: **Language -> Italiano** dal menu principale.`n`n" +
+            "Per controllare lo zip: ``Get-FileHash`` (SHA256) e confronta con ``SHA256SUMS.txt``.`n`n" +
             "Se avevi gia' una versione precedente, sovrascrivi i tre file: " +
             "i salvataggi non vengono toccati."
-    gh release create $tag $zip --title "$tag" --notes $auto
+    gh release create $tag $zip $somme --title "$tag" --notes $auto
 }
 if ($LASTEXITCODE -ne 0) { Fermati 'La creazione della Release e'' fallita.' }
 
